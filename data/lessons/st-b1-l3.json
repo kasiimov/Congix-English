@@ -1,0 +1,131 @@
+{
+  "id": "st-b1-l3",
+  "level": "Starter",
+  "block": "st-b1",
+  "title": "Ingliz tillarida anglatilishi",
+  "can_do": "Ingliz harflarining ismini to'g'ri o'qish va ularning farqini bilish",
+  "why": "Harflarning nomlari faqat shu tillar uchun ishlatiladi, bir inchala farq yo'q",
+  "rule": {
+    "title": "Harflarning talaffuzi",
+    "points": [
+      {
+        "text": "Har bir harfning nomi va tovushi o'rtasidagi farq: misol uchun A — /eɪ/ nom, apple — /ˈæpəl/ tovush.",
+        "examples": [
+          {"en": "C — /siː/ nom, cat — /kæt/ tovush", "uz": "C — /siː/ nom, cat — /kæt/ tovush"},
+          {"en": "G — /dʒiː/ nom, go — /gəʊ/ tovush", "uz": "G — /dʒiː/ nom, go — /gəʊ/ tovush"}
+        ]
+      },
+      {
+        "text": "C — /siː/, c — /siː/, D — /diː/, d — /diː/, E — /iː/, F — /ef/, G — /dʒiː/, H — /eɪtʃ/, J — /dʒeɪ/, K — /keɪ/, L — /el/, M — /em/, N — /en/, P — /piː/, Q — /kjuː/, R — /ɑː/, S — /es/, T — /tiː/, V — /viː/, W — /ˈdʌbəljuː/, X — /eks/, Y — /waɪ/, Z — /ziː/ yoki /zed/.",
+        "examples": [
+          {"en": "F — /ef/, fish — /fɪʃ/", "uz": "F — /ef/, fish — /fɪʃ/"},
+          {"en": "M — /em/, man — /mæn/", "uz": "M — /em/, man — /mæn/"},
+          {"en": "S — /es/, sun — /sʌn/", "uz": "S — /es/, sun — /sʌn/"}
+        ]
+      },
+      {
+        "text": "C — /siː/ (nom), /k/ yoki /s/ (tovush), G — /dʒiː/ (nom), /g/ yoki /dʒ/ (tovush), Z — /ziː/ yoki /zed/ (nom), tovushi /ks/ yoki /gz/.",
+        "examples": [
+          {"en": "cat — /k/, city — /s/", "uz": "cat — /k/, city — /s/"},
+          {"en": "go — /g/, giraffe — /dʒ/", "uz": "go — /g/, giraffe — /dʒ/"}
+        ]
+      },
+      {
+        "text": "V — /viː/, w — /ˈdʌbəljuː/, y — /waɪ/, z — /ziː/. Shu tarzda boshqa tillarda ham nomi o'zi o'zaro farq qilinadi.",
+        "examples": [
+          {"en": "van — /v/, water — /w/, yes — /j/", "uz": "van — /v/, water — /w/, yes — /j/"},
+          {"en": "v — /viː/ (nom), van — /v/ (tovush)", "uz": "v — /viː/ (nom), van — /v/ (tovush)"}
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Harf", "Nom", "Tovushi", "Misol"],
+      "rows": [
+        ["A a", "/eɪ/", "/æ/ yoki /ə/", "apple"],
+        ["B b", "/biː/", "/b/", "book"],
+        ["C c", "/siː/", "/k/ yoki /s/", "cat"],
+        ["D d", "/diː/", "/d/", "dog"],
+        ["F f", "/ef/", "/f/", "fish"],
+        ["G g", "/dʒiː/", "/g/ yoki /dʒ/", "go"],
+        ["H h", "/eɪtʃ/", "/h/", "house"],
+        ["J j", "/dʒeɪ/", "/dʒ/", "jump"],
+        ["K k", "/keɪ/", "/k/", "kite"],
+        ["L l", "/el/", "/l/", "lion"],
+        ["M m", "/em/", "/m/", "man"],
+        ["N n", "/en/", "/n/", "nose"],
+        ["P p", "/piː/", "/p/", "pen"],
+        ["Q q", "/kjuː/", "/kw/", "queen"],
+        ["R r", "/ɑː/", "/r/", "red"],
+        ["S s", "/es/", "/s/ yoki /z/", "sun"],
+        ["T t", "/tiː/", "/t/", "tea"],
+        ["V v", "/viː/", "/v/", "van"],
+        ["W w", "/ˈdʌbəljuː/", "/w/", "water"],
+        ["X x", "/eks/", "/ks/ yoki /gz/", "box"],
+        ["Y y", "/waɪ/", "/j/ yoki /aɪ/", "yes"],
+        ["Z z", "/ziː/ yoki zed", "/z/", "zoo"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "C — /k/ emas, /s/",
+      "right": "C — /k/ yoki /s/; city — /s/, cent — /s/, cell — /s/",
+      "why": "City, cent, cell — C /s/ bilan og'riydi, shuning uchun /k/ emas"
+    },
+    {
+      "wrong": "G — /g/ emas, /dʒ/",
+      "right": "G — /g/ yoki /dʒ/; go — /g/, giraffe — /dʒ/",
+      "why": "G harfi ingliz tilida /dʒ/ bo'lishi mumkin, shuning uchun /dʒ/"
+    },
+    {
+      "wrong": "X — /ks/ emas, /z/",
+      "right": "X — /ks/ (box) yoki /gz/ (exam); ba'zan /z/ ham (xylophone)",
+      "why": "X harfi ingliz tilida /z/ yoki /gz/ ham bo'lishi mumkin"
+    },
+    {
+      "wrong": "W — /w/ emas, /ʍ/",
+      "right": "W — /w/ (water), nomi /ˈdʌbəljuː/; ba'zan /ʍ/ emas",
+      "why": "W harfi ingliz tilida /w/, ba'zan /ʍ/ emas"
+    },
+    {
+      "wrong": "H — /h/ emas, /eɪ/",
+      "right": "H — nomi /eɪtʃ/, tovushi /h/ (house); alifboda h /aɪ/ emas",
+      "why": "H harfi ingliz tilida /h/ bo'lishi mumkin, shuning uchun /eɪ/ emas"
+    },
+    {
+      "wrong": "S — /s/ emas, /z/",
+      "right": "S — /s/ yoki /z/: sun — /s/, dogs — /z/",
+      "why": "S harfi ingliz tilida /s/ yoki /z/ bo'lishi mumkin, shuning uchun /z/"
+    }
+  ],
+  "words": [
+    {"en": "hello", "uz": "salom", "ipa": "/həˈloʊ/", "example": "Say hello to your friend."},
+    {"en": "water", "uz": "suv", "ipa": "/ˈwɔːtər/", "example": "I drink cold water."},
+    {"en": "right", "uz": "to'g'ri, o'ng", "ipa": "/raɪt/", "example": "You are right."},
+    {"en": "sing", "uz": "qo'sh", "ipa": "/sɪŋ/", "example": "Birds sing every morning."},
+    {"en": "thing", "uz": "narsa", "ipa": "/θɪŋ/", "example": "This thing is new."},
+    {"en": "think", "uz": "o'ylash", "ipa": "/θɪŋk/", "example": "Think before you speak."},
+    {"en": "month", "uz": "oy", "ipa": "/mʌnθ/", "example": "What month is it?"},
+    {"en": "birthday", "uz": "tug'ilgan kun", "ipa": "/ˈbɜːθdeɪ/", "example": "Happy birthday!"}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi.",
+    "items": [
+      {"type": 2, "count": 2, "focus": "harf nomini tovushiga moslashtirish"},
+      {"type": 3, "count": 2, "focus": "c va g harfi nomini to'g'ri tanlash"},
+      {"type": 5, "count": 2, "focus": "xato qilingan harflarni topish"},
+      {"type": 4, "count": 2, "focus": "so'z yozish uchun harf yozish"},
+      {"type": 6, "count": 2, "focus": "o'zbekchadan tarjima qilish"}
+    ],
+    "final": {"type": 7, "task": "Har bir harf uchun nomi va tovushi bilan bog'liq dastur yoz. Xato emas."}
+  },
+  "skill_task": {
+    "kind": "listening",
+    "task": "Har bir harf uchun nomi va tovushi bilan bog'liq dastur yoz. Shu bilan xato yo'q.",
+    "level_hint": "o'qish, 30 soniya"
+  },
+  "review": {
+    "topic": "harflar",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

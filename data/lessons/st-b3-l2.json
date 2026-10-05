@@ -1,0 +1,26 @@
+{
+  "id": "st-b3-l2",
+  "level": "Starter",
+  "block": "st-b3",
+  "title": "Uchinchi shaxs: he, she, it",
+  "can_do": "Boshqa odam haqida he/she/it bilan gapirasaniz",
+  "why": "O'zbek tilida uchinchi shaxs — u, u (mashhur), u. Ingliz tilida esa uchinchi shaxs uchun alohida shakllar bo'lib, ularni to'g'ri tanlash kerak: he — og'a, she — ayol, it — jonli va narsa, tug'un.",
+  "rule": {
+    "title": "Inglizcha uchinchi shaxs — he, she, it",
+    "points": [
+      {"text":"Ingliz tilida uchinchi shaxs ketma-ketligi: he — og'a, she — ayol, it — hech qanday narsani anglatishi mumkin (narsa yoki jonli). O'zbek tilida esa shu yerda emas.","examples":[{"en":"He is my brother. — U menga akam.","uz":"He is my brother. — U menga akam."},{"en":"She is my sister. — U menga opam.","uz":"She is my sister. — U menga opam."},{"en":"It is a dog. — U — bu it.","uz":"It is a dog. — U — bu it."}]},
+      {"text":"It — yo'qotib qolgan shaxs, masalan, it — it. Bundan keyin, it bilan bog'liq har bir so'z ingliz tilida it bilan qo'llaniladi.","examples":[{"en":"It is cold. — Havo sovuq.","uz":"It is cold. — Havo sovuq."},{"en":"It is my key. — Bu menga kalit.","uz":"It is my key. — Bu menga kalit."}]},
+      {"text":"O'zbek tilida uchinchi shaxs uchun bir shaxslar ketma-ketligi: men och, u — och uchun. Bundan keyin, uchinchi shaxs ingliz tilida uchinchi shaxs uchun bo'lyapti har bir so'z kaynar.","examples":[{"en":"I see him. — Men uni ko'raman.","uz":"I see him. — Men uni ko'raman."},{"en":"I see him. — Men uni ko'raman.","uz":"I see him. — Men uni ko'raman."}]},
+      {"text":"O'zbek tilida uchinchi shaxs biror narsa haqida gapirishda ishlatiladi: I — it. Bundan keyin, uchinchi shaxs biror narsa haqida gapirishda ishlatiladi.","examples":[{"en":"I — it shaxs uchun inglizcha shaxs uchun — shunday.","uz":"I — it shaxs uchun inglizcha shaxs uchun — shunday."}]}
+    ],
+    "table": {
+      "head": ["Inglizcha shaxs","Tarjima (o'zbekcha)","Misol so'z"],
+      "rows": [["He","O'g'a","He is my brother."],
+      ["She","Ayol","She is my sister."],
+      ["It","Jonli / narsa (bu)","It is a dog."]
+    ]},
+    "common_errors": [
+    {"wrong":"I — uchinchi shaxs — ingliz tilida uchinchi shaxs — inglizcha","right":"Uchinchi shaxs — he/she/it — ingliz tilida inglizcha shaxs uchun","why":"Uchinchi shaxs — uchinchi shaxs — ingliz tilida inglizcha shaxs uchun"},
+    {"wrong":"Shaxs — inglizcha shaxs ucennik shaxsi — uchinchi shaxs — ingliz tili","right":"Uchinchi shaxs — ingliz tilida uchinchi shaxs — uchinchi shaxs uchun","why":"Uchinchi shaxs — ingliz tilida shudda shaxs uchun shu yosh o'zbek tillarida"}
+  ]
+}}

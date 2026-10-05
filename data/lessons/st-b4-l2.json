@@ -1,0 +1,56 @@
+{
+  "id": "st-b4-l2",
+  "level": "Starter",
+  "block": "st-b4",
+  "title": "Ko'rsatish so'zlari: this / that / these / those",
+  "can_do": "Narsani yagona yoki ko'p ekanligini this/that/these/those bilan ko'rsatasiz",
+  "why": "Ingliz tilida bu so'zlar narsa nima ekanligini ko'rsatadi: blan bla, yagona yoki ko'p. O'zlashtirish kerak: this — yaqin, that — uzoq, these — yaqin ko'p, those — uzoq ko'p. Bundan keyin buloq yo'q.",
+  "rule": {
+    "title": "Ko'rsatish so'zlari: this / that / these / those",
+    "points": [
+      {"text":"Ingliz tilida narsani ko'rsatishda so'zlar: this — yagona va yaqin (bu narsa), that — yagona va uzoq (ana u narsa), these — ko'p yagona va yaqin (bular), those — ko'p yagona va uzoq (ana bu narsa). Shunday qilib, bir qaysi so'z qaysi holatda ishlatiladi.","examples":[
+        {"en":"This is my book. — Bu mening kitobim.","uz":"This is my book. — Bu mening kitobim."},
+        {"en":"That is a cat. — Ana u — bu mushuk.","uz":"That is a cat. — Ana u — bu mushuk."},
+        {"en":"These are my friends. — Bular mening do'stlarim.","uz":"These are my friends. — Bular mening do'stlarim."},
+        {"en":"Those are cars. — Ana bu narsa — bir qancha mashinalar.","uz":"Those are cars. — Ana bu narsa — bir qancha mashinalar."}
+      ]},
+      {"text":"This va these — yaqin (katta, yaqin). That va those — uzoq (chuqur, uzoq). Bundan keyin, yaqin narsa yoki uzoq narsa. Bundan keyin, shunday qilib yoziladi.","examples":[
+        {"en":"This is my bag. — Bu mening sumkamm.","uz":"This is my bag. — Bu mening sumkamm."},
+        {"en":"These are my books. — Bular mening kitoblarim.","uz":"These are my books. — Bular mening kitoblarim."}
+      ]}
+    ],
+    "table":{"head":["Ko'rsatish so'zi","Ma'nosi","Narsa (yagona/ko'p)","Yaqin/uzoq","Misol"],"rows":[
+      ["this","bu narsa","yagona","yaqin","This is my phone."],
+      ["that","ana u narsa","yagona","uzoq","That is my chair."],
+      ["these","bular (narsalar)","ko'p","yaqin","These are my books."],
+      ["those","ana bu narsalar","ko'p","uzoq","Those are my cars."]
+    ]},
+    "common_errors":[
+      {"wrong":"This — ko'p emas, this — yagona","right":"This — yagona (this is — bu narsa), this — ko'p emas. This — ko'p emas.","why":"This — yagona yoki ko'p emas, this — bu narsa yagona. Shunday qilib this — yagona emas."},
+      {"wrong":"That — yagona emas, that — uzoq","right":"That — yagona va uzoq (that is — ana u narsa). That — yagona va uzoq.","why":"That — yagona emas yoki uzoq emas, that — uzoq emas yoki uzoq. Shunday qilib that — yagona emas yoki uzoq."},
+      {"wrong":"These — ko'p emas, these — yagona","right":"these — ko'p yagona yoki uzoq. These — ko'p emas yoki uzoq.","why":"These — ko'p emas yoki uzoq emas, these — ko'p emas yoki uzoq. Shunday qilib these — ko'p emas."},
+      {"wrong":"Those — yagona emas, those — uzoq","right":"those — ko'p yagona tabiatida uzoq. Those — ko'p emas yoki uzoq.","why":"Those — ko'p emas yoki tabiatida uzoq emas, those — ko'p emas."}
+    ]
+  },
+  "words":[
+    {"en":"this","uz":"bu (yagona, yaqin)","ipa":"/ðɪs/","example":"This is my book."},
+    {"en":"that","uz":"ana u (yagona, uzoq)","ipa":"/ðæt/","example":"That is my chair."},
+    {"en":"these","uz":"bular (ko'p, yaqin)","ipa":"/ðiːz/","example":"These are my books."},
+    {"en":"those","uz":"ana bu narsalar (ko'p, uzoq)","ipa":"/ðəʊz/","example":"Those are my cars."},
+    {"en":"here","uz":"bu yerda","ipa":"/hɪə(r)/","example":"Here is my bag."},
+    {"en":"there","uz":"tursa (bizning joyda)","ipa":"/ðɛə(r)/","example":"There is my car."},
+    {"en":"near","uz":"yaqin","ipa":"/nɪə(r)/","example":"The desk is near the window."},
+    {"en":"far","uz":"uzoq","ipa":"/fɑː(r)/","example":"The shop is far from here."},
+    {"en":"big","uz":"katta","ipa":"/bɪɡ/","example":"This is a big table."},
+    {"en":"small","uz":"kichik","ipa":"/smɔːl/","example":"That is a small box."}
+  ],
+  "practice_spec":{"note":"Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi — tur raqamlari docs/mashqlar.md shkalasi.","items":[
+    {"type":2,"count":2,"focus":"narsa yagona yoki ko'p ekanligini tanlash: this/that — yagona, these/those — ko'p"},
+    {"type":3,"count":2,"focus":"narsa yagona yoki ko'p ekanligini gapda ishlatish: This is ..., These are ..."},
+    {"type":5,"count":2,"focus":"xato: this — ko'p emas, these — yagona, that — ko'p emas, those — yagona"},
+    {"type":4,"count":2,"focus":"o'z narsangiz haqida 3 gap yozish: this/that/these/those bilan"},
+    {"type":6,"count":2,"focus":"tarjima: «Bu — mening kitobim» — This is my book (this — yagona yaqin), «Ana bu narsa — mashinalar» — those are cars (those — ko'p uzoq)"}
+  ],"final":{"type":7,"task":"O'zingizning bo'limlaringizdagi 4 ta narsani ko'rsatasiz: this, that, these, those bilan."}},
+  "skill_task":{"kind":"listening","task":"O'quvchi narsani chaqiradi. Har bir narsa nima ekanligini tinglab, ko'rsatish so'zini yozing: this/that/these/those. Shundan so'ng, narsa haqidgetdi.","level_hint":"sekin nutq, 30 soniya"},
+  "review":{"topic":"this/that/these/those","schedule_days":[3,7,21,60]}
+}

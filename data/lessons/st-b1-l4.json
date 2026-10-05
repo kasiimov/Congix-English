@@ -1,0 +1,79 @@
+{
+  "id": "st-b1-l4",
+  "level": "Starter",
+  "block": "st-b1",
+  "title": "Tanish bo'lmagan so'zni bo'g'icha o'qish",
+  "can_do": "O'zlashtirmagan so'zni bo'g'inlarga bo'lib o'qiy olasiz",
+  "why": "Ko'p vaqtda so'zni bir vaqtda o'qish qiyin. Bunday so'zlarni bo'g'inlarga bo'lib o'qish osonroq usul: so'zning o'zi tugallanadi, har bir qism o'zining tovushi bilan bog'lanadi.",
+  "rule": {
+    "title": "Tanish bo'lmagan so'zni bo'g'icha o'qish",
+    "points": [
+      {
+        "text": "O'zbek tilida so'zlar ko'pincha bo'g'inlarga bo'lingan: masalan, «ko'rinish» — ko'rin-ish. Ingliz tilida ham shunday qilib, so'zlarni har bir qismiga ajratish mumkin: masalan, «information» — in-for-ma-tion. Shunday qilib, har bir qism har xil tovushga ega.",
+        "examples": [
+          {"en": "information — in-for-ma-tion", "uz": "information — in-for-ma-tion"},
+          {"en": "telephone — te-le-phone", "uz": "telephone — te-le-phone"},
+          {"en": "university — u-ni-ver-si-ty", "uz": "university — u-ni-ver-si-ty"}
+        ]
+      },
+      {
+        "text": "Ba'zi so'zlarning bo'g'inlari bir xil tovushga ega: masalan, unli harflar (a, e, i, o, u) har doim bir xil tovushli. Bundan keyin, har bir daraja har xil qism bilan bog'lanadi: masalan, apple — app-le, not — note, so'z — so'z.",
+        "examples": [
+          {"en": "apple — app-le, note — note / not-e", "uz": "apple — app-le, note — note / not-e"},
+          {"en": "water — wa-ter, sing — sing (si-ng)", "uz": "water — wa-ter, sing — sing (si-ng)"}
+        ]
+      },
+      {
+        "text": "Har bir bo'g'in so'zning har biri bir so'zni o'z ichiga oladi. Bundan keyin, so'zning bosh qismi ochiladi: har bir bo'g'in — har bir biri, shunday qilib, so'zning boshida ham qisqartiriladi. Masalan, cat — c-a-t, water — wa-ter.",
+        "examples": [
+          {"en": "cat — c-a-t, dog — d-o-g", "uz": "cat — c-a-t, dog — d-o-g"},
+          {"en": "book — book (bo'k emas, kitob emas)", "uz": "book — book — b-u-k"}
+        ]
+      }
+    ],
+    "table": {
+      "head": ["So'z", "Bo'g'inlar", "Hisobot"],
+      "rows": [
+        ["cat", "c-a-t", "Bir qism — cat"],
+        ["water", "wa-ter", "Yigirma-o'n — ja-yon haqida yozish"],
+        ["sing", "sing", "Bir yoritma — sing"],
+        ["telephone", "te-le-phone", "Te-le-fo-ne"],
+        ["university", "u-ni-ver-si-ti", "U-ni-ver-si-ty"]
+      ]
+    }
+  },
+  "common_errors": [
+    {"wrong": "so'z — har doim boshida yoki oxirida o'qiladi emas", "right": "so'zni bo'g'icha o'qish — bir vaqtda ko'p qismlar — shunday emas", "why": "O'zbek tilida so'zni bo'g'icha o'qish har doim boshida emas, shunday qilib qisman yozish emas"},
+    {"wrong": "so'zning hammasi har xil tovushga ega", "right": "so'zning hammasi har xil tovushga ega emas", "why":"Ingliz tilida har bir harf turli xil tovushga ega — bundan kelib chiqqan holda faqat birlikda bog'lanadi"},
+    {"wrong": "so'zni bo'g'inlarga bo'lib o'qish — bir so'zni qisman bo'g'inlarga bo'lib o'qish", "right":"So'z bo'g'inlarga bo'lib o'qish — birma-bir tartibda — yoki shunday tartibda", "why":"So'z bo'g'inlarga bo'lib o'qish — barcha tartibda — bir vaqtda qisman so'zni yozish — shunday tartibda emas"}
+  ],
+  "words": [
+    {"en":"information","uz":"ma'lumot", "ipa":"/ˌɪnfərˈmeɪʃn/", "example":"This information is important."},
+    {"en":"understand","uz":"tushunmoq","ipa":"/ˌʌndərˈstænd/","example":"I understand you."},
+    {"en":"difficult","uz":"qiyshiq","ipa":"/ˈdɪfɪkəlt/","example":"This exercise is difficult."},
+    {"en":"important","uz":"muhim","ipa":"/ɪmˈpɔːtənt/","example":"This is important."},
+    {"en":"different","uz":"farqli","ipa":"/ˈdɪfrənt/","example":"They are different."},
+    {"en":"morning","uz":"ertalab","ipa":"/ˈmɔːnɪŋ/","example":"Good morning."},
+    {"en":"afternoon","uz":"tungi","ipa":"/ˌɑːftərˈnuːn/","example":"Good afternoon."},
+    {"en":"evening","uz":"kechqurun","ipa":"/ˈiːvnɪŋ/","example":"Good evening."},
+    {"en":"weekend","uz":"hafta oxiri","ipa":"/ˈwiːkend/","example":"Happy weekend."},
+    {"en":"computer","uz":"kompyuter","ipa":"/kəmˈpjuːtər/","example":"I use a computer."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md shkalasi.",
+    "items": [
+      {"type":2,"count":2,"focus":"tanish bo'lmagan so'zni to'g'ri bo'g'inlariga ajratish"},
+      {"type":3,"count":2,"focus":"bo'g'inlarga ajratilgan so'zni birlikda qo'shish: so'zning boshida yoki oxirida qo'shish"},
+      {"type":5,"count":2,"focus":"xato: so'zning rasmiy tartibida emas, bog'liq tartibli emas, bog'liq tartibda emas"},
+      {"type":4,"count":2,"focus":"o'z so'z bilan bo'g'inlarga ajratilgan so'zni yozish"},
+      {"type":6,"count":2,"focus":"tarjima: «bu so'z tanish emas» — shunday emas, o'qishda tanish bo'lmagan so'z bo'gmatik emas"}
+    ],
+    "final":{"type":7,"task":"O'zingiz uchun so'z yozing: tanish bo'lmagan soz bilan bog'liq bo'lgan so'clockning boshida yozing"}
+  },
+  "skill_task": {
+    "kind":"listening",
+    "task":"Tanish bo'lmagan so'zni tinglab, uning bo'g'inlarini yozing. Bundan keyin, har bir bo'g'inni yakunlang: so'zning yagona qismi — tartibda yozuvini yodlang.",
+    "level_hint":"sekin nutq, 30 soniya"
+  },
+  "review":{"topic":" bo'g'icha o'qish","schedule_days":[3,7,21,60]}
+}

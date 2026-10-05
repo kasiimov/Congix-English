@@ -1,0 +1,55 @@
+{
+  "id": "st-b4-l3",
+  "level": "Starter",
+  "block": "st-b4",
+  "title": "a yoki an? Artikl farqi",
+  "can_do": "Ingliz tilida a yoki an ni to'g'ri qo'yasiz",
+  "why": "Ingliz tilida artikl a yoki an — shunday shartli: a — so'z yoki oxirgi tovush bilan boshlanadi, an — unli tovush bilan boshlanadi. Bundan keyin, shunday qilib, a yoki an ni tanlash kerak. Shunday qilib, xato qilmaslik uchun shartlar yodlang.",
+  "rule": {
+    "title": "a yoki an? artikl farqi",
+    "points": [
+      {"text":"Ingliz tilida bir xil so'zlar: a — ing sound bilan boshlanadi (katta harf qaysi bo'lsa), an — unli tovush bilan boshlanadi (a, e, i, o, y, u, ea, ei...). Bundan keyin, a — ing sound bilan boshlanadi, an — unli tovush bilan boshlanadi.","examples":[
+        {"en":"a cat — eng sound (k — kattasiga)","uz":"a cat — katta harf bilan boshlanadi"},
+        {"en":"an apple — unlilar (a — a)","uz":"an apple — unli harf bilan boshlanadi"},
+        {"en":"an egg — unli harf (e — e)","uz":"an egg — unli harf bilan boshlanadi"}
+      ]},
+      {"text":"Ba'zi so'zlar oxirida unli tovushli yoki unli xato yoki unli harf: masalan, hour (o'lcham emas), university (o'lcham yoki oxirgi tovush), umbrella (uni-brella). Bundan keyin, shunday qilib, shunday so'zlar yoritiladi: an hour, a university emas, an university emas.","examples":[
+        {"en":"an hour — oxir untsiz (unli tovush bilan boshlanadi)","uz":"an hour — oxir untsiz (unli tovush bilan boshlanadi)"},
+        {"en":"a university — oxir o'yinli","uz":"a university — oxir o'yinli"},
+        {"en":"an umbrella — oxir unli","uz":"an umbrella — oxir unli"}
+      ]},
+      {"text":"Oxirgi — yoki shunday: a — qattiq tovush bilan boshlanadi (b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z). an — unli tovush bilan boshlanadi. Bundan keyin, shunday tartibda ishlatiladi.","examples":[
+        {"en":"a cat — katte harf (k)","uz":"a cat — katta harf bilan boshlanadi"},
+        {"en":"an octopus — unli (o)","uz":"an octopus — unli harf bilan boshlanadi"}
+      ]}
+    ],
+    "table":{"head":["So'z (boshlanish)","Artikl (a yoki an)","Sabab"],"rows":[["cat","a","qattiq tovush (k)"],["apple","an","unli tovush (a)"],["egg","an","unli tovush (e)"],["hour","an","oxir untsiz — unli tovush (o)",""],["university","a","oxir o'yinli — qattiq (y)",""],["umbrella","an","oxir unli (a)",""],["old","an","unli tovush (o)",""],["orange","an","unli tovush (o)",""],["igloo","a","qattiq tovush (i)",""]]},
+    "common_errors":[
+      {"wrong":"a apple — a an emas","right":"an apple — an (unli tovush bilan boshlanadi)","why":"Apple — unli tovush bilan boshlanadi — an. Shunday qilib a apple emas."},
+      {"wrong":"an cat — an a emas","right":"a cat — a (qattiq tovush bilan boshlanadi)","why":"Cat — qattiq tovush bilan boshlanadi — a. Shunday qilib an cat emas."},
+      {"wrong":"a hour — an hour","right":"an hour (oxir untsiz — unli tovush bilan boshlangu)","why":"Hour — oxir untsiz — unli tovush bilan boshlanadi — an. Shunday qilib a hour emas."},
+      {"wrong":"an university — a university","right":"a university (oxirgi o'yinli — qattiq)","why":"University — oxirgi o'yinli — qattiq tovush bilan boshlanadi — a. Shunday qilib an university emas."}
+    ]
+  },
+  "words":[
+    {"en":"apple","uz":"olma","ipa":"/ˈæpəl/","example":"This is an apple."},
+    {"en":"umbrella","uz":"sochqoq (sochqoq)","ipa":"/ʌmˈbrelə/","example":"This is an umbrella."},
+    {"en":"hour","uz":"soat, vaqt","ipa":"/aʊə(r)/","example":"Wait an hour."},
+    {"en":"university","uz":"universitet","ipa":"/ˌjuːnɪˈvɜːsɪti/","example":"This is a university."},
+    {"en":"egg","uz":"tuxum","ipa":"/eɡ/","example":"This is an egg."},
+    {"en":"old","uz":"qari","ipa":"/əʊld/","example":"This is an old book."},
+    {"en":"orange","uz":"sariq, apelsinka","ipa":"/ˈɒrɪndʒ/","example":"This is an orange."},
+    {"en":"igloo","uz":"igloo","ipa":"/ˈɪɡluː/","example":"This is an igloo."},
+    {"en":"cat","uz":"mushuk","ipa":"/kæt/","example":"This is a cat."},
+    {"en":"ox","uz":"ox","ipa":"/ɒks/","example":"This is an ox."}
+  ],
+  "practice_spec":{"note":"Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi — tur raqamlari docs/mashqlar.md shkalasi.","items":[
+    {"type":2,"count":2,"focus":"so'zning qaysi tovushi bilan boshlaniyotganini tanlash: a yoki an"},
+    {"type":3,"count":2,"focus":"so'z bilan artikl qo'shmasdan qo'shmasdan gap tuzish: an apple, a cat"},
+    {"type":5,"count":2,"focus":"xato: a apple — an, an cat — a, a hour — an, an university — a"},
+    {"type":4,"count":2,"focus":"10 ta so'zga a yoki an ni yozish (boshida yoki oxridagi tovushlarni hisobga olgan holda)"},
+    {"type":6,"count":2,"focus":"o'zbekchadan tarjima: «an apple — an apple — an apple — an apple — an apple» yoki «a apple — an apple — a apple»"}
+  ],"final":{"type":7,"task":"10 ta so'z yozing, har biriga a yoki an ni yozing. Xato emas."}},
+  "skill_task":{"kind":"listening","task":"O'quvchi har bir so'zga a yoki an belgilaydi. Har bir so'z uchun tovushi yozing: an apple — an hour — a university — an umbrella. Shundan so'ng, yozilgan. Shu bilan, asosiy yol emas.","level_hint":"sekin nutq, 30 soniya"},
+  "review":{"topic":"a/an farqi","schedule_days":[3,7,21,60]}
+}

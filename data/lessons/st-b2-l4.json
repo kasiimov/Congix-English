@@ -1,0 +1,51 @@
+{
+  "id": "st-b2-l4",
+  "level": "Starter",
+  "block": "st-b2",
+  "title": "Kunlar va oylarni aytish",
+  "can_do": "Hafta kunlarini va oylarni inglizcha aytasiz",
+  "why": "Kunlar va oylar haqida gapirishda ingliz tilidagi asosiy nomlarni xato qilmaslik kerak, chunki bunday so'zlar darslarda ko'p ishlatiladi.",
+  "rule": {
+    "title": "Kunlar va oylar — inglizcha nomlar bilan yoziladi",
+    "points": [
+      {"text": "Ingliz tilida kunlar: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. Hafta kunlari ingliz tilida inglizcha nomlar bilan yoziladi: Monday — dushanba, Tuesday — seshanba.", "examples": [{"en": "Monday — dushanba, Tuesday — seshanba", "uz": "Monday — dushanba"}, {"en": "Wednesday — chorshanba, Thursday — payshanba", "uz": "Wednesday — chorshanba"}]},
+      {"text": "Ingliz tilida oylar: January, February, March, April, May, June, July, August, September, October, November, December. Oylar ingliz tilida inglizcha nomlar bilan yoziladi: January — yanvar.","examples": [{"en": "January — yanvar, February — fevral", "uz": "Yanvar — January"}, {"en": "March — mart, April — aprel", "uz": "Mart — March"}]},
+      {"text": "Kunlar va oylar ingliz tilida kapital harf bilan yoziladi: Monday, Tuesday. Saturday/Sunday — dam olish kunlari, weekend — dam olish.","examples": [{"en": "Today is Monday. — Bugun dushanba.", "uz": "Today is Monday. — Bugun dushanba."},{"en": "In January — yanvarda, at the weekend — dam olish kunlarida", "uz": "In January — yanvarda, at the weekend — dam olish kunlarida"}]},
+      {"text":"Bugun — today, ertaga — tomorrow, kecha — yesterday. Shu bilan yoziladi: kunlar haqida gapirishda inglizcha nomlar bilan yoziladi.","examples":[{"en":"Today is Monday. — Bugun dushanba.","uz":"Today is Monday."},{"en":"Yesterday was Sunday. — Kecha yakshanba edi.","uz":"Yesterday was Sunday."}]}]
+  },
+  "common_errors": [
+    {"wrong":"Monday yoziladi (kapital emas)","right":"Monday — kapital harf bilan yoziladi (Monday emas)","why":"Kunlar va oylar shunday kapital harf bilan yoziladi"},
+    {"wrong":"January yoziladi kichik harf bilan","right":"January — kapital harf bilan yoziladi","why":"Oylar shunday kapital harf bilan yoziladi"},
+    {"wrong":"week — hafta, weekend — yuqori","right":"week — hafta, weekend — dam olish kunlarida","why":"Haftaning oxiri weekend emas, shunday qilib platforma yoziladi"},
+    {"wrong":"kunlar — Monday emas, o'zbekcha nom bilan","right":"Kunlar shunday inglizcha nomlar bilan yoziladi: Monday, Tuesday — dushanba va seshanba","why":"Inglizcha kunlar shunday inglizcha nomlar bilan yoziladi"}
+  ],
+  "words": [
+    {"en":"Monday","uz":"Dushanba","ipa":"/ˌmʌnˈdeɪ/","example":"Today is Monday."},
+    {"en":"Tuesday","uz":"Seshanba","ipa":"/ˈtjuːzdeɪ/","example":"I work on Tuesday."},
+    {"en":"Wednesday","uz":"Chorshanba","ipa":"/ˌwenzˈdeɪ/","example":"Wednesday is my busy day."},
+    {"en":"Thursday","uz":"Payshanba","ipa":"/ˈθɜːzdeɪ/","example":"We meet on Thursday."},
+    {"en":"Friday","uz":"Juma","ipa":"/ˈfraɪdeɪ/","example":"Friday is my favourite day."},
+    {"en":"Saturday","uz":"Shanba","ipa":"/ˈsætərdeɪ/","example":"Saturday is a free day."},
+    {"en":"Sunday","uz":"Yakshanba","ipa":"/ˈsʌndeɪ/","example":"On Sunday I rest."},
+    {"en":"week","uz":"haftanın oq","ipa":"/wiːk/","example":"A week has seven days."},
+    {"en":"weekend","uz":"hafta oxiri","ipa":"/ˌwiːkˈend/","example":"I relax at the weekend."},
+    {"en":"today","uz":"bugun","ipa":"/təˈdeɪ/","example":"Today is Monday."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi — tur raqamlari docs/mashqlar.md.",
+    "items": [
+      {"type":2,"count":2,"focus":"kun yoki oy nomini to'g'ri tanlash (Monday emas, January emas)"},
+      {"type":3,"count":2,"focus":"bugunguncha gapni to'g'ri tuzish: Today is... — kun yoki oy bilan"},
+      {"type":5,"count":2,"focus":"xato: Monday kichik harf bilan, January kichik, weekend — weekend emas"},
+      {"type":4,"count":2,"focus":"jadvalga ko'ra 3 kun va 3 oy nomini yozish"},
+      {"type":6,"count":2,"focus":"o'zbekchadan tarjima: «Bugun dushanba» — Today is Monday (emas, Manba ishlash)"}
+    ],
+    "final":{"type":7,"task":"O'zingizning haftangizning kunlarini inglizcha yozing: Today is Monday, Tuesday, Wednesday..."}
+  },
+  "skill_task": {
+    "kind":"listening",
+    "task":"O'quvchi kunlarni chaqiradi. Har bir kunni tinglab, o'ziga xos gapni yozing: «Today is Monday...»",
+    "level_hint":"sekin nutq, 30 soniya"
+  },
+  "review":{"topic":"kunlar va oylar","schedule_days":[3,7,21,60]}
+}

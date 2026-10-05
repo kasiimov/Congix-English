@@ -1,0 +1,140 @@
+{
+  "id": "st-b1-l2",
+  "level": "Starter",
+  "block": "st-b1",
+  "title": "Undosh harflarni to'g'ri o'qish",
+  "can_do": "Ingliz tilidagi undosh harflarni to'g'ri o'qiy olasiz",
+  "why": "Ingliz tilida undosh harflarining ba'zi o'qilishi o'zbek tilidan farqli. Bu darsda siz b — z gacha bo'lgan har bir undosh harfini o'z nomi va tovushi bilan tanish olasiz.",
+  "rule": {
+    "title": "Undosh harflar — har biri o'z nomi va tovushi bilan",
+    "points": [
+      {
+        "text": "Ingliz undosh harflari: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z. Har biri katta (B) va kichik (b) shaklda yoziladi, lekin nomi bir xil.",
+        "examples": [
+          {"en": "B — /biː/, b — /biː/", "uz": "B — /biː/, b — /biː/"},
+          {"en": "C — /siː/, c — /siː/", "uz": "C — /siː/, c — /siː/"},
+          {"en": "D — /diː/, d — /diː/", "uz": "D — /diː/, d — /diː/"}
+        ]
+      },
+      {
+        "text": "Ba'zi harflar uzunroq nomga ega: f — /ef/, l — /el/, m — /em/, n — /en/, s — /es/, x — /eks/. Boshqalari qisqa: b — /biː/, k — /keɪ/, p — /piː/.",
+        "examples": [
+          {"en": "F — /ef/, L — /el/, M — /em/, N — /en/", "uz": "F — /ef/, L — /el/, M — /em/, N — /en/"},
+          {"en": "B — /biː/, K — /keɪ/, P — /piː/", "uz": "B — /biː/, K — /keɪ/, P — /piː/"}
+        ]
+      },
+      {
+        "text": "Har bir harfning tovushi o'z nomidan farqli. Masalan, C — nomi /siː/, lekin so'zda /k/ yoki /s/ bo'ladi: cat — /k/, city — /s/.",
+        "examples": [
+          {"en": "cat — /k/, city — /s/", "uz": "cat — /k/, city — /s/"},
+          {"en": "coffee — /k/, centre — /s/", "uz": "coffee — /k/, centre — /s/"}
+        ]
+      },
+      {
+        "text": "G — nomi /dʒiː/, tovushi esa /g/ (go) yoki /dʒ/ (giraffe) bo'ladi; X — nomi /eks/, tovushi /ks/ (box) yoki /gz/ (exam); Z — nomi /ziː/ yoki /zed/, tovushi /z/ (zoo).",
+        "examples": [
+          {"en": "go — /g/, giraffe — /dʒ/", "uz": "go — /g/, giraffe — /dʒ/"},
+          {"en": "box — /ks/, exam — /gz/", "uz": "box — /ks/, exam — /gz/"},
+          {"en": "zoo — /z/", "uz": "zoo — /z/"}
+        ]
+      },
+      {
+        "text": "V, w, y — nomi uzun: v — /viː/, w — /ˈdʌbəljuː/, y — /waɪ/. Lekin tovushi ularning o'z nomi emas: v — /v/ (van), w — /w/ (water), y — /j/ (yes).",
+        "examples": [
+          {"en": "van — /v/, water — /w/, yes — /j/", "uz": "van — /v/, water — /w/, yes — /j/"},
+          {"en": "v — /viː/ (nom), van — /v/ (tovush)", "uz": "v — /viː/ (nom), van — /v/ (tovush)"}
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Harf", "Nom", "Tovushi (asosan)", "Misol"],
+      "rows": [
+        ["B b", "bee", "/b/", "book"],
+        ["C c", "see", "/k/ yoki /s/", "cat, city"],
+        ["D d", "dee", "/d/", "dog"],
+        ["F f", "ef", "/f/", "fish"],
+        ["G g", "dʒiː", "/g/ yoki /dʒ/", "go, giraffe"],
+        ["H h", "eɪtʃ", "/h/", "house"],
+        ["J j", "dʒeɪ", "/dʒ/", "jump"],
+        ["K k", "keɪ", "/k/", "kite"],
+        ["L l", "el", "/l/", "lion"],
+        ["M m", "em", "/m/", "man"],
+        ["N n", "en", "/n/", "nose"],
+        ["P p", "piː", "/p/", "pen"],
+        ["Q q", "kjuː", "/kw/", "queen"],
+        ["R r", "ɑː", "/r/", "red"],
+        ["S s", "es", "/s/ yoki /z/", "sun"],
+        ["T t", "tiː", "/t/", "tea"],
+        ["V v", "viː", "/v/", "van"],
+        ["W w", "ˈdʌbəljuː", "/w/", "water"],
+        ["X x", "eks", "/ks/ yoki /gz/", "box, exam"],
+        ["Y y", "waɪ", "/j/", "yes"],
+        ["Z z", "ziː yoki zed", "/z/", "zoo"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "c — har doim /k/ emas",
+      "right": "c — /k/ yoki /s/, so'zga bog'liq",
+      "why": "city, cent, cell, c — /s/ bilan og'riydi. Katta harf shakli ham /k/ emas, balki /s/"
+    },
+    {
+      "wrong": "g — har doim /g/",
+      "right": "g — /g/ yoki /dʒ/ — go da /g/, giraffe da /dʒ/",
+      "why": "g harfi ingliz tilida o'zaro nisbatan /dʒ/ tovushi manbasida ham keladi"
+    },
+    {
+      "wrong": "x — har doim /ks/",
+      "right": "x — /ks/ (box) yoki /gz/ (exam); ba'zan /z/ ham bo'ladi (xylophone)",
+      "why": "x harfi ingliz tilida ba'zi so'zda /z/ yoki /gz/ ham bo'lishi mumkin"
+    },
+    {
+      "wrong": "w — tovushi /w/ emas, /ʍ/",
+      "right": "w — tovushi /w/ (water); nomi esa /ˈdʌbəljuː/",
+      "why": "w harfi ingliz tilida har doim /w/, ba'zan /ʍ/ emas"
+    },
+    {
+      "wrong": "h — nomi /eɪ/ yoki /eɪtʃ/ emas",
+      "right": "h — nomi /eɪtʃ/, tovushi /h/ (house); alifboda h /aɪ/ emas",
+      "why": "h harfi ingliz tilida /h/ tovushi manbasida ham keladi"
+    },
+    {
+      "wrong": "s — har doim /s/ emas",
+      "right": "s — /s/ yoki /z/: sun — /s/, dogs — /z/",
+      "why": "s harfi ingliz tilida so'z soni yoki joyi bilan /s/ yoki /z/ bo'lishi mumkin"
+    }
+  ],
+  "words": [
+    {"en": "alphabet", "uz": "alfabe", "ipa": "/ˈælfəbɛt/", "example": "This is the alphabet."},
+    {"en": "letter", "uz": "harf", "ipa": "/ˈlɛtər/", "example": "B is a letter."},
+    {"en": "sound", "uz": "tovush", "ipa": "/saʊnd/", "example": "This letter has one sound."},
+    {"en": "name", "uz": "nom", "ipa": "/neɪm/", "example": "The name of b is bee."},
+    {"en": "capital", "uz": "katta harf", "ipa": "/ˈkæpɪtəl/", "example": "Capital B and small b."},
+    {"en": "small", "uz": "kichik harf", "ipa": "/smɔːl/", "example": "Small c and capital C."},
+    {"en": "read", "uz": "o'qish", "ipa": "/riːd/", "example": "Read the letters slowly."},
+    {"en": "write", "uz": "yozish", "ipa": "/raɪt/", "example": "Write the letter d."},
+    {"en": "first", "uz": "birinchi", "ipa": "/fɜːst/", "example": "B is the first consonant."},
+    {"en": "last", "uz": "oxirgi", "ipa": "/lɑːst/", "example": "Z is the last letter."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      {"type": 2, "count": 2, "focus": "harf nomini tovushiga moslashtirish: bee — /b/, see — /s/"},
+      {"type": 3, "count": 2, "focus": "c va g harfi nomini to'g'ri tanlash: /k/ yoki /s/, /g/ yoki /dʒ/"},
+      {"type": 5, "count": 2, "focus": "xato qilingan harflarni topish: c — har doim /k/ emas, x — har doim /ks/ emas"},
+      {"type": 4, "count": 2, "focus": "talaffuz qoidalariga ko'ra so'z yozish"},
+      {"type": 6, "count": 2, "focus": "o'zbekchadan tarjima: «bu harf — nomi bilan o'qiladi, tovushi bilan emas»"}
+    ],
+    "final": {"type": 7, "task": "O'quvchi uchun dastur: b, c, d, f, g harflari — nomi, tovushi, loyihaga ko'ra doimiy so'z — xato yo'q."}
+  },
+  "skill_task": {
+    "kind": "listening",
+    "task": "O'quvchi undosh harflarini chaqirmoqda. Har biri voz mavzusida o'z nomiga ko'ra to'g'ri yoziladi. Shu bilan birga har bir harfasi to'g'ri xato bo'lmasligi kerak.",
+    "level_hint": "sekin nutq, 30 soniya"
+  },
+  "review": {
+    "topic": "undosh harflar",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id":"st-b5-l2",
+  "level":"Starter",
+  "block":"st-b5",
+  "title":"Savol berasiz: Do you ...?",
+  "can_do":"Do you ...? bilan so'rash imkoniyatiga ega bo'lasiz",
+  "why":"Ingliz tilida so'rash — bu eng muhim imkoniyat: Do you ...? — savol yoki savol. Yo'q, bu yoki Do you ...? — bu yoki yangi so'z. Bundan keyin, hammasi nomlari bilan bog'lanadi: Do you work? Do you like music? Bundan keyin, shunday gap.",
+  "rule":{
+    "title":"Do you ...? savol — Present Simple so'rash",
+    "points":[
+      {"text":"Ingliz tilida so'rash: Do you ...? — ya'ni, so'z yoki savol. Bundan keyin, savol yoki gap: I do — men yoqtiraman, I do not— yo'q. Shunday qilib, savol yoki gap: Do you like music? — Yoqtirasaniz yoki yo'q.","examples":[
+        {"en":"Do you like music? — Yoqtirasaniz?","uz":"Do you like music? — Yoqtirasaniz?"},
+        {"en":"Do you have a brother? — Akangiz bormi?","uz":"Do you have a brother? — Akangiz bormi?"},
+        {"en":"Do you understand? — Tushundingizmi?","uz":"Do you understand? — Tushundingizmi?"}
+      ]},
+      {"text":"Present Simple savol: Do + shaxs + fe'k (base). Bundan keyin, fe'k shakli yoki -ing yoki yo'q. Bundan keyin, shunday qilib gap.Yoki savol: Do you work? Do you live here? Do you play football? Do you read books? Do you like coffee? Do you have a car? Do you go to school? Do you study English? Do you play tennis? Do you like animals?","examples":[
+        {"en":"Do you work? — Ishlayapsizmi?","uz":"Do you work? — Ishlayapsizmi?"},
+        {"en":"Do you live here? — Bu yerda yashaysizmi?","uz":"Do you live here? — Bu yerda yashaysizmi?"},
+        {"en":"Do you play football? — Siz futbol o'ynayapsizmi?","uz":"Do you play football? — Siz futbol o'ynayapsizmi?"},
+        {"en":"Do you read books? — Kitob o'qiyapsizmi?","uz":"Do you read books? — Kitob o'qiyapsizmi?"}
+      ]}
+    ],
+    "table":{"head":["Savol","Tarjima","Javob (misol)"],"rows":[
+      ["Do you work?","Ishlayapsizmi?","Yes, I do. / No, I don't."],
+      ["Do you live here?","Bu yerda yashaysizmi?","Yes, I do. / No, I don't."],
+      ["Do you play football?","Futbol o'ynayapsizmi?","Yes, I do. / No, I don't."],
+      ["Do you read books?","Kitob o'qiyapsizmi?","Yes, I do. / No, I don't."],
+      ["Do you like coffee?","Kofe yoqtirasanizmi?","Yes, I do. / No, I don't."],
+      ["Do you have a car?","Mashina bormi?","Yes, I do. / No, I don't."],
+      ["Do you go to school?","Maktabga boryapsizmi?","Yes, I do. / No, I don't."],
+      ["Do you study English?","Ingliz tilini o'rganaysizmi?","Yes, I do. / No, I don't."],
+      ["Do you play tennis?","Tenis o'ynaysizmi?","Yes, I do. / No, I don't."],
+      ["Do you like animals?","Jonovlarni yoqtirasanizmi?","Yes, I do. / No, I don't."]
+    ]},
+    "common_errors":[
+      {"wrong":"Do you football? — gap emas","right":"Do you play football? — savol yoki gap:  Do you play football? — savol yoki gap","why":"Do you football emas — bu yoki savol yoki gap. Balki Do you play football? — savol yoki gap: savol yoki gap. Shunday qilib, bu yoki savol yoki gap."},
+      {"wrong":"Do you like music? — savol yoki gap:  Do you like music?","right":"Do you like music? — savol emas, savol emas","why":"Do you like music? — savol yoki gap:  Do you like music? — savol emas, savol. Bundan keyin, Do you like music?."}
+    ]
+  },
+  "words":[
+    {"en":"do","uz":"yoki","ipa":"/duː/","example":"Do you like music?"},
+    {"en":"you","uz":"siz/sen","ipa":"/juː/","example":"Do you like music?"},
+    {"en":"work","uz":"ish","ipa":"/wɜːk/","example":"Do you work?"},
+    {"en":"live","uz":"yashamoq yoki yashamoq","ipa":"/lɪv/","example":"Do you live here?"},
+    {"en":"study","uz":"o'rganmoq yoki o'rganmoq","ipa":"/ˈstʌdi/","example":"Do you study English?"},
+    {"en":"play","uz":"o'ynamoq","ipa":"/pleɪ/","example":"Do you play football?"},
+    {"en":"read","uz":"o'qimoq yoki o'qimoq","ipa":"/riːd/","example":"Do you read books?"},
+    {"en":"go","uz":"borish","ipa":"/ɡəʊ/","example":"Do you go to school?"},
+    {"en":"like","uz":"yoqtirmoq yoki yoqtirmoq","ipa":"/laɪk/","example":"Do you like coffee?"},
+    {"en":"have","uz":"bor ekanligi yoki bor ekanligi","ipa":"/hæv/","example":"Do you have a car?"}
+  ],
+  "practice_spec":{"note":"Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi — tur raqamlari docs/mashqlar.md shkalasi.","items":[
+    {"type":2,"count":2,"focus":"savol yoki gapni tanlash: Do you work? yoki I work? yoki I play football?"},
+    {"type":3,"count":2,"focus":"so'rash yoki gapni yozish: Do you like music? Do you have a brother? Do you understand?"},
+    {"type":5,"count":2,"focus":"xato: Do you football?, Do you like music? emas, Do you like music? yoki gap"},
+    {"type":4,"count":2,"focus":"so'rovingizni savol yoki gap ekanligini yozing: Do you like music? Do you have a brother? Do you understand?"},
+    {"type":6,"count":2,"focus":"tarjima: «Do you football? — Do you play football? savol yoki gap, Do you football? emas. Shunday qilib, Do you football? yoki gap."}
+  ],"final":{"type":7,"task":"So'rovingizni savol yoki gap ekanligini yozing: Do you like music? Do you have a brother? Do you understand?"}},
+  "skill_task":{"kind":"listening","task":"O'quvchi savol yoki gap ekanligini tinglab, gapni yozing: Do you play football? Do you like music? Do you have a brother? Shundan so'ng, yozilgan gap yoziladi.","level_hint":"sekin nutq, 30 soniya"},
+  "review":{"topic":"Do you ...? savol","schedule_days":[3,7,21,60]}
+}

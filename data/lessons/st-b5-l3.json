@@ -1,0 +1,75 @@
+{
+  "id": "st-b5-l3",
+  "level": "Starter",
+  "block": "st-b5",
+  "title": "Inkor gap: I don't ...",
+  "can_do": "Inkor gap tuzasiz: I don't work, I don't like, I don't play",
+  "why": "Inkor gap — ham narsa yoki inkor narsa. Inkor gap tuzishda don't + fe'k shakli ishlatiladi: I don't like — yo'q. Shunday qilib, eng muhim shartlar yodlang: don't bilan fe'k shakli, don't bilan ing iloji bor, ham shunday gap.",
+  "rule": {
+    "title": "I don't ... — Present Simple inkor gap",
+    "points": [
+      {
+        "text": "Ingliz tilida inkor gap: don't + fe'k shakli (ya'ni I don't work, I don't like, I don't play, I don't read, I don't go). Bundan keyin, inkor shakllari: don't talab qiladi: I don't like music — Men musiqani yoqtirmayman. Shunday qilib, hammasi shakllarini o'rganing.",
+        "examples": [
+          { "en": "I don't like coffee. — Men kofe yoqtirmayman.", "uz": "I don't like coffee. — Men kofe yoqtirmayman." },
+          { "en": "I don't play football. — Men futbol o'ynamayman.", "uz": "I don't play football. — Men futbol o'ynamayman." },
+          { "en": "I don't understand. — Tushunmayman.", "uz": "I don't understand. — Tushunmayman." }
+        ]
+      },
+      {
+        "text": "Inkor shakllari: I don't + base fe'k shakli. Bundan keyin, inkor shakllari: don't + fe'k shakli. Bundan keyin, shunday qilib gap tuzish kerak.",
+        "examples": [
+          { "en": "She doesn't like tea — Qiz kofe yoqtirmaydi.", "uz": "She doesn't like tea — Qiz kofe yoqtirmaydi." },
+          { "en": "He doesn't work — U ishlamaydi.", "uz": "He doesn't work — U ishlamaydi." },
+          { "en": "We don't play — Biz o'ynamaymiz.", "uz": "We don't play — Biz o'ynamaymiz." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Shaxs", "Inkor shakli", "Misol"],
+      "rows": [
+        ["I", "don't + fe'k", "I don't like coffee."],
+        ["You", "don't + fe'k", "You don't play football."],
+        ["He/She/It", "doesn't + fe'k", "She doesn't like tea."],
+        ["We", "don't + fe'k", "We don't work."],
+        ["They", "don't + fe'k", "They don't understand."],
+        ["I (fe'k)", "don't + fe'k", "I don't read books."],
+        ["I (fe'k)", "don't + fe'k", "I don't play tennis."]
+      ]
+    }
+  },
+  "common_errors": [
+    { "wrong": "I don't like — don't bilan fe'k shakli", "right": "I don't like — base fe'k shakli bilan: I don't like. Bundan keyin, don't bilan fe'k shakli. Shunday qilib, I don't like.", "why": "Inkor gap tuzishda don't + fe'k shakli talab qiladi: I don't like (emas, I don't liking). Bundan keyin, don't bilan fe'k shakli." },
+    { "wrong": "I don't plays — I don't play — don't bilan fe'k shakli", "right": "I don't play — base shakli (plays emas, play)", "why": "I don't plays emas — base fe'k shakli: I don't play. Bundan keyin, don't bilan base shakli." },
+    { "wrong": "I don't eating — I don't eat — base shakli", "right": "I don't eat — base shakli (eating emas, eat)", "why": "Inkor gap tuzishda don't + base fe'k shakli: I don't eat. Bundan keyin, don't bilan base shakli." }
+  ],
+  "words": [
+    { "en": "don't", "uz": "yo'q", "ipa": "/doʊnt/", "example": "I don't like coffee." },
+    { "en": "doesn't", "uz": "yo'q (u)", "ipa": "/ˈdʌzənt/", "example": "She doesn't like tea." },
+    { "en": "like", "uz": "yoqtirmoq", "ipa": "/laɪk/", "example": "I don't like coffee." },
+    { "en": "play", "uz": "o'ynamoq", "ipa": "/pleɪ/", "example": "I don't play football." },
+    { "en": "work", "uz": "ish", "ipa": "/wɜːk/", "example": "I don't work." },
+    { "en": "read", "uz": "o'qimoq", "ipa": "/riːd/", "example": "I don't read books." },
+    { "en": "eat", "uz": "ovqatlanish", "ipa": "/iːt/", "example": "I don't eat meat." },
+    { "en": "drink", "uz": "ichmoq", "ipa": "/drɪŋk/", "example": "I don't drink alcohol." },
+    { "en": "sleep", "uz": "uxlamoq", "ipa": "/sliːp/", "example": "I don't sleep well." },
+    { "en": "understand", "uz": "tushunmoq", "ipa": "/ˌʌndəˈstænd/", "example": "I don't understand." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi — tur raqamlari docs/mashqlar.md shkalasi.",
+    "items": [
+      { "type": 2, "count": 2, "focus": "ingkor gapni tanlash: I don't like yoki I don't likes yoki I don't liking" },
+      { "type": 3, "count": 2, "focus": "ingkor gap tuzish: I don't like, She doesn't like, We don't like" },
+      { "type": 5, "count": 2, "focus": "xato: I don't plays — base yoki -ing; I don't eating — base yoki fe'k shakli emas" },
+      { "type": 4, "count": 2, "focus": "o'z hujjatida 3 ta narsa haqida inkor gap tuzish (bu narsadir 3 ta narsa haqida inkor gap tuzish)" },
+      { "type": 6, "count": 2, "focus": "tarjima: «Men kofe yoqtirmayman» — I don't like coffee (emas, I don't likes coffee — emas, I don't liking coffee — emas); «Men futbol o'ynamayman» — I don't play football (yoki I don't plays football — emas)" }
+    ],
+    "final": { "type": 7, "task": "O'zingizda qanday narsalar yoqmayotganini 3 ta gap yozing: I don't like..., I don't play..., I don't eat..." }
+  },
+  "skill_task": {
+    "kind": "listening",
+    "task": "O'quvchi inkor gapni tinglab, don't/deiesn't + fe'k shaklini yozing. Shundan so'ng, shakllarni ishlatib, shunday gap tuzish.",
+    "level_hint": "sekin nutq, 30 soniya"
+  },
+  "review": { "topic": "I don't ... — inkor", "schedule_days": [3, 7, 21, 60] }
+}

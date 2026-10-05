@@ -1,0 +1,85 @@
+{
+  "id": "st-b3-l3",
+  "level": "Starter",
+  "block": "st-b3",
+  "title": "'Men ... man' — to be: am / is / are",
+  "can_do": "O'zingiz haqida to'g'ri gapirasaniz: Men ... man",
+  "why": "To be — eng ko'p ishlatiladigan so'zlarning boshiga qo'shilmasi: Men ... man, U ... , Biz ... . O'zbek tilida shu ma'nolarda ham «men ... man» — shu yerda am/is/are — shu yerda kiradi.",
+  "rule": {
+    "title": "To be — am / is / are",
+    "points": [
+      {
+        "text": "Ingliz tilida to be — am, is, are — shu yerda ishlatiladi: Men ... man — I am ..., U (og'a) ... is, U (ayol) ... she is, Biz ... we are, Siz ... you are,ular ... they are. Har bir gapda bir shaxs bilan ishlatiladi.",
+        "examples": [
+          {"en": "I am a student. — Men talabaman.", "uz": "I am a student. — Men talabaman."},
+          {"en": "He is a doctor. — U shifokor.", "uz": "He is a doctor. — U shifokor."},
+          {"en": "We are friends. — Biz do'stmiz.", "uz": "We are friends. — Biz do'stmiz."}
+        ]
+      },
+      {
+        "text": "To be so'zini bir xil shaklda ishlatish kerak: I am, You are, He/She/It is, We are, They are. O'zbek tilida shu yerda har bir gapda qo'shilmasi: I am ..., U is ..., Biz are ...",
+        "examples": [
+          {"en": "You are late. — Siz kechikdingiz.", "uz": "You are late. — Siz kechikdingiz."},
+          {"en": "They are here. — Ular shu yerdalar.", "uz": "They are here. — Ular shu yerdalar."}
+        ]
+      },
+      {
+        "text": "To be ingliz tilida o'zbek tilida shu yerda ishlatiladi: Men ... man — I am ..., U ... is, Biz ... are. Bundan keyin, shu yerda shu yerda shu yerda shu yerda ishlatiladi.",
+        "examples": [
+          {"en": "I am tired. — Men charchadyganman.", "uz": "I am tired. — Men charchadyganman."},
+          {"en": "She is happy. — U baxtli.", "uz": "She is happy. — U baxtli."},
+          {"en": "They are hungry. — Ular achchiq.", "uz": "They are hungry. — Ular achchiq."}
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Shaxs (o'zbekcha)", "Inglizcha (to be)", "Misol gap"],
+      "rows": [
+        ["Men", "I am", "I am a student."],
+        ["Siz (siz)", "You are", "You are late."],
+        ["U (og'a)", "He is", "He is my brother."],
+        ["U (ayol)", "She is", "She is my sister."],
+        ["Biz", "We are", "We are friends."],
+        ["Siz (sizlar)", "You are", "You are kind."],
+        ["Ular", "They are", "They are here."],
+        ["Narsa/U (bu)", "It is", "It is cold."]
+      ]
+    }
+  },
+  "common_errors": [
+    {"wrong": "Men student — Men talaba (to'plam emas)", "right": "Men talabaman — I am a student", "why": "To be ishlatilmasak, gap to'liq emas: I student emas, I am a student."},
+    {"wrong": "U my brother — U men akam.", "right": "He is my brother — U menga akam.", "why": "He — reklama emas, he — uchinchi shaxs uchun. He is my brother emas, u akmang."},
+    {"wrong": "I am agree — Men roziman.", "right": "I agree — Men roziman.", "why": "Agree — to be talab qilmaydi, shuning uchun I am agree emas, I agree."},
+    {"wrong": "I are — Men biz (Inglizcha)", "right": "I am — Men (Men)", "why": "I bilan are emas, am emas."},
+    {"wrong": "He she — U (ayol/og'a)", "right": "He is og'a, she is ayol — o'zi ishlatiladi", "why": "He/she — ingliz tilida uchinchi shaxs — shu yerda ishlatiladi."}
+  ],
+  "words": [
+    {"en": "name", "uz": "ism", "ipa": "/neɪm/", "example": "My name is Dilnoza."},
+    {"en": "age", "uz": "yosh", "ipa": "/eɪdʒ/", "example": "He is twenty years old."},
+    {"en": "feel", "uz": "his-tuyg'u", "ipa": "/fiːl/", "example": "I feel happy."},
+    {"en": "mood", "uz": "holat", "ipa": "/muːd/", "example": "What is your mood today?"},
+    {"en": "fine", "uz": "yaxshi", "ipa": "/faɪn/", "example": "I am fine, thank you."},
+    {"en": "tired", "uz": "charchagan", "ipa": "/ˈtaɪəd/", "example": "I am tired after work."},
+    {"en": "happy", "uz": "baxtli", "ipa": "/ˈhæpi/", "example": "She is happy today."},
+    {"en": "sad", "uz": "ghamgin", "ipa": "/sæd/", "example": "He looks sad."},
+    {"en": "cold", "uz": "sovug'on", "ipa": "/kəʊld/", "example": "It is cold today."},
+    {"en": "hungry", "uz": "achchiq", "ipa": "/ˈhʌŋɡri/", "example": "I am hungry."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md shkalasi.",
+    "items": [
+      {"type": 2, "count": 2, "focus": "shaxsga mos to be shaklini tanlash: I am, He is, They are"},
+      {"type": 3, "count": 2, "focus": "to be bilan gap tuzish: I am ..., She is ..., We are ..." },
+      {"type": 5, "count": 2, "focus": "xato yozuvlarni topish: I are, He she, I am agree"},
+      {"type": 4, "count": 2, "focus": "o'zingiz haqida 3 gap yozish: ism, yosh, holat"},
+      {"type": 6, "count": 2, "focus": "tarjima: «Men talaba» — I am a student (to be bilan), «Men achchiq» — I am hungry"}
+    ],
+    "final": {"type": 7, "task": "O'zingiz haqida 3 gap yozing: ism, yosh, hozirgi holat (tired/happy/fine)."}
+  },
+  "skill_task": {
+    "kind": "listening",
+    "task": "Uchinchi shaxs uchun gapni tinglab, to be shaklini yozing: I am..., He is..., She is... Shundan so'ng ushbu gapda biror shaxs bo'lishi kerak.",
+    "level_hint": "sekin nutq, 30 soniya"
+  },
+  "review": {"topic": "to be: am/is/are", "schedule_days": [3, 7, 21, 60]}
+}

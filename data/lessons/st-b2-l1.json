@@ -1,0 +1,123 @@
+{
+  "id": "st-b2-l1",
+  "level": "Starter",
+  "block": "st-b2",
+  "title": "0 dan 100 gacha sanash",
+  "can_do": "O dan 100 gacha sonlarni to'g'ri ayta olasiz",
+  "why": "Sonlar — bu darslarda eng ko'p uchraydigan so'zlar: yosh, narx, vaqt, telefon raqami. 0–100 oralig'ida o'z sonlarni to'g'ri aytsangiz, boshqa narsalar ham osonroq bo'ladi.",
+  "rule": {
+    "title": "Ingliz sonlari — qoida, emas",
+   "points": [
+      {"text": "0–12 gacha — bunday yagona so'zlar: zero, one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve. Bularni xato qilmaslik uchun har biri o'z nomi bilan eslab qoling. Siz so'zlarni xato qilmaslik uchun ularnikidan foydalanishingiz kerak.",
+       "examples": [
+         {"en": "zero — 0, one — 1, two — 2, three — 3", "uz": "0, 1, 2, 3"},
+         {"en": "eleven — 11, twelve — 12", "uz": "11, 12"}
+      ]},
+      {"text": "13–19 — teen bilan tugaydi: thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen. Bu o'zgartirilgan shakl emas, balki yangi so'z. Masalan, three — 3, thirteen — 13.",
+       "examples": [
+         {"en": "thirteen — 13, fourteen — 14, fifteen — 15", "uz": "13, 14, 15"},
+         {"en": "sixteen — 16, seventeen — 17, eighteen — 18, nineteen — 19", "uz": "16, 17, 18, 19"}
+      ]},
+      {"text": "20–99 — yigirma yoki to'rt yoki o'n yoki bir: twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety. Bundan keyin o'nlik va birlik yoziladi yoki qo'shiladi. Masalan, twenty-one, thirty-two, ninety-nine.",
+       "examples": [
+         {"en": "twenty — 20, twenty-one — 21", "uz": "20, 21"},
+         {"en": "thirty — 30, forty — 40", "uz": "30, 40"},
+         {"en": "fifty-five — 55, eighty-eight — 88, ninety-nine — 99", "uz": "55, 88, 99"}
+      ]},
+      {"text": "Yigirma yoki to'rt yoki o'n: twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety — bundan keyin birlik yoziladi yoki qo'shiladi. Masalan, twenty-one yoki twenty two emas. Bundan keyin bir yoki birlik qo'shiladi.",
+       "examples": [
+         {"en": "twenty-one — 21 (not twenty one)", "uz": "21"},
+         {"en": "fifty-six — 56", "uz": "56"}
+      ]}
+    ],
+    "table": {
+      "head": ["Son", "Nomi", "Yozuvi"],
+      "rows": [
+        ["0", "zero", "0"],
+        ["1", "one", "1"],
+        ["2", "two", "2"],
+        ["3", "three", "3"],
+        ["4", "four", "4"],
+        ["5", "five", "5"],
+        ["6", "six", "6"],
+        ["7", "seven", "7"],
+        ["8", "eight", "8"],
+        ["9", "nine", "9"],
+        ["10", "ten", "10"],
+        ["11", "eleven", "11"],
+        ["12", "twelve", "12"],
+        ["13", "thirteen", "13"],
+        ["14", "fourteen", "14"],
+        ["15", "fifteen", "15"],
+        ["16", "sixteen", "16"],
+        ["17", "seventeen", "17"],
+        ["18", "eighteen", "18"],
+        ["19", "nineteen", "19"],
+        ["20", "twenty", "20"],
+        ["30", "thirty", "30"],
+        ["40", "forty", "40"],
+        ["50", "fifty", "50"],
+        ["60", "sixty", "60"],
+        ["70", "seventy", "70"],
+        ["80", "eighty", "80"],
+        ["90", "ninety", "90"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "thirteen — 30",
+      "right": "thirteen — 13; thirty — 30",
+      "why": "thirteen (13) va thirty (30) o'rtasida farq bor. Shuning uchun tarjima emas, balki sabab emas."
+    },
+    {
+      "wrong": "twenty one — 21 (iki so'z bilan)",
+      "right": "twenty-one — 21 (bitta so'z, chiziq bilan yoziladi)",
+      "why": "Ingliz tilida twenty-one — bitta so'z, shuning uchun yo'qolish kerak emas."
+    },
+    {
+      "wrong": "fifty nechta",
+      "right": "fifty — 50 (bir necha daraja emas)",
+      "why": "O'zbek tilida fifty nechta emas, balki fifty — 50."
+    },
+    {
+      "wrong": "fourty",
+      "right": "forty — 40 (fourty emas)",
+      "why": "forty — 40, shuning uchun fourty emas. Shunday qilib, fourty yozilishi kerak."
+    },
+    {
+      "wrong": "eighteen — 8 yoki 80",
+      "right": "eighteen — 18; eighty — 80",
+      "why": "eighteen (18) va eighty (80) — bu o'rtasida farq bor."
+    }
+  ],
+  "words": [
+    {"en": "one", "uz": "bir", "ipa": "/wʌn/", "example": "I have one book."},
+    {"en": "two", "uz": "ikki", "ipa": "/tuː/", "example": "She has two cats."},
+    {"en": "three", "uz": "uch", "ipa": "/θriː/", "example": "I am three years old."},
+    {"en": "four", "uz": "to'rt", "ipa": "/fɔː(r)/", "example": "Four people are here."},
+    {"en": "five", "uz": "besh", "ipa": "/faɪv/", "example": "I have five friends."},
+    {"en": "six", "uz": "olti", "ipa": "/sɪks/", "example": "Six days are left."},
+    {"en": "seven", "uz": "yetti", "ipa": "/ˈsevn/", "example": "Seven good habits."},
+    {"en": "eight", "uz": "sakkiz", "ipa": "/eɪt/", "example": "I am eight years old."},
+    {"en": "nine", "uz": "to'qqiz", "ipa": "/naɪn/", "example": "Nine o'clock."},
+    {"en": "ten", "uz": "o'n", "ipa": "/ten/", "example": "Ten minutes."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI chuka spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md shkalasi.",
+    "items": [
+      {"type": 2, "count": 2, "focus": "sonning yozilishini tanlash: thirteen — 13 yoki thirty — 30"},
+      {"type": 3, "count": 2, "focus": "yozuvda yozilgan sonni bilan bog'liq so'z tanlash"},
+      {"type": 5, "count": 2, "focus": "xato sonlar: fourty, twenty one, eighty emas, eighteen"},
+      {"type": 4, "count": 2, "focus": "vaqt yoki narx sifatida son ishlating"},
+      {"type": 6, "count": 2, "focus": "tarjima qilingan so'zlar: «bir, ikki, uch» yoki «bir o'n ikki»"}
+    ],
+    "final": {"type": 7, "task": "Yosh yoki narx bilan bog'liq bo'lgan o'sha muddatda qanchalik erishilishi mumkinligi yoz."}
+  },
+  "skill_task": {
+    "kind": "listening",
+    "task": "O'quvchi sonlar o'rtasida erishilishi mumkin. Har bir sonni tinglab, tarjimasini yozing: yosh yoki narx holda erishilishi mumkin.",
+    "level_hint": "sekin nutq, 30 soniya"
+  },
+  "review": { "topic": "sonlar 0–100", "schedule_days": [3, 7, 21, 60] }
+}

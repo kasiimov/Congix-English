@@ -1,0 +1,65 @@
+{
+  "id": "st-b2-l2",
+  "level": "Starter",
+  "block": "st-b2",
+  "title": "Ranglarni aytish",
+  "can_do": "Narsani rangini aytib berasiz",
+  "why": "Ranglar eng ko'p ishlatiladigan so'zlarlardan biri: kiyim, mashina, go'shtdan gapda kelsa ham uchun. Rangni aytish oson — bu so'zlarni birgalikda borish uchun asos.",
+  "rule": {
+    "title": "Rang so'zlari — bir xil shaklda ishlatiladi",
+    "points": [
+      {"text": "Ingliz tilida rang so'zlari bir xil shaklda ishlatiladi: masalan, red — qizil, blue — ko'k, green — yashil. Rang so'zi odatda ot oldida keladi: a red car, a green apple.",
+       "examples": [
+         {"en": "a red car — qizil mashina", "uz": "a red car — qizil mashina"},
+         {"en": "a blue sky — ko'k osmon", "uz": "a blue sky — ko'k osmon"},
+         {"en": "a green apple — yashil olma", "uz": "a green apple — yashil olma"}
+       ]},
+      {"text": "Rang so'zlarining ba'zilari bir qancha shakllarga ega: masalan, gray (o'zbekcha orr) va grey (inchi) shunday yoziladi, ular bir xil, balki o'z o'ziga almashtiriladi.",
+       "examples": [
+         {"en": "gray — orr, grey — inchi, ikkalasi ham bir xil", "uz": "gray — orr, grey — inchi, ikkalasi ham bir xil"},
+         {"en": "color (amerik.) — rang, colour (brit.) — rang, ikkalasi ham bir xil", "uz": "color (amerik.) — rang, colour (brit.) — rang, ikkalasi ham bir xil"}
+       ]},
+      {"text": "Rangni tasvirlashda odatda «bu narsa qanday rangda» deyiladi: What colour is it? It is red. Rang so'zi bir vaqtda bog'liq emas, lekin bir necha so'zlarda ham ishlatiladi.",
+       "examples": [
+         {"en": "What colour is it? — It is red.", "uz": "What colour is it? — It is red."},
+         {"en": "The sky is blue. — Osmon ko'k.", "uz": "The sky is blue. — Osmon ko'k."}
+       ]}
+    ],
+    "table": {
+      "head": ["Rang", "O'zbekcha", "Misol so'z"],
+      "rows": [
+        ["red", "qizil", "apple, car"],
+        ["blue", "ko'k", "sky, jeans"],
+        ["green", "yashil", "apple, tree"],
+        ["yellow", "sariq", "sun, lemon"],
+        ["orange", "apelsinka, sariq", "orange, sunset"],
+        ["black", "qora", "leather jacket, coffee"],
+        ["white", "oq", "snow, shirt"],
+        ["gray/grey", "urr", "cloud, hair"],
+        ["brown", "jigarrang", "wood, coffee"],
+        ["pink", "pushti", "flower, skirt"]
+      ]
+    }
+  },
+  "common_errors": [
+    {"wrong": "qizil colour — qizil colour emas", "right": "qizil rang — red colour/ colour emas", "why": "Rang so'zi o'zbek tilida qizil colour qilinadi, lekin ingliz tilida red rang emas, red emas"},
+    {"wrong": "red is — qizil colour", "right": "Red is — qizil rang (red rang emas)", "why": "Ingliz tilida red rang emas, red emas"},
+    {"wrong": "Qiza — qizil— / pink — pushti", "right": "Qiza — pushti colour emas", "why": "pushti — qizilrang, qizil colour emas"},
+    {"wrong": "Rang o'zbekcha shaklida o'rnacha bir so'z kelib chiqmaydi", "right": "Rang so'zi ingliz tilida bir xil shaklda ishlatiladi: red, blue, green — bir xil", "why": "Rang ingliz tilida bir xil shaklda ishlatiladi"}
+  ],
+  "words": [
+    {"en": "red", "uz": "qizil", "ipa": "/red/", "example": "The car is red."},
+    {"en": "blue", "uz": "ko'k", "ipa": "/bluː/", "example": "The sky is blue."},
+    {"en": "green", "uz": "yashil", "ipa": "/ɡriːn/", "example": "The apple is green."},
+    {"en": "yellow", "uz": "sariq", "ipa": "/ˈjeloʊ(/) ", "example": "The sun is yellow."},
+    {"en": "orange", "uz": "apelsinka", "ipa": "/ˈɒrɪndʒ/", "example": "I like orange juice."},
+    {"en": "black", "uz": "qora", "ipa": "/blæk/", "example": "He wears a black jacket."},
+    {"en": "white", "uz": "oq", "ipa": "/waɪt/", "example": "The snow is white."},
+    {"en": "gray", "uz": "urr", "ipa": "/ɡreɪ/", "example": "It is a gray cloud."},
+    {"en": "brown", "uz": "jigarrang", "ipa": "/braʊn/", "example": "The wood is brown."},
+    {"en": "pink", "uz": "pushti", "ipa": "/pɪŋk/", "example": "She wears a pink skirt."}
+  ],
+  "practice_spec": {"note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi.", "items": [{"type": 2, "count": 2, "focus": "rang nomini to'g'ri tanlash: qizil — red, ko'k — blue"}, {"type": 3, "count": 2, "focus": "rang so'zini gapda ishlash: the car is...", "focus2": "rang so'zini gapda ishlash"}, {"type": 5, "count": 2, "focus": "xato rangi: qizil colour, red is emas, red colour emas"}, {"type": 4, "count": 2, "focus": "kiyim, mashina yoki oshxona haqida gap tuzish ranglar bilan"}, {"type": 6, "count": 2, "focus": "tarjima: «Mashina qizil» → The car is red, «Qizil rang» → red colour emas"}]},
+  "skill_task": {"kind": "listening", "task": "Ranglar bo'yicha suhbat. Istakchi gaplarni tinglab, rang nomini yozing: qizil rang, ko'k osmon, pushti taraf.", "level_hint": "sekin nutq, 30 soniya"},
+  "review": {"topic": "ranglar", "schedule_days": [3, 7, 21, 60]}
+}

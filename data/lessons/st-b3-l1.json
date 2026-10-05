@@ -1,0 +1,66 @@
+{
+  "id": "st-b3-l1",
+  "level": "Starter",
+  "block": "st-b3",
+  "title": "Ismingizni aytasiz va so'raysiz",
+  "can_do": "Ismingizni aytasiz va What is your name? deb so'raysiz",
+  "why": "Ingliz tilida tanishish — bu so'zlarning boshida: ism, so'rash, javob. Bundan keyin, shunday qilib, tanish gap yozing. Shunday qilib, shunday yodlang.",
+  "rule": {
+    "title": "Ismingizni aytasiz va so'raysiz",
+    "points": [
+      {
+        "text": "Ingliz tilida tanishish: My name is Ahmed. — Mening ismingiz Ahmed. Shunday qilib, tanish gap yozing. Bundan keyin, What is your name? — Ismingiz nima?",
+        "examples": [
+          {"en": "My name is Ahmed. — Mening ismingiz Ahmed.", "uz": "My name is Ahmed. — Mening ismingiz Ahmed."},
+          {"en": "What is your name? — Ismingiz nima?", "uz": "What is your name? — Ismingiz nima?"},
+          {"en": "My name's Anna. — Mening ismingiz Anna.", "uz": "My name's Anna. — Mening ismingiz Anna."}
+        ]
+      },
+      {
+        "text": "What is your name? — Ismingiz nima? — savol berishda shunday qilib yozing: What is your name? Shunday qilib, tanish gap yozing. Bundan keyin, shunday qilib yozing.",
+        "examples": [
+          {"en": "What is your name? — Ismingiz nima? — shunday qilib", "uz": "What is your name? — Ismingiz nima? — shunday qilib"},
+          {"en": "What is your name? — Ismingiz nima? — shunday qilib", "uz": "What is your name? — Ismingiz nima? — shunday qilib"}
+        ]
+      },
+      {
+        "text": "My name's ... — Mening ismingiz ... — shunday qilib, tanish gap yozing. Bundan keyin, What is your name? — Ismingiz nima? — shunday qilib Yoki shunday qilib.",
+        "examples": [
+          {"en": "My name's ... — Mening ismingiz ... — shunday qilib", "uz": "My name's ... — Mening ismingiz ... — shunday qilib"},
+          {"en": "What is your name? — Ismingiz nima? — shunday qilib", "uz": "What is your name? — Ismingiz nima? — shunday qilib"}
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Savol", "Javob", "Shaxs"],
+      "rows": [
+        ["What is your name?", "My name is ...", "I/You/He/She/We/They"],
+        ["Ismingiz nima?", "Mening ismingiz ...", "men/siz/u/ular"],
+        ["Who is that?", "Bu — ... — bu", "shaxs"],
+        ["Kimi?", "Menga ...", "tanish"]
+      ]
+    },
+    "common_errors": [
+      {"wrong": "My name is Ahmed — Mening ismingiz Ahmed (yo'q)", "right": "My name is Ahmed — Mening ismingiz Ahmed (yes)", "why": "My name is Ahmed — shunday qilib, tanish gap yozing. Bundan keyin, shunday qilib."},
+      {"wrong": "I am Ahmed — I am Ahmed (yo'q)", "right": "I am Ahmed — Men Ahmedman — shunday qilib", "why": "I am Ahmed — shunday qilib, tanish gap yozing. Bundan keyin, shunday qilib."}
+    ]
+  },
+  "words": [
+    {"en": "name", "uz": "ism", "ipa": "/neɪm/", "example": "My name is Ahmed."},
+    {"en": "your", "uz": "sizning", "ipa": "/jɔː(r)/", "example": "What is your name?"},
+    {"en": "my", "uz": "mening", "ipa": "/maɪ/", "example": "My name is ..."},
+    {"en": "is", "uz": "— yo'q —", "ipa": "/ɪz/", "example": "Is her name ...?"},
+    {"en": "what", "uz": "nima", "ipa": "/wɒt/", "example": "What is your name?"},
+    {"en": "meet", "uz": "tanishmoq", "ipa": "/miːt/", "example": "Nice to meet you."},
+    {"en": "your", "uz": "sizning", "ipa": "/jɔː(r)/", "example": "What is your name?"}
+  ],
+  "practice_spec": {"note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi — tur raqamlari docs/mashqlar.md shkalasi.", "items": [
+    {"type":2,"count":2,"focus":"savol yoki shaxsni tanlash"},
+    {"type":3,"count":2,"focus":"My name is ... yoki What is your name? yozish"},
+    {"type":5,"count":2,"focus":"xato: My name is Ahmed — shunday qilib"},
+    {"type":4,"count":2,"focus":"tanish gap yozing: My name is ..., What is your name?"},
+    {"type":6,"count":2,"focus":"tarjima: «My name is Ahmed» — Mening ismingiz Ahmed (shunday qilib) — Shunday qilib yozing"}
+  ], "final": {"type":7,"task":"O'zingizning ismingizni 3 ta gap bilan yozing: My name is..., What is your name?"}},
+  "skill_task": {"kind":"listening","task":"O'quvchi tanish gapni tinglab, ism yoki savol yozing: My name is..., What is your name? Shundan so'ng, shunday qilib yozing.","level_hint":"sekin nutq, 30 soniya"},
+  "review": {"topic":"isminizni aytish","schedule_days":[3,7,21,60]}
+}

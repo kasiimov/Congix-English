@@ -1,0 +1,74 @@
+{
+  "id": "st-b2-l3",
+  "level": "Starter",
+  "block": "st-b2",
+  "title": "Atrofdagi narsalarni atash",
+  "can_do": "O'z atrofidagi asosiy narsalarni inglizcha atasiz",
+  "why": "O'z atrofida bo'lgan narsalarni inglizcha atash — bu darslarda ishlatiladigan eng asosiy so'zlar. Majburiy atama parser orqali ishlatiladigan so'zlarga ko'proq kirishadi.",
+  "rule": {
+    "title": "Otlar — inglizcha atrofga oid so'zlashuv",
+    "points": [
+      {"text": "Ingliz tilida o'z atrofidagi narsalarni atashda asosiy much bir xil shaklda ishlatiladi: masalan, table — stol, chair — stul. Bundan keyin inglizcha birlik bilan ishlatiladi: a table, a chair.",
+       "examples": [
+         {"en": "a table — stol, a chair — stul", "uz": "a table — stol, a chair — stul"},
+         {"en": "I see a table. — Men stolni ko'raman.", "uz": "I see a table. — Men stolni ko'raman."}
+       ]},
+      {"text": "Otlar birlikda ishlatiladi: a table, a chair, a cup. Lekin ba'zi so'zlar bir necha shaklda ishlatiladi: masalan, shop — do'kondan (otlar — keylari), book — kitob.",
+       "examples": [
+         {"en": "a shop — do'kondan (otlar keylari)", "uz": "a shop — do'kondan"},
+         {"en": "a book — kitob, a pen — qalam", "uz": "a book — kitob, a pen — qalam"}
+       ]},
+      {"text": "Ba'zi otlar shunga o'xshash yoki biri-biriga o'xshash. Masalan, clock va watch — bu yerda bir xil atama, lekin clock — soat (stol soati), watch — soat (barmoqda ulangan).",
+       "examples": [
+         {"en": "a clock — stol soati, a watch — barmoq soati", "uz": "a clock — stol soati, a watch — barmoq soati"},
+         {"en": "What time is it? — Soat necha?", "uz": "What time is it? — Soat necha?"}
+       ]}
+    ],
+    "table": {
+      "head": ["O'zbekcha", "Inglizcha", "Misol gap"],
+      "rows": [
+        ["stol", "table", "The table is big."],
+        ["stul", "chair", "I sit on the chair."],
+        ["cho'rna", "cup", "I drink from a cup."],
+        ["do'koni", "shop", "The shop is open."],
+        ["kundalik", "key", "I have a key."],
+        ["telefon", "phone", "My phone is new."],
+        ["kitob", "book", "I read a book."],
+        ["qalam", "pen", "I write with a pen."],
+        ["soat", "clock", "The clock is on the wall."],
+        ["soat (barmoqda)", "watch", "I wear a watch."]
+      ]
+    }
+  },
+  "common_errors": [
+    {"wrong": "table — stol — inglizcha birlik sha kiladi:emas", "right": "a table — stol (birlik bilan ishlatiladi)", "why": "Ingliz tilida ot — birlik bilan ishlatiladi: a table, a chair emas, faqat table emas"},
+    {"wrong": "clock — soat, watch — soat — barcha soat bir xil", "right": "clock — stol soati, watch — barmoqda ulangan soat (boshqa ma'noda)", "why": "clock va watch — bir xil emas, clock — hozirgi soati, watch — boshqa soat"},
+    {"wrong": "shop — do'kondan kiritilgan", "right": "shop — do'kondan (do'kondon — o'zbekcha ma'nose emas)", "why": "shop — inglizcha do'kondan, o'zbekcha do'kondan emas"},
+    {"wrong": "key — chaqir", "right": "key — kalit, so'zcha — k", "why": "key — key emas, kalit emas"}
+  ],
+  "words": [
+    {"en":"table","uz":"stol","ipa":"/ˈteɪbəl/","example":"The table is near the window."},
+    {"en":"chair","uz":"stul (yozuv)","ipa":"/tʃer/","example":"I sit on the chair."},
+    {"en":"cup","uz":"cho'rna","ipa":"/kʌp/","example":"I drink from a cup."},
+    {"en":"box","uz":"quti","ipa":"/bɒks/","example":"The box is on the table."},
+    {"en":"window","uz":"deraza","ipa":"/ˈwɪndoʊ/","example":"The window is open."},
+    {"en":"door","uz":"eshik","ipa":"/dɔːr/","example":"Close the door."},
+    {"en":"bed","uz":"tuxum","ipa":"/bed/","example":"The bed is soft."},
+    {"en":"lamp","uz":"chiror (yoki lamp)","ipa":"/læmp/","example":"The lamp is on the desk."},
+    {"en":"phone","uz":"telefon","ipa":"/foʊn/","example":"His phone is old."},
+    {"en":"book","uz":"kitob","ipa":"/bʊk/","example":"I read an interesting book."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi — tur raqamlari docs/mashqlar.md.",
+    "items": [
+      {"type":2,"count":2,"focus":"otning inglizcha nomini to'g'ri tanlash: stol — table, stul — chair"},
+      {"type":3,"count":2,"focus":"bo'sh joyni to'g'ri to'ldirish: a ... on the table — cup / box / phone"},
+      {"type":5,"count":2,"focus":"xato qilingan otmatchilar: clock — watch bir xil, key — chaqir emas"},
+      {"type":4,"count":2,"focus":"o'z hujjatida bo'lgan narsani 3 gap yozish (a table, a chair, a cup)"},
+      {"type":6,"count":2,"focus":"tarjima: «Men stulda otam» — I am on the chair emas, I am sitting on the chair — a tashqi so'z mobil tarmog'i emas"}
+    ],
+    "final":{"type":7,"task":"O'z xonangizdagi 6 ta narsani inglizcha atang: a table ..., a chair ..., a cup ..."}
+  },
+  "skill_task":{"kind":"listening","task":"Amaliy mashkel: suhbatdagi narsalarni tingla — a table, a chair, a cup. Har bir narsani tushunib, o'ziga xos gap isting: «I see a table...» Shunda siz yordam berasiz.","level_hint":"sekin nutq, 30 soniya"},
+  "review":{"topic":"atrif narsa nomlari","schedule_days":[3,7,21,60]}
+}

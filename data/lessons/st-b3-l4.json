@@ -1,0 +1,73 @@
+{
+  "id": "st-b3-l4",
+  "level": "Starter",
+  "block": "st-b3",
+  "title": "Kimning narsasi ekanini aytasiz: my, your, his, her",
+  "can_do": "Egalilik ulmoshlarini to'g'ri ishlatasiz: my, your, his, her",
+  "why": "Ingliz tilida egalilik — bu narsaning egalasini ko'rsatish: my bag — mening sumkamm, his key — uning kaliti. Shunday qilib, egalik ulmoshlarini tanlash kerak. Shunday qilib, shunday yodlang.",
+  "rule": {
+    "title": "Egalilik ulmoshlari: my, your, his, her",
+    "points": [
+      {
+        "text": "Ingliz tilida egalilik ulmoshlari: my — menga, your — sizning (siz), his — uning (og'a), her — uning (ayol). Shunday qilib, egalik ulmoshlarini tanlash kerak.",
+        "examples": [
+          {"en": "my bag — mening sumkamm", "uz": "my bag — mening sumkamm"},
+          {"en": "your bag — sizning sumkangiz", "uz": "your bag — sizning sumkangiz"},
+          {"en": "his bag — uning sumkasi (og'a)", "uz": "his bag — uning sumkasi (og'a)"},
+          {"en": "her bag — uning sumkasi (ayol)", "uz": "her bag — uning sumkasi (ayol)"}
+        ]
+      },
+      {
+        "text": "His — og'a egalik, her — ayol egalik. Bundan keyin, shunday qilib, shunday yodlang. Shunday qilib, shunday yodlang.",
+        "examples": [
+          {"en": "His is my brother — U menga akam (og'a)", "uz": "His is my brother — U menga akam (og'a)"},
+          {"en": "Her is my sister — U menga opam (ayol)", "uz": "Her is my sister — U menga opam (ayol)"}
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Shaxs", "Egalik ulmoshi", "Misol so'z", "Tarjima"],
+      "rows": [
+        ["Men", "my", "my bag", "mening sumkamm"],
+        ["Siz", "your", "your bag", "sizning sumkangiz"],
+        ["Og'a (he)", "his", "his bag", "uning sumkasi (og'a)"],
+        ["Ayol (she)", "her", "her bag", "uning sumkasi (ayol)"]
+      ]
+    },
+    "common_errors": [
+      {"wrong": "His — ayol egalik — her emas", "right": "His — og'a egalik — his emas — shunday qilib — shunday yodlang", "why": "His — og'a egalik — his emas — shunday qilib. Shunday qilib, shunday yodlang."},
+      {"wrong": "Her — og'a egalik — his emas", "right": "Her — ayol egalik — her emas — shunday qilib — shunday yodlang", "why": "Her — ayol egalik — her emas — shunday qilib. Shunday qilib, shunday yodlang."},
+      {"wrong": "My — your egalik — his emas — her emas", "right": "My — menga egalik — my bag — sizning sumkamm — shunday qilib — shunday yodlang", "why": "My — menga egalik — my bag — sizning sumkamm — shunday qilib. Shunday qilib, shunday yodlang."},
+      {"wrong": "Your — my egalik — your bag — shunday qilib yodlang", "right": "Your — sizning egalik — your bag — sizning sumkangiz — shunday qilib yodlang", "why": "Your — sizning egalik — your bag — sizning sumkangiz — shunday qilib. Shunday qilib, shunday yodlang."}
+    ]
+  },
+  "words": [
+    {"en": "my", "uz": "mening", "ipa": "/maɪ/", "example": "my bag — mening sumkamm"},
+    {"en": "your", "uz": "sizning", "ipa": "/jɔː(r)/", "example": "your bag — sizning sumkangiz"},
+    {"en": "his", "uz": "uning (og'a)", "ipa": "/hɪz/", "example": "his bag — uning sumkasi (og'a)"},
+    {"en": "her", "uz": "uning (ayol)", "ipa": "/hɜː(r)/", "example": "her bag — uning sumkasi (ayol)"},
+    {"en": "mother", "uz": "ona", "ipa": "/ˈmʌðə(r)/", "example": "My mother is here."},
+    {"en": "father", "uz": "ota", "ipa": "/ˈfɑːðə(r)/", "example": "My father is at work."},
+    {"en": "brother", "uz": "aka", "ipa": "/ˈbrʌðə(r)/", "example": "His brother is young."},
+    {"en": "sister", "uz": "opa", "ipa": "/ˈsɪstə(r)/", "example": "Her sister is my friend."},
+    {"en": "friend", "uz": "do'st", "ipa": "/frend/", "example": "My friend is here."},
+    {"en": "bag", "uz": "sumka, to'qima", "ipa": "/bæɡ/", "example": "This is my bag."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi — tur raqamlari docs/mashqlar.md shkalasi.",
+    "items": [
+      {"type":2,"count":2,"focus":"egalik ulmoshlarini tanlash: my/emas, your/emas, his/emas, her/emas"},
+      {"type":3,"count":2,"focus":"egalik ulmosh bilan gap tuzish: his friend — her friend — my mother — your father"},
+      {"type":5,"count":2,"focus":"xato: his — ayol egalik namunida yoki her — og'a egalik namunida"},
+      {"type":4,"count":2,"focus":"o'z oilangizning odamlarining egalik ulmoshlarini yozing: my brother, his sister, her mother, your father"},
+      {"type":6,"count":2,"focus":"tarjima: «Mening akam» — His brother (og'a) — yoki My brother? shunday qilib emas — shunday yodlang — «O'z oilangizning odamlarining egalik ulmoshlarini yozing: shunday yodlang — shunday yodlang — «O'z oilangizning egalik ulmoshlarini yozing» — shunday yodlang. Shu sababni yodlang."}
+    ],
+    "final":{"type":7,"task":"O'z oilangizdagi 4 odam haqida 4 ta gap yozing: my mother, your father, his brother, her sister — shunday yodlang."}
+  },
+  "skill_task": {
+    "kind": "listening",
+    "task": "O'quvchi egalik ulmoshlashishni tinglab, ulmosh shaklini yozing: my bag — your bag — his bag — her bag. Shundan so'ng, shunday qilib, egalik ulmoshlarini yozing: shunday yodlang.",
+    "level_hint": "sekin nutq, 30 soniya"
+  },
+  "review": { "topic": "egalik ulmoshlari: my/your/his/her", "schedule_days": [3, 7, 21, 60] }
+}

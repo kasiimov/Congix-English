@@ -1,0 +1,45 @@
+{
+  "id": "st-b4-l1",
+  "level": "Starter",
+  "block": "st-b4",
+  "title": "Ko'plikni yasash: -s, -es, irregular",
+  "can_do": "Ko'plikni to'g'ri yaza olasiz: -s, -es, irregular shakllarni bilasiz",
+  "why": "Ingliz tilida ko'plik — bunday ko'p hollarda -s qo'shiladi: one apple, two apples. Ba'zi so'zlar esa -es qo'shiladi (box → boxes), ba'zi so'zlar esa o'zi o'zgarib turibdi (child → children). Shunday qilib, ko'plikni yasashda shunday ko'plamlash kerak.",
+  "rule": {
+    "title": "Ko'plik — -s, -es, irregular shakllar",
+    "points": [
+      {"text":"Ko'plikni yasash uchun asosan -s qo'shiladi: one apple, two apples; one book, five books. Shunday qilib, -s qo'shiladi: har bir so'z bir xil shaklda qo'shiladi.","examples":[{"en":"one apple — ikkita olma (apple — apples)","uz":"one apple — ikkita olma (apple — apples)"},{"en":"one car — ikkita mashina (car — cars)","uz":"one car — ikkita mashina (car — cars)"}]},
+      {"text":"Ba'zi so'zlar -es bilan tugaydi: sh, s, x, ch, sh ga ega so'zlar: -es. Masalan, box — boxes, bus — buses, watch — watches, dish — dishes. Bundan dars tillarida shunday qilib yoziladi.","examples":[{"en":"one box — ikkita quti (box — boxes)","uz":"one box — ikkita quti (box — boxes)"},{"en":"one watch — ikkita soat (watch — watches)","uz":"one watch — ikkita soat (watch — watches)"}]},
+      {"text":"Irregular ko'pliklar — bu shunday shakllar: masalan, child — children, man — men, woman — women, tooth — teeth, foot — feet. Bundan keyin, shu shakllar o'zi o'zgarib turib, xato qilmaslik uchun eslab qoling.","examples":[{"en":"one child — ikkita bola (child — children)","uz":"one child — ikkita bola (child — children)"},{"en":"one man — ikkita odam (man — men)","uz":"one man — ikkita odam (man — men)"}]},
+      {"text":"Irregular ko'pliklar: person — people (bir nechta odamlar), people bo'ladi: people. Bundan keyin, ba'zi hollarda shunday ko'plamlash yoki qo'shilish kerak.","examples":[{"en":"one person — ikkita kishi (person — people)","uz":"one person — ikkita kishi (person — people)"}]}
+    ],
+    "table":{"head":["O'z (singular)","Ko'plik (plural)","Qoida"],"rows":[["apple","apples","-s"],["box","boxes","-es (sh/s/x/ch/sh)"],["bus","buses","-es"],["watch","watches","-es"],["child","children","irregular"],["man","men","irregular"],["woman","women","irregular"],["tooth","teeth","irregular"],["foot","feet","irregular"],["person","people","irregular"]]},
+    "common_errors":[
+      {"wrong":"childs — irregular emas, children","right":"child — children (children emas children)","why":"Child — children emas children. Shunday qilib shunday qilib children."},
+      {"wrong":"mans — emas, men — men","right":"man — men (irregular)","why":"Man — men emas, men emas, men emas, men emas, men emas. Shunday qilib men emas."},
+      {"wrong":"womans — women — women","right":"woman — women (irregular)","why":"Woman — women emas women, women emas, women emas. Shunday qilib women emas."},
+      {"wrong":"foots — feet — feet","right":"foot — feet (irregular)","why":"Foot — feet emas feet, feet emas, feet emas. Shunday qilib feet emas."},
+      {"wrong":"tooths — teeth — teeth","right":"tooth — teeth (irregular)","why":"Tooth — teeth emas teeth, teeth emas, teeth emas."}
+    ]
+  },
+  "words":[
+    {"en":"apple","uz":"olma","ipa":"/ˈæpəl/","example":"One apple, two apples."},
+    {"en":"car","uz":"mashina","ipa":"/kɑː(r)/","example":"I have a car."},
+    {"en":"box","uz":"quti","ipa":"/bɒks/","example":"A box on the table."},
+    {"en":"bus","uz":"avtobus","ipa":"/bʌs/","example":"I take the bus."},
+    {"en":"watch","uz":"soat (barmoqda)","ipa":"/wɒtʃ/","example":"I wear a watch."},
+    {"en":"child","uz":"bola","ipa":"/tʃaɪld/","example":"Every child plays."},
+    {"en":"man","uz":"odam","ipa":"/mæn/","example":"This man is my father."},
+    {"en":"woman","uz":"ayol","ipa":"/ˈwʊmən/","example":"This woman is my mother."},
+    {"en":"tooth","uz":"tish","ipa":"/tuːθ/","example":"I brush my teeth."},
+    {"en":"foot","uz":"oyoq","ipa":"/fʊt/","example":"I hurt my foot."}
+  ],
+  "practice_spec":{"note":"Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md shkalasi.","items":[
+    {"type":2,"count":2,"focus":"ko'plik shaklini tanlash: child — children (irregular) yoki childs"},
+    {"type":3,"count":2,"focus":"bir shaxs yoki bir nechta narsa haqida gap tuzish"},
+    {"type":5,"count":2,"focus":"xato ko'plamlashlar: childs, mans, foots, tooths — irregular emas"},
+    {"type":4,"count":2,"focus":"o'z atrofida ko'p narsalar: I have 3 ..., We have 2 ... yozish"},
+    {"type":6,"count":2,"focus":"tarjima: «bir bolalar» — children emas, child children, «bir ayollar» — women emas, woman women"}
+  ],"final":{"type":7,"task":"Sevgi — uchinchi shaxs haqida 4 ta gap yozing: men, odamlar, bolalar, o'tmishdagi hayvonlar."}},
+  "skill_task":{"kind":"listening","task":"Uchinchi shaxs uchun gapni tinglab, ko'plik shaklini yozing: child — children, man — men, woman — women, tooth — teeth, foot — feet. Shunda siz yordam berasiz.","level_hint":"sekin nutq, 30 soniya"},
+  "review":{"topic":"ko'plik: -s/-es/irregular","schedule_days":[3,7,21,60]}}
