@@ -1,0 +1,110 @@
+{
+  "id": "a1-b7-l6",
+  "level": "A1",
+  "block": "a1-b7",
+  "title": "Qachon bo'ldi: ago",
+  "can_do": "Voqea qachon bo'lganini aytasiz: uch kun oldin, o'tgan hafta",
+  "why": "«Uch kun oldin» ni inglizcha aytishning o'z tartibi bor: ago vaqt oralig'idan keyin keladi. «Before three days» — deyarli hamma qiladigan xato.",
+  "rule": {
+    "title": "ago — vaqt oralig'idan keyin",
+    "points": [
+      {
+        "text": "ago vaqt oralig'idan keyin turadi: three days ago, two weeks ago, a month ago. Tartib o'zbek tilidagidan teskari.",
+        "examples": [
+          { "en": "I saw him three days ago.", "uz": "Men uni uch kun oldin ko'rdim." },
+          { "en": "She left a month ago.", "uz": "U bir oy oldin ketdi." }
+        ]
+      },
+      {
+        "text": "Predlog kerak emas: «before three days» ham, «in three days ago» ham xato. Faqat uch kun ago.",
+        "examples": [
+          { "en": "We met a week ago.", "uz": "Biz bir hafta oldin tanishdik." }
+        ]
+      },
+      {
+        "text": "ago faqat Past Simple bilan ishlaydi: I saw, he came, they finished. Present Perfect bilan kelmaydi.",
+        "examples": [
+          { "en": "He came back two days ago.", "uz": "U ikki kun oldin qaytdi." }
+        ]
+      },
+      {
+        "text": "ago va before farqi: ago — hozirdan oldin, before — boshqa voqeadan oldin. Before the lesson — darsdan oldin, two days ago — ikki kun oldin.",
+        "examples": [
+          { "en": "I called you before the meeting.", "uz": "Men sizga uchrashuvdan oldin qo'ng'iroq qildim." },
+          { "en": "I called you two days ago.", "uz": "Men sizga ikki kun oldin qo'ng'iroq qildim." }
+        ]
+      },
+      {
+        "text": "Savol: When did it happen? — qachon bo'ldi, How long ago? — qancha oldin. Javobda ham ago ishlatiladi: Two hours ago.",
+        "examples": [
+          { "en": "— When did you lose your phone? — Two hours ago.", "uz": "— Telefoningizni qachon yo'qotdingiz? — Ikki soat oldin." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["O'zbekcha", "Inglizcha", "Izoh"],
+      "rows": [
+        ["uch kun oldin", "three days ago", "ago oxirida"],
+        ["bir hafta oldin", "a week ago", "a / one"],
+        ["o'tgan hafta", "last week", "last — ago talab qilmaydi"],
+        ["2015-yilda", "in 2015", "in + yil"],
+        ["ikki soat oldin", "two hours ago", "soat ham vaqt oralig'i"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "Before three days I saw him.",
+      "right": "I saw him three days ago.",
+      "why": "«Uch kun oldin» — three days ago. Before boshqa voqeadan oldin degani uchun bu yerda ishlatilmaydi."
+    },
+    {
+      "wrong": "Ago three days we met.",
+      "right": "We met three days ago.",
+      "why": "ago doim vaqt oralig'idan keyin turadi."
+    },
+    {
+      "wrong": "I have seen him two days ago.",
+      "right": "I saw him two days ago.",
+      "why": "ago aniq o'tgan vaqtni bildiradi, Present Perfect bilan ishlatilmaydi."
+    },
+    {
+      "wrong": "I finished it in two days ago.",
+      "right": "I finished it two days ago.",
+      "why": "ago oldida predlog kerak emas."
+    }
+  ],
+  "words": [
+    { "en": "ago", "uz": "oldin", "ipa": "/əˈɡəʊ/", "example": "Two days ago I visited my aunt." },
+    { "en": "last", "uz": "o'tgan", "ipa": "/lɑːst/", "example": "I saw her last week." },
+    { "en": "recently", "uz": "yaqinda", "ipa": "/ˈriːsntli/", "example": "Recently I started a new job." },
+    { "en": "news", "uz": "yangilik", "ipa": "/njuːz/", "example": "This is good news." },
+    { "en": "happen", "uz": "sodir bo'lmoq", "ipa": "/ˈhæpən/", "example": "What happened yesterday?" },
+    { "en": "story", "uz": "hikoya", "ipa": "/ˈstɔːri/", "example": "Tell me the whole story." },
+    { "en": "accident", "uz": "halokat, baxtsiz hodisa", "ipa": "/ˈæksɪdənt/", "example": "The accident happened a week ago." },
+    { "en": "find", "uz": "topmoq", "ipa": "/faɪnd/", "example": "I found this photo two days ago." },
+    { "en": "lose", "uz": "yo'qotmoq", "ipa": "/luːz/", "example": "She lost her key yesterday." },
+    { "en": "win", "uz": "yutmoq", "ipa": "/wɪn/", "example": "Our team won last week." },
+    { "en": "meet", "uz": "uchrashmoq", "ipa": "/miːt/", "example": "We met a month ago." },
+    { "en": "decide", "uz": "qaror qilmoq", "ipa": "/dɪˈsaɪd/", "example": "They decided to move last year." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 2, "count": 2, "focus": "gapga to'g'ri shaklni qo'yish: three days ___" },
+      { "type": 3, "count": 3, "focus": "sanani «… ago» shakliga o'tkazish" },
+      { "type": 5, "count": 3, "focus": "«before three days», «ago three days», «have seen … ago» xatolarini topish" },
+      { "type": 6, "count": 2, "focus": "o'zbekchadan tarjima: «Uni ikki hafta oldin ko'rdim»" }
+    ],
+    "final": { "type": 6, "task": "Beshta voqea yozing va har birida ago bilan qachon bo'lganini ayting." }
+  },
+  "skill_task": {
+    "kind": "speaking",
+    "task": "Qisqa yangilikni baland ovozda aytib bering: nima bo'ldi va qachon. Kamida uchta «… ago» ishlating.",
+    "level_hint": "4–5 gap, sekin sur'at"
+  },
+  "review": {
+    "topic": "ago bilan o'tgan vaqt",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "a1-b7-l7",
+  "level": "A1",
+  "block": "a1-b7",
+  "title": "Tabrik, qiziqish va tarjimai hol",
+  "can_do": "Bayram bilan tabriklaysiz, suhbatga qiziqish bildirasiz va tarjimai hol yozasiz",
+  "why": "Bir og'iz tabrik yoki «Really?» suhbatni davom ettiradi. Bu dars o'sha tayyor gaplarni beradi va ular bilan odam hayoti haqida qisqa matn yozishni o'rgatadi.",
+  "rule": {
+    "title": "Tayyor iboralar: tabrik va qiziqish",
+    "points": [
+      {
+        "text": "Tabriklar vaziyatga qarab tanlanadi: Happy birthday! — tug'ilgan kun, Congratulations! — to'y, ish, imtihon, Happy New Year! — Yangi yil, Well done! — yaxshi natija.",
+        "examples": [
+          { "en": "Happy birthday! Have a great day!", "uz": "Tug'ilgan kuningiz bilan! Kuningiz zo'r o'tsin!" },
+          { "en": "Well done! You passed the exam.", "uz": "Barakalla! Imtihondan o'tdingiz." }
+        ]
+      },
+      {
+        "text": "Suhbatdoshning xabariga qiziqish bildiriladi: Really?, That's interesting, What happened next?, Oh, I see. Javob bermaslik — befarqlik bo'lib eshitiladi.",
+        "examples": [
+          { "en": "— I moved to a new flat. — Really? That's interesting!", "uz": "— Yangi kvartiraga ko'chdim. — Rostdanmi? Qiziq!" },
+          { "en": "— Then we lost the keys. — Oh no! What happened next?", "uz": "— Keyin kalitlarni yo'qotdik. — E, achinarli! Keyin nima bo'ldi?" }
+        ]
+      },
+      {
+        "text": "«Happy Birthday to you!» qo'shiq matni, tabrik sifatida esa qisqa «Happy birthday!» yetarli. Bir xil iborani uzaytirish shart emas.",
+        "examples": [
+          { "en": "Happy birthday, Aziz!", "uz": "Tug'ilgan kuning bilan, Aziz!" }
+        ]
+      },
+      {
+        "text": "Tarjimai hol o'tgan zamonda yoziladi: u qachon tug'ilgan, qayerda o'qigan, nima qilgan. Tug'ilish uchun faqat was born ishlatiladi: He was born in 1980.",
+        "examples": [
+          { "en": "He was born in 1980 in Bukhara.", "uz": "U 1980-yilda Buxoroda tug'ilgan." },
+          { "en": "She studied medicine and worked in a hospital.", "uz": "U tibbiyot o'qigan va kasalxonada ishlagan." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Vaziyat", "Iborasi"],
+      "rows": [
+        ["tug'ilgan kun", "Happy birthday!"],
+        ["to'y, yangi ish, imtihon", "Congratulations!"],
+        ["Yangi yil", "Happy New Year!"],
+        ["yaxshi natija", "Well done!"],
+        ["hayratli xabar", "Really? That's interesting!"],
+        ["hikoyani davom ettirish", "What happened next?"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "Happy Birthday to you! (yagona tabrik sifatida)",
+      "right": "Happy birthday!",
+      "why": "Qo'shiq matni emas, oddiy tabrik yetarli. Uzun shakl tantanali bo'lib eshitiladi."
+    },
+    {
+      "wrong": "Congratulation!",
+      "right": "Congratulations!",
+      "why": "Bu so'z doim ko'plikda ishlatiladi."
+    },
+    {
+      "wrong": "What happened then next?",
+      "right": "What happened next?",
+      "why": "then va next birga ishlatilmaydi, bittasi tanlanadi."
+    },
+    {
+      "wrong": "He is born in 1980.",
+      "right": "He was born in 1980.",
+      "why": "Tug'ilish haqida gapirganda doim was born ishlatiladi — bu o'tgan zamon."
+    },
+    {
+      "wrong": "— I got a new job. — Yes.",
+      "right": "— I got a new job. — Really? That's great!",
+      "why": "Xushxabarga quruq «yes» befarqlik bo'lib eshitiladi, ibora bilan javob beriladi."
+    }
+  ],
+  "words": [
+    { "en": "birthday", "uz": "tug'ilgan kun", "ipa": "/ˈbɜːθdeɪ/", "example": "Happy birthday, Dilnoza!" },
+    { "en": "wedding", "uz": "to'y", "ipa": "/ˈwedɪŋ/", "example": "Their wedding was in May." },
+    { "en": "anniversary", "uz": "yubiley", "ipa": "/ˌænɪˈvɜːsəri/", "example": "It is their tenth anniversary." },
+    { "en": "celebrate", "uz": "nishonlamoq", "ipa": "/ˈselɪbreɪt/", "example": "We celebrated my father's birthday." },
+    { "en": "present", "uz": "sovg'a", "ipa": "/ˈpreznt/", "example": "They gave me a nice present." },
+    { "en": "guest", "uz": "mehmon", "ipa": "/ɡest/", "example": "There were twenty guests." },
+    { "en": "invite", "uz": "taklif qilmoq", "ipa": "/ɪnˈvaɪt/", "example": "She invited us to the wedding." },
+    { "en": "well done", "uz": "barakalla", "ipa": "/ˌwel ˈdʌn/", "example": "Well done! Great result!" },
+    { "en": "interesting", "uz": "qiziqarli", "ipa": "/ˈɪntrəstɪŋ/", "example": "That's an interesting story." },
+    { "en": "happened", "uz": "sodir bo'ldi", "ipa": "/ˈhæpənd/", "example": "What happened next?" },
+    { "en": "next", "uz": "keyin, keyingi", "ipa": "/nekst/", "example": "What happened next?" },
+    { "en": "later", "uz": "keyinroq", "ipa": "/ˈleɪtə/", "example": "Two years later he moved to Tashkent." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 1, "count": 2, "focus": "vaziyatga mos tabrikni tanlash" },
+      { "type": 4, "count": 3, "focus": "xabarga qiziqish bildiruvchi javob yozish" },
+      { "type": 5, "count": 2, "focus": "«He is born», «Congratulation», «then next» xatolarini topish" },
+      { "type": 7, "count": 3, "focus": "tabrik yozish va qisqa tarjimai hol tuzish" }
+    ],
+    "final": { "type": 7, "task": "Hurmat qiladigan odamingiz haqida tarjimai hol yozing: qachon tug'ilgan, qayerda o'qigan, nima qilgan. 6–7 gap, hammasi o'tgan zamonda." }
+  },
+  "skill_task": {
+    "kind": "grammar",
+    "task": "Unit 8 ni takrorlang: was / were, -ed va obyekt olmoshlari bilan beshta gap tuzing. Keyin beshta xatoli gap yozing va xatoni tushuntiring.",
+    "level_hint": "takrorlash, 10 daqiqa"
+  },
+  "review": {
+    "topic": "tabriklar, qiziqish iboralari va tarjimai hol",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

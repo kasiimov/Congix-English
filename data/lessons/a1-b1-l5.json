@@ -1,0 +1,111 @@
+{
+  "id": "a1-b1-l5",
+  "level": "A1",
+  "block": "a1-b1",
+  "title": "Salomlashish, xayrlashish va anketa",
+  "can_do": "Salomlashasiz, xayrlashasiz va oddiy anketani to'ldirasiz",
+  "why": "Bu dars grammatika emas — tayyor iboralar. Suhbat shu gaplar bilan boshlanadi, shuning uchun ularni xato qilmasdan bilish kerak.",
+  "rule": {
+    "title": "Tayyor iboralar: salomlashish va xayrlashish",
+    "points": [
+      {
+        "text": "Salomlashish vaqtga bog'liq: Good morning — tushgacha, Good afternoon — soat 18:00 gacha, Good evening — kechqurun. Hello va Hi vaqtga bog'lanmaydi, Hi — do'stona shakl.",
+        "examples": [
+          { "en": "Good morning, Mr Karimov!", "uz": "Xayrli tong, janob Karimov!" },
+          { "en": "Hi, Aziz! How are you?", "uz": "Salom, Aziz! Qalaysan?" }
+        ]
+      },
+      {
+        "text": "Good night — bu salomlashish emas. U faqat uxlashdan oldin aytiladi. Kechqurun uchrashganda Good evening deyiladi.",
+        "examples": [
+          { "en": "Good evening! Nice to see you.", "uz": "Xayrli kech! Ko'rganimdan xursandman." },
+          { "en": "Good night! Sleep well.", "uz": "Yaxshi tun! Tinch uxlang." }
+        ]
+      },
+      {
+        "text": "Xayrlashishning oddiy shakllari: Goodbye, Bye, See you later, Have a nice day. Do'stlar orasida Bye ishlatiladi, ishda esa Goodbye yoki Have a nice day xushmuomala.",
+        "examples": [
+          { "en": "Bye! See you tomorrow.", "uz": "Xayr! Ertaga ko'rishguncha." },
+          { "en": "Goodbye. Have a nice day!", "uz": "Xayr. Kuningiz yaxshi o'tsin!" }
+        ]
+      },
+      {
+        "text": "«How are you?» savoli javobsiz qolmaydi: I'm fine, thanks. And you? — javobni qaytarish odat. Faqat Fine deyish suhbatni to'xtatadi.",
+        "examples": [
+          { "en": "— How are you? — I'm fine, thanks. And you?", "uz": "— Qalaysiz? — Yaxshi, rahmat. O'zingiz-chi?" }
+        ]
+      },
+      {
+        "text": "Anketada tartib boshqa: avval First name (ism), keyin Surname (familiya). Address — manzil, Phone number — telefon, Date of birth — tug'ilgan sana.",
+        "examples": [
+          { "en": "First name: Dilnoza. Surname: Karimova.", "uz": "Ism: Dilnoza. Familiya: Karimova." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Iborasi", "Qachon", "Misol"],
+      "rows": [
+        ["Good morning", "tushgacha", "Good morning, teacher!"],
+        ["Good afternoon", "12:00 – 18:00", "Good afternoon, sir."],
+        ["Good evening", "kechqurun", "Good evening, Mrs Azimova."],
+        ["Good night", "faqat uxlashdan oldin", "Good night, mum."],
+        ["See you later", "xayrlashish", "See you later, Aziz!"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "Good night! (kechqurun uchrashganda)",
+      "right": "Good evening!",
+      "why": "Good night faqat uxlashdan oldin aytiladi. Salomlashish uchun Good evening kerak."
+    },
+    {
+      "wrong": "— How are you? — Fine.",
+      "right": "— How are you? — I'm fine, thanks. And you?",
+      "why": "Javob qaytarilmagani suhbatni to'xtatadi. Ingliz tilida And you? — odat."
+    },
+    {
+      "wrong": "Good day! (xayrlashganda)",
+      "right": "Have a nice day!",
+      "why": "«Xayrli kun» ning so'zma-so'z tarjimasi ingliz tilida ishlatilmaydi, u kulgi yoki kinoya bo'lib eshitiladi."
+    },
+    {
+      "wrong": "Anketada: First name — Karimov.",
+      "right": "Anketada: First name — Aziz, Surname — Karimov.",
+      "why": "First name — ism, Surname — familiya. O'zbek tilidagi tartib bu yerda teskari."
+    }
+  ],
+  "words": [
+    { "en": "hello", "uz": "salom", "ipa": "/həˈləʊ/", "example": "Hello! Nice to meet you." },
+    { "en": "goodbye", "uz": "xayr", "ipa": "/ˌɡʊdˈbaɪ/", "example": "Goodbye! See you on Monday." },
+    { "en": "morning", "uz": "ertalab", "ipa": "/ˈmɔːnɪŋ/", "example": "Good morning, everybody!" },
+    { "en": "afternoon", "uz": "kunduzi", "ipa": "/ˌɑːftəˈnuːn/", "example": "Good afternoon, Mr Karimov." },
+    { "en": "evening", "uz": "kechqurun", "ipa": "/ˈiːvnɪŋ/", "example": "Good evening! Welcome to our lesson." },
+    { "en": "night", "uz": "tun", "ipa": "/naɪt/", "example": "Good night! Sleep well." },
+    { "en": "see you", "uz": "ko'rishguncha", "ipa": "/ˈsiː juː/", "example": "See you later!" },
+    { "en": "first name", "uz": "ism", "ipa": "/ˈfɜːst neɪm/", "example": "My first name is Dilnoza." },
+    { "en": "surname", "uz": "familiya", "ipa": "/ˈsɜːneɪm/", "example": "My surname is Karimova." },
+    { "en": "address", "uz": "manzil", "ipa": "/əˈdres/", "example": "What is your address?" },
+    { "en": "phone number", "uz": "telefon raqami", "ipa": "/ˈfəʊn ˌnʌmbə/", "example": "My phone number is 90 123 45 67." },
+    { "en": "date of birth", "uz": "tug'ilgan sana", "ipa": "/ˌdeɪt əv ˈbɜːθ/", "example": "Date of birth: 5 May 2006." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 1, "count": 2, "focus": "qaysi salomlashish qaysi vaqtga mos keladi" },
+      { "type": 3, "count": 2, "focus": "do'stona shaklni rasmiy shaklga o'tkazish: Hi → Good morning" },
+      { "type": 5, "count": 2, "focus": "«Good night» salomlashishda ishlatilganini topish va tushuntirish" },
+      { "type": 7, "count": 2, "focus": "qisqa suhbat o'ylab topish: salomlashish, How are you, xayrlashish" }
+    ],
+    "final": { "type": 7, "task": "Til kursiga yozilyapsiz. Anketani to'ldiring: ism, familiya, yosh, shahar, telefon. Keyin o'qituvchi bilan salomlashuvni yozing." }
+  },
+  "skill_task": {
+    "kind": "grammar",
+    "task": "Unit 1 ni takrorlang: to be bog'lamasi va savol so'zlari bilan beshta gap tuzing. Keyin beshta xatoli gap yozing va xatoni tushuntiring.",
+    "level_hint": "takrorlash, 10 daqiqa"
+  },
+  "review": {
+    "topic": "salomlashish, xayrlashish va anketa iboralari",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "a1-b6-l5",
+  "level": "A1",
+  "block": "a1-b6",
+  "title": "Odob bilan iltimos qilish va post yozish",
+  "can_do": "Odob bilan iltimos qilasiz va ijtimoiy tarmoqqa post yozasiz",
+  "why": "Iltimosning shakli noto'g'ri bo'lsa, u buyruq bo'lib eshitiladi. Bu dars uchta iltimos shaklini va javob berish odatini o'rgatadi.",
+  "rule": {
+    "title": "Iltimos shakllari va bo'sh vaqt posti",
+    "points": [
+      {
+        "text": "Iltimos oddiydan xushmuomalagacha: Can you …? → Could you …? → Would you mind …? Oxirgi shakl eng muloyim, uni tanish uchun bilish kifoya, o'zingiz ham ishlatishingiz mumkin.",
+        "examples": [
+          { "en": "Can you help me, please?", "uz": "Yordam bera olasizmi?" },
+          { "en": "Could you close the door?", "uz": "Eshikni yopa olasizmi?" }
+        ]
+      },
+      {
+        "text": "Could dan keyin fe'l to shaklida kelmaydi: Could you help me? — Could you to help me? xato.",
+        "examples": [
+          { "en": "Could you wait a moment?", "uz": "Bir daqiqa kutib turasizmi?" }
+        ]
+      },
+      {
+        "text": "Javoblar: Sure, Of course, I'd be happy to help. Rad etishda Sorry dan keyin sabab aytiladi — sababsiz «No, I can't» qo'pol eshitiladi.",
+        "examples": [
+          { "en": "— Could you help me? — Sure, no problem.", "uz": "— Yordam bera olasizmi? — Albatta, muammo emas." },
+          { "en": "— Can you come now? — Sorry, I can't. I'm busy.", "uz": "— Hozir kela olasizmi? — Kechirasiz, kelolmayman. Bandman." }
+        ]
+      },
+      {
+        "text": "Please gap oxirida turadi va vergul bilan ajratilmaydi: Can you wait, please? — Please, can you wait? shakli kitobiy eshitiladi.",
+        "examples": [
+          { "en": "Can you repeat that, please?", "uz": "Buni yana takrorlaysizmi, iltimos?" },
+          { "en": "Could you call me later, please?", "uz": "Keyinroq qo'ng'iroq qilasizmi, iltimos?" }
+        ]
+      },
+      {
+        "text": "Post janri qisqa va jonli: nima qilasiz, nima uchun yoqadi, oxirida o'quvchilarga savol. Havola yoki rasm haqida ham bitta gap qo'shiladi: Look at my photo!",
+        "examples": [
+          { "en": "I love fishing! Look at this photo. Do you like fishing too?", "uz": "Men baliq ovini juda yaxshi ko'raman! Mana bu rasmga qarang. Siz ham baliq ovini yaxshi ko'rasizmi?" }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Shakl", "Ma'nosi", "Javob"],
+      "rows": [
+        ["Can you …?", "odobli iltimos", "Sure. / Of course."],
+        ["Could you …?", "yanada odobli", "Of course. / I'd be happy to."],
+        ["Would you mind …?", "eng odobli", "Not at all."],
+        ["Can I …?", "ruxsat so'rash", "Yes, of course."],
+        ["Sorry, I can't.", "rad etish", "sabab bilan"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "Please give me your pen.",
+      "right": "Can I borrow your pen, please?",
+      "why": "«Give me» buyruq bo'lib eshitiladi. Iltimos Can I borrow bilan boshlanadi."
+    },
+    {
+      "wrong": "Could you to help me?",
+      "right": "Could you help me?",
+      "why": "Modal fe'ldan keyin to qo'yilmaydi, fe'l boshlang'ich shaklda keladi."
+    },
+    {
+      "wrong": "— Can you come? — No, I can't.",
+      "right": "— Can you come? — Sorry, I can't. I'm busy.",
+      "why": "Rad etishda avval Sorry, keyin sabab aytiladi."
+    },
+    {
+      "wrong": "Please, can you open the window?",
+      "right": "Can you open the window, please?",
+      "why": "Tabiiy tartibda please gap oxirida turadi."
+    }
+  ],
+  "words": [
+    { "en": "could", "uz": "qila olasizmi (odobli)", "ipa": "/kʊd/", "example": "Could you help me, please?" },
+    { "en": "sure", "uz": "albatta", "ipa": "/ʃʊə/", "example": "— Can you help? — Sure!" },
+    { "en": "of course", "uz": "albatta", "ipa": "/əv ˈkɔːs/", "example": "— Could you wait? — Of course." },
+    { "en": "mind", "uz": "qarshi bo'lmoq", "ipa": "/maɪnd/", "example": "Would you mind waiting a moment?" },
+    { "en": "favour", "uz": "yaxshilik, iltimos", "ipa": "/ˈfeɪvə/", "example": "Can you do me a favour?" },
+    { "en": "moment", "uz": "daqiqa, lahza", "ipa": "/ˈməʊmənt/", "example": "Wait a moment, please." },
+    { "en": "wait", "uz": "kutmoq", "ipa": "/weɪt/", "example": "Could you wait here?" },
+    { "en": "follow", "uz": "kuzatmoq", "ipa": "/ˈfɒləʊ/", "example": "Follow me on Instagram!" },
+    { "en": "share", "uz": "ulashmoq", "ipa": "/ʃeə/", "example": "Share this post with your friends." },
+    { "en": "comment", "uz": "izoh yozmoq", "ipa": "/ˈkɒment/", "example": "Write a comment below." },
+    { "en": "like", "uz": "layk bosmoq", "ipa": "/laɪk/", "example": "Like my new photo!" },
+    { "en": "post", "uz": "post, yozuv", "ipa": "/pəʊst/", "example": "I wrote a post about my hobby." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 3, "count": 2, "focus": "«Can you …?» ni «Could you …?» shakliga o'tkazish" },
+      { "type": 4, "count": 3, "focus": "vaziyatga mos iltimos yozish: do'konda, darsda, uyda" },
+      { "type": 5, "count": 2, "focus": "uslub xatosi: buyruq va sababsiz rad etish" },
+      { "type": 7, "count": 3, "focus": "iltimos dialogi va hobbi haqida post yozish" }
+    ],
+    "final": { "type": 7, "task": "Hobbiyingiz haqida post yozing: nima qilasiz, nega yoqadi va o'quvchilarga bitta savol. 6 gap." }
+  },
+  "skill_task": {
+    "kind": "grammar",
+    "task": "Unit 7 ni takrorlang: can, ravishlar va like + -ing bilan beshta gap tuzing. Keyin beshta xatoli gap yozing va xatoni tushuntiring.",
+    "level_hint": "takrorlash, 10 daqiqa"
+  },
+  "review": {
+    "topic": "iltimos shakllari, post yozish",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

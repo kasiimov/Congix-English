@@ -75,7 +75,7 @@ Listening/Reading есть свой фокус на этой теме, берё�
 | 1.1 On business or on holiday? | verb be (I/you) | `a1-b1-l1` | 🟢 |
 | 1.2 Where are you from? | verb be (we/you) | `a1-b1-l4` | 🟢 |
 | 1.3 How do you spell that? | question words | `a1-b1-l2` | 🟢 |
-| 1.4 Speaking and writing | — (hello/goodbye, форма) | — | 🔴 |
+| 1.4 Speaking and writing | — (hello/goodbye, форма) | `a1-b1-l5` | 🟢 |
 | 2.1 What's this in English? | this/that/these/those; verb be (it/they) | `st-b4-l1`, `st-b4-l2` | 🟢 |
 | 2.2 What's your job? | verb be (he/she/it/they) | `a1-b1-l1` | 🟡 |
 | 2.3 Where are they? | subject pronouns | `st-b3-l2`, `a1-b4-l2` | 🟢 |
@@ -83,38 +83,44 @@ Listening/Reading есть свой фокус на этой теме, берё�
 | 3.1 My neighbours | have got, has got | `a1-b2-l1`, `a1-b2-l3` | 🟢 |
 | 3.2 Possessions | have got negatives and questions | `a1-b2-l1` | 🟡 |
 | 3.3 Family | possessive determiners; possessive 's | `a1-b2-l2` | 🟢 |
-| 3.4 Speaking and writing | — (обиходные фразы, соцсети) | — | 🔴 |
+| 3.4 Speaking and writing | — (обиходные фразы, соцсети) | `a1-b2-l4` | 🟢 |
 | 4.1 About me | present simple positive | `a1-b3-l1` | 🟢 |
 | 4.2 Journeys | present simple negative | `a1-b3-l4`, `a1-b4-l4` | 🟡 |
 | 4.3 My day | present simple yes/no questions | `a1-b3-l4` | 🟢 |
 | 4.4 Speaking and writing | — (в магазине, email) | `a1-b5-l3` | 🟡 |
 | 5.1 Clothes style | adverbs of frequency | `a1-b3-l2` | 🟢 |
-| 5.2 Amazing architecture | Wh- questions | — | 🔴 |
+| 5.2 Amazing architecture | Wh- questions | `a1-b4-l5` | 🟢 |
 | 5.3 Styles around the world | present simple — all forms | `a1-b3-l1` | 🟡 |
 | 5.4 Speaking and writing | — (в дороге, смс) | `a1-b4-l3` | 🟡 |
 | 6.1 Two towns | there is / there are | `a1-b4-l1` | 🟢 |
-| 6.2 Is there Wi-Fi? | Is there…? / Are there…? | `a1-b4-l1` | 🟡 |
-| 6.3 Has each flat got a kitchen? | each and all the | — | 🔴 |
-| 6.4 Speaking and writing | — (проблема, отзыв) | — | 🔴 |
+| 6.2 Is there Wi-Fi? | Is there…? / Are there…? | `a1-b8-l1` | 🟢 |
+| 6.3 Has each flat got a kitchen? | each and all the | `a1-b8-l2` | 🟢 |
+| 6.4 Speaking and writing | — (проблема, отзыв) | `a1-b8-l3` | 🟢 |
 | 7.1 She can paint | can / can't | `a1-b6-l1` | 🟢 |
 | 7.2 Can you help? | Can you…?; adverbs of manner | `a1-b6-l1` | 🟡 |
-| 7.3 I like going out | like + -ing | — | 🔴 |
-| 7.4 Speaking and writing | — (просьбы, пост) | — | 🔴 |
+| 7.3 I like going out | like + -ing | `a1-b6-l4` | 🟢 |
+| 7.4 Speaking and writing | — (просьбы, пост) | `a1-b6-l5` | 🟢 |
 | 8.1 When we were seven | verb be past simple | `a1-b7-l1` | 🟢 |
 | 8.2 Lives from the past | past simple regular verbs | `a1-b7-l2` | 🟢 |
-| 8.3 Special moments | object pronouns | — | 🔴 |
-| 8.4 Speaking and writing | — (события, биография) | — | 🔴 |
+| 8.3 Special moments | object pronouns | `a1-b7-l5` | 🟢 |
+| 8.4 Speaking and writing | — (события, биография) | `a1-b7-l7` | 🟢 |
 | 9.1 Happy memories | past simple irregular verbs | `a1-b7-l3` | 🟢 |
 | 9.2 A good excuse | past simple negatives and questions | `a1-b7-l4` | 🟢 |
-| 9.3 News stories | ago | — | 🔴 |
+| 9.3 News stories | ago | `a1-b7-l6` | 🟢 |
 | 9.4 Speaking and writing | — (погода, отзыв о событии) | `a1-b6-l3` | 🟡 |
 | 10.1 We're going to raise £5,000 | going to positive and negative | `a2-b5-l1` | 🟡 |
 | 10.2 A new life | going to questions and short answers | `a2-b5-l1` | 🟡 |
 | 10.3 Cafe cities | would like | `a1-b5-l4`, `a1-b6-l2` | 🟢 |
 | 10.4 Speaking and writing | — (заказ, приглашение) | `a1-b5-l4` | 🟡 |
 
-Итог сверки: **20 тем закрыты**, **11 свёрнуты** внутрь соседних уроков,
-**9 отсутствуют**. Разбор в конце файла.
+Итог сверки после дописывания уроков: **28 тем закрыты**, **12 свёрнуты**
+внутрь соседних уроков, **отсутствующих нет**. Разбор в конце файла.
+
+Одиннадцать уроков дописаны по этой сверке: семь новых тем и четыре
+функциональных урока. Из них три собраны в новый блок `a1-b8` «Uy va
+mehmonxona» — тема 6.2–6.4 в существующие блоки не помещалась, а по
+[dastur.md](dastur.md) блок держит 3–5 уроков. Что осталось — в разделе
+[«Что делать дальше»](#что-делать-дальше).
 
 ---
 
@@ -208,7 +214,7 @@ alphabet.
 7. **Навык — речь.** Продиктовать вслух своё имя и фамилию по буквам,
    распознавание сверяет с эталоном. Возврат: 3 / 7 / 21 / 60.
 
-### 1.4 Speaking and writing · с. 12 · 🔴 темы нет
+### 1.4 Speaking and writing · с. 12 · 🟢 `a1-b1-l5`
 
 **Книга:** speaking hello and goodbye · writing filling in a form. Грамматики
 нет — это функциональный урок: набор готовых фраз плюс жанр письма.
@@ -235,8 +241,8 @@ alphabet.
    + вопросительные слова, 5 предложений с ошибками, найти и объяснить.
    Возврат: 3 / 7 / 21 / 60.
 
-**Что делать:** завести урок `a1-b1-l5`. У нас нет ни жанра «анкета», ни
-обиходных формул — а это первое, что человек скажет вслух.
+**Сделано:** урок `a1-b1-l5` написан — приветствия, прощания и заполнение
+анкеты. Это был единственный разрыв в юните 1.
 
 ---
 
@@ -453,7 +459,7 @@ lexis family · listening understanding final `-s`.
 7. **Навык — речь.** Рассказать вслух о трёх членах семьи: кто, чем занимается,
    что у него есть. Возврат: 3 / 7 / 21 / 60.
 
-### 3.4 Speaking and writing · с. 32 · 🔴 темы нет
+### 3.4 Speaking and writing · с. 32 · 🟢 `a1-b2-l4`
 
 **Книга:** speaking using everyday expressions · writing a social media message.
 **Can do (uz):** *Kundalik iboralar bilan javob qaytarasiz va do'stingizga
@@ -478,8 +484,8 @@ xabar yozasiz.*
 7. **Навык — грамматический разбор.** Юнит целиком: `have got` + притяжательные,
    пять предложений с ошибками. Возврат: 3 / 7 / 21 / 60.
 
-**Что делать:** урок `a1-b2-l4`. Обиходные реакции — то, что делает речь живой,
-и у нас их нет ни в одном уроке.
+**Сделано:** урок `a1-b2-l4` написан — обиходные реакции и жанр сообщения в
+соцсети.
 
 ---
 
@@ -627,7 +633,7 @@ pronunciation word stress: clothes · reading `and, but, because`.
 7. **Навык — аудирование.** Монолог 40 секунд о привычках, отметить, что человек
    делает всегда, а что никогда. Возврат: 3 / 7 / 21 / 60.
 
-### 5.2 Amazing architecture · с. 48 · 🔴 темы нет
+### 5.2 Amazing architecture · с. 48 · 🟢 `a1-b4-l5`
 
 **Книга:** grammar `Wh- questions` · lexis adjectives · listening understanding
 chunks.
@@ -653,9 +659,8 @@ chunks.
 7. **Навык — письмо.** Пять вопросов интервью для одноклассника.
    Возврат: 3 / 7 / 21 / 60.
 
-**Что делать:** у нас есть вопросы с `be` (`a1-b1-l2`) и `Do/Does`
-(`a1-b3-l4`), а Wh-вопросов в Present Simple как отдельной темы нет. Это дыра:
-`Where you live?` — самая узнаваемая ошибка начинающего.
+**Сделано:** урок `a1-b4-l5` написан. Он стоит в блоке про город: лексика —
+здания и постройки, грамматика — Wh-вопросы в Present Simple.
 
 ### 5.3 Styles around the world · с. 50 · 🟡 свёрнуто в `a1-b3-l1`
 
@@ -743,7 +748,7 @@ vocabulary.
 7. **Навык — аудирование.** Описание городка 40 секунд, отметить, что есть, а
    чего нет. Возврат: 3 / 7 / 21 / 60.
 
-### 6.2 Is there Wi-Fi? · с. 58 · 🟡 свёрнуто в `a1-b4-l1`
+### 6.2 Is there Wi-Fi? · с. 58 · 🟢 `a1-b8-l1`
 
 **Книга:** grammar `Is there…? / Are there…?` · lexis hotel facilities ·
 pronunciation `Is there…? / Are there…?` · listening understanding where and when.
@@ -767,11 +772,10 @@ pronunciation `Is there…? / Are there…?` · listening understanding where an
 7. **Навык — письмо.** Письмо в отель с пятью вопросами об удобствах.
    Возврат: 3 / 7 / 21 / 60.
 
-**Что делать:** вопросная форма `there is` у нас внутри `a1-b4-l1`. Отдельный
-проход оправдан хотя бы лексикой: отель — одна из четырёх ситуаций, ради
-которых учат A1.
+**Сделано:** урок `a1-b8-l1` написан. Вопросная форма `there is` теперь идёт
+отдельно, вместе с лексикой отеля.
 
-### 6.3 Has each flat got a kitchen? · с. 60 · 🔴 темы нет
+### 6.3 Has each flat got a kitchen? · с. 60 · 🟢 `a1-b8-l2`
 
 **Книга:** grammar `each and all the` · lexis rooms and furniture ·
 pronunciation linking (1) · reading words that look similar.
@@ -799,10 +803,9 @@ pronunciation linking (1) · reading words that look similar.
 7. **Навык — речь.** Вслух описать квартиру, которую сдаёте: комнаты и мебель.
    Возврат: 3 / 7 / 21 / 60.
 
-**Что делать:** `each` / `all the` у нас нет ни на A1, ни на A2. Лексика «комнаты
-и мебель» — тоже дыра: жильё в программе не появляется вообще.
+**Сделано:** урок `a1-b8-l2` написан — `each` / `all the`, комнаты и мебель.
 
-### 6.4 Speaking and writing · с. 62 · 🔴 темы нет
+### 6.4 Speaking and writing · с. 62 · 🟢 `a1-b8-l3`
 
 **Книга:** speaking explaining problems · writing a hotel review.
 **Can do (uz):** *Muammoni tushuntirasiz va mehmonxona haqida sharh yozasiz.*
@@ -886,7 +889,7 @@ sentence stress: `can`, `can't` · listening the schwa /ə/.
 **Что делать:** наречия образа действия у нас не встречаются нигде — ни на A1,
 ни на A2. `He speaks English good` при этом живёт до B1. Отдельная тема нужна.
 
-### 7.3 I like going out · с. 70 · 🔴 темы нет
+### 7.3 I like going out · с. 70 · 🟢 `a1-b6-l4`
 
 **Книга:** grammar `like + -ing` · lexis hobbies, `like / love / hate + -ing` ·
 pronunciation linking vowels with /w/ or /j/.
@@ -911,11 +914,10 @@ pronunciation linking vowels with /w/ or /j/.
 7. **Навык — речь.** Рассказать вслух о трёх увлечениях и одном занятии, которое
    не нравится. Возврат: 3 / 7 / 21 / 60.
 
-**Что делать:** `like + -ing` — самая заметная дыра в нашем A1. Тема бытовая,
-частотная, а первая конструкция с герундием: без неё человек весь уровень
-говорит `I like read`.
+**Сделано:** урок `a1-b6-l4` написан. Первая конструкция с герундием теперь
+даётся до конца уровня, а не после него.
 
-### 7.4 Speaking and writing · с. 72 · 🔴 темы нет
+### 7.4 Speaking and writing · с. 72 · 🟢 `a1-b6-l5`
 
 **Книга:** speaking simple requests · writing a post on a social media website.
 **Can do (uz):** *Odob bilan iltimos qilasiz va post yozasiz.*
@@ -998,7 +1000,7 @@ pronunciation regular past simple endings · listening past or present.
 7. **Навык — письмо.** Короткая заметка «мой вчерашний день», 5 предложений.
    Возврат: 3 / 7 / 21 / 60.
 
-### 8.3 Special moments · с. 80 · 🔴 темы нет
+### 8.3 Special moments · с. 80 · 🟢 `a1-b7-l5`
 
 **Книга:** grammar `object pronouns` · lexis past time expressions ·
 pronunciation linking (2) · reading understanding pronouns (2).
@@ -1024,11 +1026,10 @@ pronunciation linking (2) · reading understanding pronouns (2).
 7. **Навык — речь.** Рассказать вслух о фотографии из телефона: кто на ней и что
    вы вместе делали. Возврат: 3 / 7 / 21 / 60.
 
-**Что делать:** объектных местоимений в нашей программе нет вообще. Это базовая
-таблица, без неё нельзя построить ни одного предложения с дополнением-
-местоимением — а таких в речи каждое третье.
+**Сделано:** урок `a1-b7-l5` написан — таблица объектных местоимений и порядок
+двух дополнений.
 
-### 8.4 Speaking and writing · с. 82 · 🔴 темы нет
+### 8.4 Speaking and writing · с. 82 · 🟢 `a1-b7-l7`
 
 **Книга:** speaking expressions for special occasions, show interest ·
 writing a biography.
@@ -1117,7 +1118,7 @@ ishlatasiz.*
 7. **Навык — письмо.** Пять пар «вопрос о прошлых выходных — короткий ответ».
    Возврат: 3 / 7 / 21 / 60.
 
-### 9.3 News stories · с. 90 · 🔴 темы нет
+### 9.3 News stories · с. 90 · 🟢 `a1-b7-l6`
 
 **Книга:** grammar `ago` · lexis words from context · pronunciation word stress
 in two-syllable words · reading guessing meaning from context.
@@ -1141,8 +1142,8 @@ in two-syllable words · reading guessing meaning from context.
 7. **Навык — речь.** Пересказать вслух короткую новость: что случилось и когда.
    Возврат: 3 / 7 / 21 / 60.
 
-**Что делать:** `ago` у нас нет отдельной темой, а `before three days` — ошибка,
-которую делают почти все узбекоязычные и почти никто не исправляет сам.
+**Сделано:** урок `a1-b7-l6` написан отдельной темой — `ago` и его место в
+gapdagi o'rni.
 
 ### 9.4 Speaking and writing · с. 92 · 🟡 частично `a1-b6-l3`
 
@@ -1282,21 +1283,24 @@ notes.
 
 # Что показала сверка
 
-## Девять тем, которых у нас нет
+## Девять тем, которых у нас не было
 
-| Тема книги | Чего не хватает | Куда добавить | Важность |
+Восемь из девяти закрыты — по файлу на тему, в `data/lessons/`. Открытым
+остаётся только пункт про наречия образа действия.
+
+| Тема книги | Чего не хватало | Где теперь | Важность |
 |---|---|---|---|
-| 7.3 `like + -ing` | первая конструкция с герундием; без неё весь уровень звучит `I like read` | новый урок в `a1-b6` | высокая |
-| 8.3 object pronouns | `me, him, her, us, them` — базовая таблица, в речи нужна постоянно | новый урок в `a1-b7` | высокая |
-| 5.2 Wh- questions в Present Simple | у нас есть вопросы с `be` и `Do/Does`, а Wh- нет | новый урок в `a1-b3` | высокая |
-| 9.3 `ago` | `before three days` — ошибка почти у всех | добавить в `a1-b7` | средняя |
-| 7.2 adverbs of manner | `He speaks English good` живёт до B1 | добавить к `a1-b6-l1` | средняя |
-| 6.3 `each` / `all the` + мебель | жильё в программе не встречается вообще | новый блок или `a1-b4` | средняя |
-| 1.4 hello/goodbye + анкета | первое, что человек говорит вслух | новый урок в `a1-b1` | средняя |
-| 3.4 обиходные реакции + сообщение | `Really?`, `Congratulations` — этим речь оживает | новый урок в `a1-b2` | низкая |
-| 6.4 / 7.4 / 8.4 жанры письма | жалоба, отзыв, пост, биография | навыковые задания | низкая |
+| 7.3 `like + -ing` | первая конструкция с герундием; без неё весь уровень звучит `I like read` | `a1-b6-l4` | высокая |
+| 8.3 object pronouns | `me, him, her, us, them` — базовая таблица, в речи нужна постоянно | `a1-b7-l5` | высокая |
+| 5.2 Wh- questions в Present Simple | у нас есть вопросы с `be` и `Do/Does`, а Wh- нет | `a1-b4-l5` | высокая |
+| 9.3 `ago` | `before three days` — ошибка почти у всех | `a1-b7-l6` | средняя |
+| 7.2 adverbs of manner | `He speaks English good` живёт до B1 | ещё нет — кандидат в блок 6 | средняя |
+| 6.3 `each` / `all the` + мебель | жильё в программе не встречается вообще | `a1-b8-l2` | средняя |
+| 1.4 hello/goodbye + анкета | первое, что человек говорит вслух | `a1-b1-l5` | средняя |
+| 3.4 обиходные реакции + сообщение | `Really?`, `Congratulations` — этим речь оживает | `a1-b2-l4` | низкая |
+| 6.4 / 7.4 / 8.4 жанры письма | жалоба, отзыв, пост, биография | `a1-b8-l3`, `a1-b6-l5`, `a1-b7-l7` | низкая |
 
-## Одиннадцать свёрнутых тем
+## Свёрнутые и перенесённые темы
 
 Тема в программе есть, но живёт внутри соседнего урока и отдельного прохода не
 получает. По книге на каждую отводится полный урок:
@@ -1305,10 +1309,13 @@ notes.
 - **3.2** вопросы и отрицания `have got` — внутри `a1-b2-l1`;
 - **4.2** отрицание Present Simple — слито с вопросом в `a1-b3-l4`;
 - **5.3** Present Simple сборкой всех форм — урока-сборки нет;
-- **6.2** `Is there…?` — внутри `a1-b4-l1`;
 - **7.2** `Can you…?` — внутри `a1-b6-l1`;
+- **10.1 / 10.2** `going to` — отдано на A2 (`a2-b5-l1`);
 - **2.4 / 4.4 / 5.4 / 9.4 / 10.4** функциональные уроки — разобраны по
   грамматическим.
+
+Тема **6.2** `Is there…?` из этого списка ушла: теперь у неё отдельный урок
+`a1-b8-l1`.
 
 Общая закономерность: **мы систематически сливаем утверждение, отрицание и
 вопрос в один урок, а книга даёт им три.** Наш вариант короче, но именно на
@@ -1317,17 +1324,40 @@ notes.
 
 ## Что делать дальше
 
-1. Дописать три темы высокой важности: `like + -ing`, объектные местоимения,
-   Wh-вопросы. Это три новых файла в `data/lessons/` по формату
-   [`a1-b1-l1.json`](../data/lessons/a1-b1-l1.json).
-2. Разделить `a1-b3-l4` на отрицание и вопрос — по книге это два урока.
-3. Добавить `ago` и наречия образа действия в существующие уроки блоков 6–7.
-4. Решить по `going to`: оставляем на A2 или подтягиваем в конец A1. Книга
+**Написано по этой сверке.** Одиннадцать уроков в `data/lessons/`, формат —
+[`a1-b1-l1.json`](../data/lessons/a1-b1-l1.json):
+
+| Урок | Тема | Блок |
+|---|---|---|
+| `a1-b1-l5` | приветствия, прощания, анкета (1.4) | 1 |
+| `a1-b2-l4` | обиходные реакции, сообщение (3.4) | 2 |
+| `a1-b4-l5` | Wh-вопросы (5.2) | 4 |
+| `a1-b6-l4` | `like + -ing` (7.3) | 6 |
+| `a1-b6-l5` | просьбы, пост (7.4) | 6 |
+| `a1-b7-l5` | объектные местоимения (8.3) | 7 |
+| `a1-b7-l6` | `ago` (9.3) | 7 |
+| `a1-b7-l7` | поздравления, биография (8.4) | 7 |
+| `a1-b8-l1` | `Is there…?`, отель (6.2) | 8 (новый) |
+| `a1-b8-l2` | `each` / `all the` (6.3) | 8 (новый) |
+| `a1-b8-l3` | жалоба, отзыв (6.4) | 8 (новый) |
+
+Блок 8 пришлось добавить: темы 6.2–6.4 в существующие блоки не помещались, а
+по [dastur.md](dastur.md) блок держит 3–5 уроков. Порядок блоков при этом не
+менялся — новый блок стоит последним, жильё и отель опираются на `there is`
+из блока 4.
+
+**Осталось:**
+
+1. Разделить `a1-b3-l4` на отрицание и вопрос — по книге это два урока.
+2. Наречия образа действия (7.2, `good → well`) — отдельного урока нет,
+   кандидат — блок 6.
+3. Решить по `going to`: оставляем на A2 или подтягиваем в конец A1. Книга
    ставит его в A1; наш A1 закрывается прошедшим. Решение осознанное, но должно
    быть записано.
-5. Функциональные уроки (X.4) — отдельная задача: у нас нет ни одного урока без
-   грамматики, а в книге их десять из сорока. Они дают речевые формулы, которых
-   грамматикой не заменить.
+4. Функциональные уроки: пять из десяти написаны (1.4, 3.4, 6.4, 7.4, 8.4).
+   Остальные (2.4, 4.4, 5.4, 9.4, 10.4) пока разобраны по грамматическим.
+5. Starter и A2: у Starter нет ни одного файла урока, у A2 написан только
+   первый блок. По [kurs.md](kurs.md) следующий уровень работы — Starter.
 
 Что менять **не** нужно: порядок блоков. Наша последовательность (знакомство →
 семья → день → город → еда → умения → прошлое) совпала с книжной по логике

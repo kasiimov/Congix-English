@@ -1,0 +1,119 @@
+{
+  "id": "a1-b7-l5",
+  "level": "A1",
+  "block": "a1-b7",
+  "title": "Obyekt olmoshlari: me, him, her, us, them",
+  "can_do": "Kim haqida gapirayotganingizni olmosh bilan ko'rsatasiz",
+  "why": "«Men uni kecha ko'rdim» deyish uchun him yoki her kerak. Bu kichik jadval bo'lmasa, gap tugallanmay qoladi: I saw … va tamom.",
+  "rule": {
+    "title": "Ega va obyekt olmoshlari",
+    "points": [
+      {
+        "text": "Har bir ega olmoshining obyekt shakli bor: I → me, you → you, he → him, she → her, it → it, we → us, they → them.",
+        "examples": [
+          { "en": "I saw him yesterday.", "uz": "Men uni kecha ko'rdim." },
+          { "en": "She called us in the evening.", "uz": "U bizga kechqurun qo'ng'iroq qildi." }
+        ]
+      },
+      {
+        "text": "Obyekt shakli fe'ldan keyin ham, predlogdan keyin ham keladi: I saw him, with them, for me, to her.",
+        "examples": [
+          { "en": "I went to the market with them.", "uz": "Men ular bilan bozorga bordim." },
+          { "en": "This present is for you.", "uz": "Bu sovg'a siz uchun." }
+        ]
+      },
+      {
+        "text": "O'zbek tilida bu ma'no qo'shimcha bilan beriladi — «meni», «unga» — shuning uchun ingliz tilida alohida so'z tushib qoladi: I saw deyilib, kim ko'rilgani aytilmaydi.",
+        "examples": [
+          { "en": "I met her at the bus stop.", "uz": "Men uni avtobus bekasida uchratdim." }
+        ]
+      },
+      {
+        "text": "Tartib ikkita: give me the book yoki give the book to me. «Give to me the book» degan uchinchi shakl yo'q.",
+        "examples": [
+          { "en": "Give me your phone number, please.", "uz": "Menga telefon raqamingizni bering, iltimos." },
+          { "en": "I sent the photos to them.", "uz": "Men ularga rasmlarni yubordim." }
+        ]
+      },
+      {
+        "text": "Tell va ask fe'llari predlog olmaydi: tell me, ask him — «tell to me» xato.",
+        "examples": [
+          { "en": "She told me about the party.", "uz": "U menga ziyofat haqida aytdi." },
+          { "en": "Ask him about the tickets.", "uz": "Undan chiptalar haqida so'rang." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Ega", "Obyekt", "Misol"],
+      "rows": [
+        ["I", "me", "Help me, please."],
+        ["you", "you", "I called you."],
+        ["he", "him", "I saw him."],
+        ["she", "her", "We met her."],
+        ["it", "it", "I found it."],
+        ["we", "us", "They invited us."],
+        ["they", "them", "I know them."]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "I saw he yesterday.",
+      "right": "I saw him yesterday.",
+      "why": "Fe'ldan keyin ega shakli emas, obyekt shakli keladi: he → him."
+    },
+    {
+      "wrong": "She told to me about it.",
+      "right": "She told me about it.",
+      "why": "Tell fe'li predlog olmaydi: told me, told him."
+    },
+    {
+      "wrong": "Give to me the book.",
+      "right": "Give me the book.",
+      "why": "Tartib: fe'l → obyekt → narsa. Predlog faqat «give the book to me» shaklida kerak."
+    },
+    {
+      "wrong": "Between you and I.",
+      "right": "Between you and me.",
+      "why": "Predlogdan keyin har doim obyekt shakli keladi: between — predlog."
+    },
+    {
+      "wrong": "I met she at the station.",
+      "right": "I met her at the station.",
+      "why": "She → her. Bu xato «u» so'zi o'zbek tilida bitta bo'lgani uchun ko'p uchraydi."
+    }
+  ],
+  "words": [
+    { "en": "me", "uz": "meni, menga", "ipa": "/miː/", "example": "Call me tomorrow." },
+    { "en": "him", "uz": "uni, unga", "ipa": "/hɪm/", "example": "I saw him at the stadium." },
+    { "en": "her", "uz": "uni, unga", "ipa": "/hɜː/", "example": "We met her in the park." },
+    { "en": "us", "uz": "bizni, bizga", "ipa": "/ʌs/", "example": "They visited us last week." },
+    { "en": "them", "uz": "ularni, ularga", "ipa": "/ðem/", "example": "I know them very well." },
+    { "en": "last night", "uz": "kecha kechqurun", "ipa": "/ˌlɑːst ˈnaɪt/", "example": "I called him last night." },
+    { "en": "last week", "uz": "o'tgan hafta", "ipa": "/ˌlɑːst ˈwiːk/", "example": "We met them last week." },
+    { "en": "two days ago", "uz": "ikki kun oldin", "ipa": "/ˌtuː deɪz əˈɡəʊ/", "example": "She wrote to me two days ago." },
+    { "en": "in 2015", "uz": "2015-yilda", "ipa": "/ɪn ˌtwenti ˈfɪftiːn/", "example": "I met him in 2015." },
+    { "en": "moment", "uz": "lahza, daqiqa", "ipa": "/ˈməʊmənt/", "example": "Wait a moment, please." },
+    { "en": "remember", "uz": "eslamoq", "ipa": "/rɪˈmembə/", "example": "I remember them well." },
+    { "en": "forget", "uz": "esdan chiqarmoq", "ipa": "/fəˈɡet/", "example": "Don't forget us!" }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 2, "count": 2, "focus": "ega olmoshini obyekt shakliga o'tkazish" },
+      { "type": 3, "count": 3, "focus": "otni olmosh bilan almashtirish: I saw Aziz → I saw him" },
+      { "type": 5, "count": 3, "focus": "«saw he», «told to me», «between you and I» xatolarini topish" },
+      { "type": 6, "count": 2, "focus": "o'zbekchadan tarjima: «Men uni kecha ko'rdim», «Ular bizga aytdi»" }
+    ],
+    "final": { "type": 7, "task": "Bitta rasm haqida hikoya yozing: kim bor edi va ular bilan nima qildingiz. Kamida to'rtta obyekt olmoshi ishlating." }
+  },
+  "skill_task": {
+    "kind": "speaking",
+    "task": "Telefoningizdagi bitta rasm haqida baland ovozda gapiring: kim bor, u bilan nima qildingiz. Uchta obyekt olmoshi ishlating.",
+    "level_hint": "5–6 gap, sekin sur'at"
+  },
+  "review": {
+    "topic": "obyekt olmoshlari: me, him, her, us, them",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

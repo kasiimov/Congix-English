@@ -1,0 +1,111 @@
+{
+  "id": "a1-b2-l4",
+  "level": "A1",
+  "block": "a1-b2",
+  "title": "Kundalik iboralar va xabar yozish",
+  "can_do": "Kundalik iboralar bilan javob qaytarasiz va do'stingizga xabar yozasiz",
+  "why": "Suhbat ko'p joyda «ha» va «yo'q» bilan tugab qoladi. Reaksiya iboralari suhbatni davom ettiradi, xabar janri esa telefonda yozishning asosiy shakli.",
+  "rule": {
+    "title": "Reaksiya iboralari: hisni bildirish",
+    "points": [
+      {
+        "text": "Suhbatdoshning gapiga quruq «ha» emas, ibora bilan javob beriladi: Really? — rostdanmi, That's great! — juda yaxshi, Oh no! — afsus, Congratulations! — tabriklaymiz.",
+        "examples": [
+          { "en": "— I passed the exam. — Really? That's great!", "uz": "— Imtihondan o'tdim. — Rostdanmi? Juda yaxshi!" },
+          { "en": "— I lost my phone. — Oh no!", "uz": "— Telefonimni yo'qotdim. — E, achinarli!" }
+        ]
+      },
+      {
+        "text": "Omad tilash va taskin berishning tayyor iboralari: Good luck! — omad, Never mind — hechqisi yo'q, No problem — muammo emas, Of course — albatta.",
+        "examples": [
+          { "en": "— I have an interview tomorrow. — Good luck!", "uz": "— Ertaga suhbatim bor. — Omad!" },
+          { "en": "— Sorry, I'm late. — No problem.", "uz": "— Kechikdim, kechirasiz. — Muammo emas." }
+        ]
+      },
+      {
+        "text": "Bu iboralar so'zma-so'z tarjima qilinmaydi. «Omad» uchun Success! emas, Good luck!; xushxabar uchun esa I'm very happy about your news — for emas, about.",
+        "examples": [
+          { "en": "I'm very happy about your news.", "uz": "Yangiligingizdan juda xursandman." }
+        ]
+      },
+      {
+        "text": "Congratulations doim ko'plikda: bitta odamga ham -s bilan yoziladi, Congratulation degan shakl yo'q.",
+        "examples": [
+          { "en": "Congratulations on your new job!", "uz": "Yangi ishingiz bilan tabriklaymiz!" }
+        ]
+      },
+      {
+        "text": "Xabar va post janri qisqa: bir-ikki gap, savol yoki tabrik. Do'stga yozilganda Dear friend kabi rasmiy murojaat ishlatilmaydi — Hi Aziz yoki Hi, deb boshlanadi.",
+        "examples": [
+          { "en": "Hi Aziz! Great news about your job. Is it in Tashkent?", "uz": "Salom Aziz! Ish haqingdagi xabar zo'r. Toshkentdami?" }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Iborasi", "Ma'nosi", "Qachon"],
+      "rows": [
+        ["Really?", "Rostdanmi?", "hayron qolganda"],
+        ["That's great!", "Juda yaxshi!", "yaxshi xabarga"],
+        ["Oh no!", "E, achinarli!", "yomon xabarga"],
+        ["Good luck!", "Omad!", "sinov oldidan"],
+        ["Never mind", "Hechqisi yo'q", "kechirim so'ralganda"],
+        ["No problem", "Muammo emas", "yordam uchun rahmatga"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "Congratulation!",
+      "right": "Congratulations!",
+      "why": "Bu so'z doim ko'plikda ishlatiladi, -s tushib qolsa xato bo'ladi."
+    },
+    {
+      "wrong": "I am very happy for your news.",
+      "right": "I am very happy about your news.",
+      "why": "Xushxabar haqida gapirganda about ishlatiladi, for emas."
+    },
+    {
+      "wrong": "Success! (imtihon oldidan)",
+      "right": "Good luck!",
+      "why": "«Omad» ning to'g'ri tarjimasi Good luck!. Success — erishilgan natija haqida."
+    },
+    {
+      "wrong": "Dear friend, I am writing to you... (do'stga xabarda)",
+      "right": "Hi Aziz! How are you?",
+      "why": "Xabar qisqa janr. Dear friend — xat va ariza uslubi, u do'stona xabarga og'ir."
+    }
+  ],
+  "words": [
+    { "en": "really", "uz": "rostdanmi", "ipa": "/ˈrɪəli/", "example": "Really? That's interesting." },
+    { "en": "great", "uz": "juda yaxshi, zo'r", "ipa": "/ɡreɪt/", "example": "That's great news!" },
+    { "en": "congratulations", "uz": "tabriklaymiz", "ipa": "/kənˌɡrætʃuˈleɪʃnz/", "example": "Congratulations on your wedding!" },
+    { "en": "good luck", "uz": "omad", "ipa": "/ˌɡʊd ˈlʌk/", "example": "Good luck with your exam!" },
+    { "en": "never mind", "uz": "hechqisi yo'q", "ipa": "/ˌnevə ˈmaɪnd/", "example": "Never mind, it's not your fault." },
+    { "en": "no problem", "uz": "muammo emas", "ipa": "/ˌnəʊ ˈprɒbləm/", "example": "— Thanks! — No problem." },
+    { "en": "of course", "uz": "albatta", "ipa": "/əv ˈkɔːs/", "example": "— Can you help me? — Of course." },
+    { "en": "sorry", "uz": "kechirasiz", "ipa": "/ˈsɒri/", "example": "Sorry, I can't come today." },
+    { "en": "welcome", "uz": "xush kelibsiz", "ipa": "/ˈwelkəm/", "example": "Welcome to our city!" },
+    { "en": "thanks", "uz": "rahmat", "ipa": "/θæŋks/", "example": "Thanks for your help!" },
+    { "en": "message", "uz": "xabar", "ipa": "/ˈmesɪdʒ/", "example": "I sent you a message." },
+    { "en": "post", "uz": "post, yozuv", "ipa": "/pəʊst/", "example": "She wrote a post about her trip." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 1, "count": 2, "focus": "qaysi ibora qaysi vaziyatga mos keladi" },
+      { "type": 4, "count": 3, "focus": "yangilikka reaksiya yozish: tabrik, taskin, omad" },
+      { "type": 5, "count": 2, "focus": "uslub xatosi: do'stona xabarda rasmiy murojaat" },
+      { "type": 7, "count": 2, "focus": "qisqa xabar yozish: tabrik va bitta savol" }
+    ],
+    "final": { "type": 7, "task": "Do'stingiz yangi ishga kirdi. Unga qisqa xabar yozing: tabrik, savol va taklif." }
+  },
+  "skill_task": {
+    "kind": "grammar",
+    "task": "Unit 3 ni takrorlang: have got va egalik olmoshlari bilan beshta gap tuzing. Keyin beshta xatoli gap yozing va xatoni tushuntiring.",
+    "level_hint": "takrorlash, 10 daqiqa"
+  },
+  "review": {
+    "topic": "kundalik iboralar, xabar va post yozish",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

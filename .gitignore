@@ -35,6 +35,9 @@ test answers/
 .claude
 skills-lock.json
 
+# Локальное состояние Freebuff
+.freebuff/
+
 # Local env for netlify dev (ключи ИИ)
 .env
 

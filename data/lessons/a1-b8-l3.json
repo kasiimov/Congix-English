@@ -1,0 +1,110 @@
+{
+  "id": "a1-b8-l3",
+  "level": "A1",
+  "block": "a1-b8",
+  "title": "Muammoni aytish va sharh yozish",
+  "can_do": "Muammoni odob bilan tushuntirasiz va mehmonxona haqida sharh yozasiz",
+  "why": "Xonadagi nosozlik haqida aytish kerak bo'ladi — va bu jahl bilan emas, odob bilan aytiladi. Bu dars o'sha iboralar va sharh yozish tartibini beradi.",
+  "rule": {
+    "title": "Shikoyat iboralari va sharh tartibi",
+    "points": [
+      {
+        "text": "Muammo yumshoq boshlanadi: Excuse me, there's a problem with … Bu «Give me another room!» kabi buyruqdan farq qiladi — xodim sizga yordam berishi uchun odob kerak.",
+        "examples": [
+          { "en": "Excuse me, there's a problem with the air conditioning.", "uz": "Kechirasiz, konditsionerda muammo bor." },
+          { "en": "Could you help me, please?", "uz": "Yordam bera olasizmi, iltimos?" }
+        ]
+      },
+      {
+        "text": "Nosozlikni aytishning tayyor shakli: it doesn't work, it is broken. «It is not working good» emas — good sifat, bu yerda ravish yoki umuman kerak emas.",
+        "examples": [
+          { "en": "The TV doesn't work.", "uz": "Televizor ishlamaydi." },
+          { "en": "The shower is broken.", "uz": "Dush buzilgan." }
+        ]
+      },
+      {
+        "text": "Iltimos bilan tugatiladi: Could I have another room? Could you send someone to fix it?",
+        "examples": [
+          { "en": "Could I have another room, please?", "uz": "Boshqa xona olsam bo'ladimi, iltimos?" },
+          { "en": "Could you send someone to fix it?", "uz": "Kimnidir tuzatish uchun yubora olasizmi?" }
+        ]
+      },
+      {
+        "text": "Sharh (review) uch qismdan yoziladi: baho — nima yaxshi va nima yomon, sabab — nega shunday, tavsiya — boshqalarga maslahat.",
+        "examples": [
+          { "en": "The rooms are clean and the staff is friendly. But the Wi-Fi doesn't work. I recommend this hotel for one night.", "uz": "Xonalar toza, xodimlar xushmuomala. Lekin Wi-Fi ishlamaydi. Bir kecha uchun bu mehmonxonani tavsiya qilaman." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Vaziyat", "Iborasi"],
+      "rows": [
+        ["muammoni boshlash", "Excuse me, there's a problem with …"],
+        ["nosozlik", "It doesn't work. / It is broken."],
+        ["xona almashtirish", "Could I have another room?"],
+        ["yordam so'rash", "Could you help me, please?"],
+        ["sharhni boshlash", "The rooms are clean, but …"],
+        ["tavsiya", "I recommend this hotel. / I don't recommend it."]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "The TV is not working good.",
+      "right": "The TV doesn't work.",
+      "why": "Good sifat, fe'lni tasvirlash uchun u kelmaydi. Oddiy shakl: doesn't work."
+    },
+    {
+      "wrong": "Give me another room.",
+      "right": "Could I have another room, please?",
+      "why": "«Give me» buyruq bo'lib eshitiladi. Iltimos Could I have bilan boshlanadi."
+    },
+    {
+      "wrong": "I have a problem with the air conditioner is broken.",
+      "right": "There's a problem with the air conditioner: it is broken.",
+      "why": "Ikki konstruksiya bitta gapga sig'maydi — alohida aytiladi."
+    },
+    {
+      "wrong": "It was very bad hotel.",
+      "right": "It was a very bad hotel.",
+      "why": "Birlik ot oldidan artikl tushib qolmasligi kerak."
+    },
+    {
+      "wrong": "The room was dirty and I am very angry!!!",
+      "right": "The room was dirty, so I asked for another one.",
+      "why": "Sharh fakt bilan yoziladi, his bilan emas. Shikoyatda ham xotirjam ohang kerak."
+    }
+  ],
+  "words": [
+    { "en": "problem", "uz": "muammo", "ipa": "/ˈprɒbləm/", "example": "There's a problem with the shower." },
+    { "en": "broken", "uz": "buzilgan", "ipa": "/ˈbrəʊkən/", "example": "The lift is broken." },
+    { "en": "work", "uz": "ishlamoq", "ipa": "/wɜːk/", "example": "The Wi-Fi doesn't work." },
+    { "en": "noisy", "uz": "shovqinli", "ipa": "/ˈnɔɪzi/", "example": "The street is very noisy at night." },
+    { "en": "dirty", "uz": "kir, iflos", "ipa": "/ˈdɜːti/", "example": "The bathroom was dirty." },
+    { "en": "comfortable", "uz": "qulay", "ipa": "/ˈkʌmftəbl/", "example": "The bed is very comfortable." },
+    { "en": "clean", "uz": "toza", "ipa": "/kliːn/", "example": "The rooms are clean." },
+    { "en": "staff", "uz": "xodimlar", "ipa": "/stɑːf/", "example": "The staff is very friendly." },
+    { "en": "service", "uz": "xizmat", "ipa": "/ˈsɜːvɪs/", "example": "The service was slow." },
+    { "en": "review", "uz": "sharh", "ipa": "/rɪˈvjuː/", "example": "I wrote a review about the hotel." },
+    { "en": "recommend", "uz": "tavsiya qilmoq", "ipa": "/ˌrekəˈmend/", "example": "I recommend this hotel." },
+    { "en": "complain", "uz": "shikoyat qilmoq", "ipa": "/kəmˈpleɪn/", "example": "We complained about the noise." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 4, "count": 3, "focus": "vaziyatga qarab shikoyat gapini tuzish: sovuq suv, shovqin, ishlamaydigan lift" },
+      { "type": 5, "count": 2, "focus": "qo'pol shaklni odoblisiga o'tkazish" },
+      { "type": 7, "count": 3, "focus": "administrator bilan dialog va beshta gapdan iborat sharh" }
+    ],
+    "final": { "type": 7, "task": "Mehmonxona haqida sharh yozing: ikkita yaxshi tomon, bitta muammo va tavsiya. 6 gap." }
+  },
+  "skill_task": {
+    "kind": "grammar",
+    "task": "Unit 6 ni takrorlang: there is / are va each / all the bilan beshta gap tuzing. Keyin beshta xatoli gap yozing va xatoni tushuntiring.",
+    "level_hint": "takrorlash, 10 daqiqa"
+  },
+  "review": {
+    "topic": "shikoyat iboralari va sharh yozish",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

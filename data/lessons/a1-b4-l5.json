@@ -1,0 +1,111 @@
+{
+  "id": "a1-b4-l5",
+  "level": "A1",
+  "block": "a1-b4",
+  "title": "Tafsilot so'rash: Wh- savollar",
+  "can_do": "Wh- savollar bilan tafsilot so'raysiz va javob berasiz",
+  "why": "Ha yoki yo'q deb javob beradigan savoldan keyin har doim tafsilot savoli keladi: qayerda, nima uchun, qanday. Bu dars o'sha savollarni tuzishni o'rgatadi.",
+  "rule": {
+    "title": "Wh- savol qanday tuziladi",
+    "points": [
+      {
+        "text": "Savol so'zi — yordamchi fe'l — ega — asosiy fe'l. Tartib qat'iy, o'zbek tilidagidek erkin emas: Where do you live? What does he do?",
+        "examples": [
+          { "en": "Where do you live?", "uz": "Qayerda yashaysiz?" },
+          { "en": "What does she study?", "uz": "U nima o'qiydi?" }
+        ]
+      },
+      {
+        "text": "To be bilan yordamchi fe'l kerak emas, u o'zi oldinga chiqadi: Where are you from? Why is he late? — bu yerda do yoki does qo'yilmaydi.",
+        "examples": [
+          { "en": "Where are you from?", "uz": "Qayerdansiz?" },
+          { "en": "Why is the museum closed?", "uz": "Nega muzey yopiq?" }
+        ]
+      },
+      {
+        "text": "Who ega vazifasida kelsa, yordamchi fe'l tushib qoladi: Who lives here? Who wants tea? — bu yerda does ortiqcha.",
+        "examples": [
+          { "en": "Who lives in this building?", "uz": "Bu binoda kim yashaydi?" },
+          { "en": "Who wants to go with us?", "uz": "Kim biz bilan borishni xohlaydi?" }
+        ]
+      },
+      {
+        "text": "Savol so'zlari: What — nima, Where — qayerda, When — qachon, Who — kim, Why — nima uchun, How — qanday, What kind of — qanday turdagi. Why savoliga javob because bilan boshlanadi.",
+        "examples": [
+          { "en": "What kind of music do you like?", "uz": "Qanday musiqani yoqtirasiz?" },
+          { "en": "— Why are you late? — Because the bus didn't come.", "uz": "— Nega kechikdingiz? — Chunki avtobus kelmadi." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Savol so'zi", "Savol", "Javob"],
+      "rows": [
+        ["Where", "Where do you live?", "In Samarkand."],
+        ["What", "What does he do?", "He is a driver."],
+        ["Why", "Why do you study English?", "Because I need it for work."],
+        ["Who", "Who lives here?", "My aunt and uncle."],
+        ["How old", "How old is this bridge?", "It is about 100 years old."]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "Where you live?",
+      "right": "Where do you live?",
+      "why": "To be bo'lmagan savolda yordamchi fe'l shart: Where + do + you + live."
+    },
+    {
+      "wrong": "Where do you live in?",
+      "right": "Where do you live?",
+      "why": "Where o'zi «qayerda» ma'nosini beradi, oxirida in ortiqcha."
+    },
+    {
+      "wrong": "Why you don't like it?",
+      "right": "Why don't you like it?",
+      "why": "Yordamchi fe'l savol so'zidan keyin darhol keladi, ega undan keyin."
+    },
+    {
+      "wrong": "Who does live in this house?",
+      "right": "Who lives in this house?",
+      "why": "Who ega vazifasida kelsa, yordamchi fe'l ishlatilmaydi va fe'lga -s qo'shiladi."
+    },
+    {
+      "wrong": "What does he does?",
+      "right": "What does he do?",
+      "why": "Yordamchi fe'ldan keyin asosiy fe'l boshlang'ich shaklda keladi."
+    }
+  ],
+  "words": [
+    { "en": "why", "uz": "nima uchun", "ipa": "/waɪ/", "example": "Why are you late?" },
+    { "en": "because", "uz": "chunki", "ipa": "/bɪˈkɒz/", "example": "I am here because I work here." },
+    { "en": "kind", "uz": "tur, xil", "ipa": "/kaɪnd/", "example": "What kind of music do you like?" },
+    { "en": "building", "uz": "bino", "ipa": "/ˈbɪldɪŋ/", "example": "This building is very old." },
+    { "en": "bridge", "uz": "ko'prik", "ipa": "/brɪdʒ/", "example": "There is a long bridge over the river." },
+    { "en": "tower", "uz": "minora", "ipa": "/ˈtaʊə/", "example": "The tower is 50 metres high." },
+    { "en": "beautiful", "uz": "chiroyli", "ipa": "/ˈbjuːtɪfl/", "example": "Tashkent has beautiful buildings." },
+    { "en": "modern", "uz": "zamonaviy", "ipa": "/ˈmɒdn/", "example": "They built a modern museum." },
+    { "en": "famous", "uz": "mashhur", "ipa": "/ˈfeɪməs/", "example": "This is a famous square." },
+    { "en": "high", "uz": "baland", "ipa": "/haɪ/", "example": "The wall is three metres high." },
+    { "en": "wide", "uz": "keng", "ipa": "/waɪd/", "example": "The road is very wide." },
+    { "en": "amazing", "uz": "hayratlanarli", "ipa": "/əˈmeɪzɪŋ/", "example": "The view from the tower is amazing." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 3, "count": 4, "focus": "darak gapdan turli savol so'zlari bilan savol yasash" },
+      { "type": 5, "count": 3, "focus": "«Where you live?», «Who does live», «Why you don't» xatolarini topish" },
+      { "type": 4, "count": 2, "focus": "o'z shahringiz haqida savol tuzish" },
+      { "type": 6, "count": 2, "focus": "o'zbekchadan tarjima: «Nega bu yerda yashaysiz?», «Kim bu binoda ishlaydi?»" }
+    ],
+    "final": { "type": 7, "task": "Yoqtirgan binongiz haqida beshta Wh- savol tuzing va javob bering. Bittasi «Why …?» bo'lsin." }
+  },
+  "skill_task": {
+    "kind": "writing",
+    "task": "Sinfdosh bilan intervyu uchun beshta savol yozing: qayerda yashaydi, nima ish qiladi, nima uchun ingliz tilini o'qiydi.",
+    "level_hint": "5–6 gap"
+  },
+  "review": {
+    "topic": "Wh- savollar Present Simple da",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

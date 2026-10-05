@@ -1,0 +1,119 @@
+{
+  "id": "a1-b8-l1",
+  "level": "A1",
+  "block": "a1-b8",
+  "title": "Mehmonxonada: Is there …?",
+  "can_do": "Mehmonxonada nima borligini so'raysiz va qisqa javob olasiz",
+  "why": "«Lift bormi?», «Sochiq bormi?» — sayohatda eng ko'p beriladigan savollar. Ular there is dan yasaladi, faqat tartib o'zgaradi.",
+  "rule": {
+    "title": "Is there …? / Are there …? — savol shakli",
+    "points": [
+      {
+        "text": "Savol so'z tartibini almashtirish bilan yasaladi: Is there a lift? — lift bormi, Are there any towels? — sochiq bormi. Yordamchi do ishlatilmaydi.",
+        "examples": [
+          { "en": "Is there a lift in the hotel?", "uz": "Mehmonxonada lift bormi?" },
+          { "en": "Are there any towels in the room?", "uz": "Xonada sochiqlar bormi?" }
+        ]
+      },
+      {
+        "text": "Sanaladigan birlik uchun Is there, ko'plik uchun Are there: Is there a restaurant? — Are there any restaurants?",
+        "examples": [
+          { "en": "Is there a swimming pool?", "uz": "Basseyn bormi?" },
+          { "en": "Are there any shops near the hotel?", "uz": "Mehmonxona yonida do'konlar bormi?" }
+        ]
+      },
+      {
+        "text": "Savol va inkorda some emas, any ishlatiladi: Are there any towels? Is there any Wi-Fi?",
+        "examples": [
+          { "en": "Is there any Wi-Fi in the room?", "uz": "Xonada Wi-Fi bormi?" },
+          { "en": "There aren't any towels.", "uz": "Sochiqlar yo'q." }
+        ]
+      },
+      {
+        "text": "Qisqa javobda there saqlanadi: Yes, there is. / No, there isn't. / Yes, there are. / No, there aren't. Yes, it is deb javob berilmaydi.",
+        "examples": [
+          { "en": "— Is there a lift? — Yes, there is.", "uz": "— Lift bormi? — Ha, bor." },
+          { "en": "— Are there any rooms? — No, there aren't.", "uz": "— Xonalar bormi? — Yo'q." }
+        ]
+      },
+      {
+        "text": "Qo'shimcha savollar: What time is breakfast? — nonushta qachon, How much is it? — narxi qancha, Could I have a key card? — kalit kartani olsam bo'ladimi.",
+        "examples": [
+          { "en": "What time is breakfast?", "uz": "Nonushta soat nechada?" },
+          { "en": "Could I have a key card, please?", "uz": "Kalit kartani olsam bo'ladimi?" }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Savol", "Javob"],
+      "rows": [
+        ["Is there a lift?", "Yes, there is. / No, there isn't."],
+        ["Are there any towels?", "Yes, there are. / No, there aren't."],
+        ["Is there any Wi-Fi?", "Yes, there is."],
+        ["Are there any single rooms?", "No, there aren't."],
+        ["Is there a car park?", "Yes, there is. It's free."]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "There is a lift?",
+      "right": "Is there a lift?",
+      "why": "Savol faqat so'z tartibini almashtirish bilan yasaladi, intonatsiya bilan emas."
+    },
+    {
+      "wrong": "Are there a restaurant?",
+      "right": "Is there a restaurant?",
+      "why": "Birlik ot bilan Is there ishlatiladi, ko'plik bilan Are there."
+    },
+    {
+      "wrong": "— Is there a lift? — Yes, there has.",
+      "right": "— Is there a lift? — Yes, there is.",
+      "why": "Javobda there is / there are takrorlanadi, have fe'li bu yerda ishlatilmaydi."
+    },
+    {
+      "wrong": "Is there some towels?",
+      "right": "Are there any towels?",
+      "why": "Ko'plik bilan are, savolda esa some emas — any."
+    },
+    {
+      "wrong": "— Is there a pool? — Yes, it is.",
+      "right": "— Is there a pool? — Yes, there is.",
+      "why": "It haqida emas, joyda nima borligi haqida gap ketyapti, shuning uchun there saqlanadi."
+    }
+  ],
+  "words": [
+    { "en": "lift", "uz": "lift", "ipa": "/lɪft/", "example": "Is there a lift in the hotel?" },
+    { "en": "reception", "uz": "qabulxona", "ipa": "/rɪˈsepʃn/", "example": "The key is at reception." },
+    { "en": "towel", "uz": "sochiq", "ipa": "/ˈtaʊəl/", "example": "Are there any towels in the room?" },
+    { "en": "air conditioning", "uz": "konditsioner", "ipa": "/ˈeə kənˌdɪʃənɪŋ/", "example": "Is there air conditioning in the room?" },
+    { "en": "Wi-Fi", "uz": "Wi-Fi", "ipa": "/ˈwaɪ faɪ/", "example": "Is there any Wi-Fi here?" },
+    { "en": "swimming pool", "uz": "basseyn", "ipa": "/ˈswɪmɪŋ puːl/", "example": "The hotel has a swimming pool." },
+    { "en": "parking", "uz": "to'xtash joyi", "ipa": "/ˈpɑːkɪŋ/", "example": "Is there any parking near the hotel?" },
+    { "en": "breakfast", "uz": "nonushta", "ipa": "/ˈbrekfəst/", "example": "Breakfast is at seven." },
+    { "en": "key card", "uz": "kalit karta", "ipa": "/ˈkiː kɑːd/", "example": "Could I have a key card?" },
+    { "en": "floor", "uz": "qavat", "ipa": "/flɔː/", "example": "My room is on the third floor." },
+    { "en": "single room", "uz": "bir kishilik xona", "ipa": "/ˌsɪŋɡl ˈruːm/", "example": "Are there any single rooms?" },
+    { "en": "double room", "uz": "ikki kishilik xona", "ipa": "/ˌdʌbl ˈruːm/", "example": "We booked a double room." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 3, "count": 3, "focus": "darak gapni savolga aylantirish: There is a lift → Is there a lift?" },
+      { "type": 5, "count": 2, "focus": "«There is a lift?», «Yes, there has», «some towels» xatolarini topish" },
+      { "type": 4, "count": 2, "focus": "mehmonxonada kerak bo'ladigan beshta savolni tuzish" },
+      { "type": 7, "count": 2, "focus": "reception bilan dialog: savol va javob" },
+      { "type": 8, "count": 1, "focus": "tinglab, savol «Is there» yoki «Are there» ekanini aniqlash" }
+    ],
+    "final": { "type": 7, "task": "Mehmonxonaga qo'ng'iroq qilyapsiz. Beshta savol yozing va administratorning javobini ham yozing." }
+  },
+  "skill_task": {
+    "kind": "writing",
+    "task": "Mehmonxonaga beshta savol bilan qisqa xat yozing: lift, nonushta, Wi-Fi, to'xtash joyi va narx haqida.",
+    "level_hint": "5–6 gap"
+  },
+  "review": {
+    "topic": "Is there …? / Are there …? savollari",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

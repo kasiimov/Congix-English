@@ -1,0 +1,115 @@
+{
+  "id": "a1-b8-l2",
+  "level": "A1",
+  "block": "a1-b8",
+  "title": "Har biri va hammasi: each / all the",
+  "can_do": "«Har biri» va «hammasi» ni farqlab ishlatasiz",
+  "why": "Uy haqida gapirganda «har bir xonada … bor» va «hamma xonada … bor» deyish kerak bo'ladi. Ma'no yaqin, lekin fe'l shakli boshqa — va xato shu yerda chiqadi.",
+  "rule": {
+    "title": "each va all the",
+    "points": [
+      {
+        "text": "each — har biri alohida, shuning uchun ot birlikda va fe'l ham birlikda: Each room has got a TV.",
+        "examples": [
+          { "en": "Each room has got a TV.", "uz": "Har bir xonada televizor bor." },
+          { "en": "Each flat has got a kitchen.", "uz": "Har bir kvartirada oshxona bor." }
+        ]
+      },
+      {
+        "text": "all the — hammasi birga, ot ko'plikda va fe'l ham ko'plikda: All the rooms have got a TV.",
+        "examples": [
+          { "en": "All the rooms have got a TV.", "uz": "Hamma xonada televizor bor." },
+          { "en": "All the flats have got a kitchen.", "uz": "Hamma kvartirada oshxona bor." }
+        ]
+      },
+      {
+        "text": "each + ot birlikda, all + the + ot ko'plikda. Faqat fe'l shakli farq qiladi — shuning uchun mashqda fe'lga qaraladi.",
+        "examples": [
+          { "en": "Each student has got a book.", "uz": "Har bir talabada kitob bor." },
+          { "en": "All the students have got books.", "uz": "Hamma talabada kitob bor." }
+        ]
+      },
+      {
+        "text": "each of the … deb ham aytiladi, u ham birlik fe'l oladi: Each of the rooms has got a balcony. Every of degan shakl yo'q.",
+        "examples": [
+          { "en": "Each of the rooms has got a balcony.", "uz": "Xonalarning har birida balkon bor." }
+        ]
+      },
+      {
+        "text": "all the oldida of kerak emas: all the rooms. «All of rooms» xato — of dan keyin the bo'lishi shart: all of the rooms.",
+        "examples": [
+          { "en": "All of the rooms are clean.", "uz": "Hamma xonalar toza." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Shakl", "Ot", "Fe'l", "Misol"],
+      "rows": [
+        ["each", "birlik", "birlik (has got / is)", "Each room has got a balcony."],
+        ["each of the", "ko'plik", "birlik", "Each of the rooms has got a balcony."],
+        ["all the", "ko'plik", "ko'plik (have got / are)", "All the rooms have got a balcony."],
+        ["all of the", "ko'plik", "ko'plik", "All of the rooms are clean."]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "Each rooms have got a TV.",
+      "right": "Each room has got a TV.",
+      "why": "each dan keyin ot birlikda va fe'l ham birlikda keladi."
+    },
+    {
+      "wrong": "All the room has got a TV.",
+      "right": "All the rooms have got a TV.",
+      "why": "all the dan keyin ot ko'plikda va fe'l ham ko'plikda."
+    },
+    {
+      "wrong": "All of rooms are clean.",
+      "right": "All of the rooms are clean.",
+      "why": "of dan keyin the tushib qolmasligi kerak."
+    },
+    {
+      "wrong": "Every of the flats has got a lift.",
+      "right": "Each of the flats has got a lift.",
+      "why": "of bilan faqat each ishlatiladi, every of degan shakl yo'q."
+    },
+    {
+      "wrong": "Each of the rooms have got a bathroom.",
+      "right": "Each of the rooms has got a bathroom.",
+      "why": "Ko'plik ot kelgani bilan each birlik fe'l oladi: has got."
+    }
+  ],
+  "words": [
+    { "en": "flat", "uz": "kvartira", "ipa": "/flæt/", "example": "Our flat is on the fourth floor." },
+    { "en": "kitchen", "uz": "oshxona", "ipa": "/ˈkɪtʃɪn/", "example": "The kitchen is small but clean." },
+    { "en": "bathroom", "uz": "hammom", "ipa": "/ˈbɑːθruːm/", "example": "Each room has got a bathroom." },
+    { "en": "bedroom", "uz": "yotoqxona", "ipa": "/ˈbedruːm/", "example": "There are two bedrooms in the flat." },
+    { "en": "living room", "uz": "mehmonxona", "ipa": "/ˈlɪvɪŋ ruːm/", "example": "We watch TV in the living room." },
+    { "en": "sofa", "uz": "divan", "ipa": "/ˈsəʊfə/", "example": "The sofa is next to the window." },
+    { "en": "bed", "uz": "karavot", "ipa": "/bed/", "example": "The bed is very comfortable." },
+    { "en": "wardrobe", "uz": "shkaf", "ipa": "/ˈwɔːdrəʊb/", "example": "There is a big wardrobe in the bedroom." },
+    { "en": "fridge", "uz": "muzlatgich", "ipa": "/frɪdʒ/", "example": "The fridge is in the kitchen." },
+    { "en": "cooker", "uz": "plita", "ipa": "/ˈkʊkə/", "example": "Is there a cooker in the kitchen?" },
+    { "en": "washing machine", "uz": "kir yuvish mashinasi", "ipa": "/ˈwɒʃɪŋ məˌʃiːn/", "example": "Each flat has got a washing machine." },
+    { "en": "furniture", "uz": "mebel", "ipa": "/ˈfɜːnɪtʃə/", "example": "The furniture is new." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 2, "count": 2, "focus": "each / all the ni to'g'ri qo'yish" },
+      { "type": 3, "count": 3, "focus": "each ↔ all the ga o'tkazish va fe'lni o'zgartirish" },
+      { "type": 5, "count": 3, "focus": "«Each rooms have», «All the room has», «all of rooms» xatolarini topish" },
+      { "type": 6, "count": 2, "focus": "o'zbekchadan tarjima: «Har bir xonada televizor bor»" }
+    ],
+    "final": { "type": 6, "task": "Uyingizni tasvirlab yozing: nechta xona, har birida nima bor. each va all the ni ikki martadan ishlating." }
+  },
+  "skill_task": {
+    "kind": "speaking",
+    "task": "Ijaraga beradigan kvartirangizni baland ovozda tasvirlang: xonalar va mebel. each va all the ni aralashtirib ishlating.",
+    "level_hint": "5–6 gap, sekin sur'at"
+  },
+  "review": {
+    "topic": "each / all the, xona va mebel leksikasi",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

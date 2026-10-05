@@ -209,6 +209,13 @@
               "grammar": "from + mamlakat; millat sifatlari",
               "function": "kelib chiqishni aytish",
               "lexis": "mamlakatlar, millatlar"
+            },
+            {
+              "id": "a1-b1-l5",
+              "can_do": "Salomlashasiz, xayrlashasiz va anketani to'ldirasiz",
+              "grammar": "salomlashish iboralari, anketa maydonlari",
+              "function": "tanishish va suhbatni boshlash",
+              "lexis": "salomlashish, vaqt qismlari, anketa"
             }
           ]
         },
@@ -237,6 +244,13 @@
               "grammar": "sifat tartibi: a tall young man",
               "function": "tashqi ko'rinish",
               "lexis": "tashqi ko'rinish sifatlari"
+            },
+            {
+              "id": "a1-b2-l4",
+              "can_do": "Kundalik iboralar bilan javob qaytarasiz va xabar yozasiz",
+              "grammar": "tayyor reaksiya iboralari, xabar janri",
+              "function": "javob qaytarish, tabriklash, xabar yozish",
+              "lexis": "kundalik iboralar, xabar va post"
             }
           ]
         },
@@ -307,6 +321,13 @@
               "grammar": "by bus, on foot",
               "function": "harakatlanish",
               "lexis": "transport"
+            },
+            {
+              "id": "a1-b4-l5",
+              "can_do": "Wh- savollar bilan tafsilot so'raysiz",
+              "grammar": "Wh- savollar: Where do you …? Why …? Who + fe'l",
+              "function": "tafsilot so'rash",
+              "lexis": "bino va inshootlar, sifatlar"
             }
           ]
         },
@@ -370,6 +391,20 @@
               "grammar": "It is + sifat",
               "function": "ob-havo",
               "lexis": "ob-havo, fasllar"
+            },
+            {
+              "id": "a1-b6-l4",
+              "can_do": "Nima yoqishini aytasiz",
+              "grammar": "like / love / hate / enjoy + -ing",
+              "function": "xohish va hisni bildirish",
+              "lexis": "sevimli mashg'ulotlar"
+            },
+            {
+              "id": "a1-b6-l5",
+              "can_do": "Odob bilan iltimos qilasiz va post yozasiz",
+              "grammar": "Can you …? / Could you …? iltimos shakllari",
+              "function": "iltimos va javob berish",
+              "lexis": "iltimos iboralari, post"
             }
           ]
         },
@@ -405,6 +440,55 @@
               "grammar": "Did you ...? I didn't ...",
               "function": "so'rash va inkor",
               "lexis": "dam olish kuni"
+            },
+            {
+              "id": "a1-b7-l5",
+              "can_do": "Kim haqida gapirayotganingizni olmosh bilan ko'rsatasiz",
+              "grammar": "obyekt olmoshlari: me, him, her, us, them",
+              "function": "to'ldiruvchini olmosh bilan almashtirish",
+              "lexis": "vaqt iboralari, uchrashuv"
+            },
+            {
+              "id": "a1-b7-l6",
+              "can_do": "Voqea qachon bo'lganini aytasiz",
+              "grammar": "ago: three days ago, a week ago",
+              "function": "o'tgan voqea vaqtini bildirish",
+              "lexis": "voqea va yangilik so'zlari"
+            },
+            {
+              "id": "a1-b7-l7",
+              "can_do": "Tabriklaysiz, qiziqish bildirasiz va tarjimai hol yozasiz",
+              "grammar": "tabrik iboralari, was born, o'tgan zamon",
+              "function": "tabriklash va biografiya yozish",
+              "lexis": "bayram va voqea so'zlari"
+            }
+          ]
+        },
+        {
+          "id": "a1-b8",
+          "title": "Uy va mehmonxona",
+          "situation": "Turar joy va sayohatda kelishish",
+          "lessons": [
+            {
+              "id": "a1-b8-l1",
+              "can_do": "Mehmonxonada nima borligini so'raysiz",
+              "grammar": "Is there …? / Are there …? savollari, any",
+              "function": "mehmonxonada savol berish",
+              "lexis": "mehmonxona jihozlari"
+            },
+            {
+              "id": "a1-b8-l2",
+              "can_do": "«Har biri» va «hammasi» ni farqlab ishlatasiz",
+              "grammar": "each / all the, each of the",
+              "function": "guruh va alohida narsani ajratish",
+              "lexis": "xonalar va mebel"
+            },
+            {
+              "id": "a1-b8-l3",
+              "can_do": "Muammoni tushuntirasiz va sharh yozasiz",
+              "grammar": "shikoyat iboralari, it doesn't work",
+              "function": "muammoni aytish va baho berish",
+              "lexis": "nosozlik, xizmat, sharh"
             }
           ]
         }

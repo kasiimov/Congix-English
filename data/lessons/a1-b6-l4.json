@@ -1,0 +1,112 @@
+{
+  "id": "a1-b6-l4",
+  "level": "A1",
+  "block": "a1-b6",
+  "title": "Nima yoqadi: like + -ing",
+  "can_do": "Nima yoqishini va nima yoqmasligini aytasiz",
+  "why": "«Men kitob o'qishni yaxshi ko'raman» — eng ko'p aytiladigan gaplardan biri. Ingliz tilida bu yerda fe'l -ing shaklida keladi, va bu birinchi gerundiy: usiz bo'sh vaqt haqida gapirib bo'lmaydi.",
+  "rule": {
+    "title": "like, love, enjoy, hate + fe'lning -ing shakli",
+    "points": [
+      {
+        "text": "like, love, enjoy, hate fe'llaridan keyin ikkinchi fe'l -ing shaklida keladi: I like reading, she loves cooking. O'zbek tilida «o'qishni» deyiladi, ingliz tilida reading.",
+        "examples": [
+          { "en": "I like reading books.", "uz": "Men kitob o'qishni yaxshi ko'raman." },
+          { "en": "She loves cooking.", "uz": "U ovqat pishirishni juda yaxshi ko'radi." }
+        ]
+      },
+      {
+        "text": "Hisni kuchaytirish shkalasi: love — juda yaxshi ko'raman, like — yaxshi ko'raman, don't like — yoqtirmayman, hate — yomon ko'raman.",
+        "examples": [
+          { "en": "I love travelling.", "uz": "Men sayohat qilishni juda yaxshi ko'raman." },
+          { "en": "He hates shopping.", "uz": "U xarid qilishni yomon ko'radi." }
+        ]
+      },
+      {
+        "text": "Enjoy faqat -ing bilan ishlaydi: enjoy reading mumkin, enjoy to read mumkin emas. Bu fe'lni yodlab olish kerak.",
+        "examples": [
+          { "en": "I enjoy dancing.", "uz": "Men raqs tushishdan zavqlanaman." },
+          { "en": "They enjoy fishing.", "uz": "Ular baliq ovi qilishni yaxshi ko'radi." }
+        ]
+      },
+      {
+        "text": "Uchinchi shaxs qoidasi bu yerda ham ishlaydi: he likes, she loves, he hates. -s like fe'liga qo'shiladi, -ing esa o'zgarmaydi.",
+        "examples": [
+          { "en": "He likes gardening.", "uz": "U bog' ishlarini yaxshi ko'radi." },
+          { "en": "My sister likes reading at night.", "uz": "Singlim kechqurun o'qishni yaxshi ko'radi." }
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Fe'l", "Ma'nosi", "Misol"],
+      "rows": [
+        ["love + -ing", "juda yaxshi ko'rmoq", "I love swimming."],
+        ["like + -ing", "yaxshi ko'rmoq", "I like reading."],
+        ["don't like + -ing", "yoqtirmaslik", "I don't like cooking."],
+        ["hate + -ing", "yomon ko'rmoq", "I hate waiting."],
+        ["enjoy + -ing", "zavqlanmoq", "We enjoy travelling."]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "I like read books.",
+      "right": "I like reading books.",
+      "why": "O'zbek tilida «o'qishni» deyiladi, ingliz tilida like fe'lidan keyin ikkinchi fe'l -ing shaklida keladi."
+    },
+    {
+      "wrong": "I am like swimming.",
+      "right": "I like swimming.",
+      "why": "Like — oddiy fe'l, u to be bog'lamasini talab qilmaydi."
+    },
+    {
+      "wrong": "I like very much football.",
+      "right": "I like football very much.",
+      "why": "very much gap oxirida turadi, to'ldiruvchidan oldin emas."
+    },
+    {
+      "wrong": "He like cooking.",
+      "right": "He likes cooking.",
+      "why": "He, she, it bilan fe'lga -s qo'shiladi: likes. -ing bu qoidaga ta'sir qilmaydi."
+    },
+    {
+      "wrong": "I enjoy to read.",
+      "right": "I enjoy reading.",
+      "why": "Enjoy fe'li faqat -ing shaklini oladi, to + fe'l bilan ishlatilmaydi."
+    }
+  ],
+  "words": [
+    { "en": "hobby", "uz": "sevimli mashg'ulot", "ipa": "/ˈhɒbi/", "example": "My hobby is drawing." },
+    { "en": "reading", "uz": "o'qish", "ipa": "/ˈriːdɪŋ/", "example": "I like reading before bed." },
+    { "en": "cooking", "uz": "ovqat pishirish", "ipa": "/ˈkʊkɪŋ/", "example": "Mum loves cooking for guests." },
+    { "en": "travelling", "uz": "sayohat qilish", "ipa": "/ˈtrævlɪŋ/", "example": "We enjoy travelling by train." },
+    { "en": "shopping", "uz": "xarid qilish", "ipa": "/ˈʃɒpɪŋ/", "example": "She hates shopping in the morning." },
+    { "en": "dancing", "uz": "raqs tushish", "ipa": "/ˈdɑːnsɪŋ/", "example": "They like dancing at parties." },
+    { "en": "fishing", "uz": "baliq ovi", "ipa": "/ˈfɪʃɪŋ/", "example": "My father loves fishing." },
+    { "en": "gardening", "uz": "bog' ishlari", "ipa": "/ˈɡɑːdnɪŋ/", "example": "Grandmother likes gardening." },
+    { "en": "love", "uz": "juda yaxshi ko'rmoq", "ipa": "/lʌv/", "example": "I love playing football." },
+    { "en": "hate", "uz": "yomon ko'rmoq", "ipa": "/heɪt/", "example": "He hates getting up early." },
+    { "en": "enjoy", "uz": "zavqlanmoq", "ipa": "/ɪnˈdʒɔɪ/", "example": "I enjoy learning English." },
+    { "en": "free time", "uz": "bo'sh vaqt", "ipa": "/ˌfriː ˈtaɪm/", "example": "In my free time I like reading." }
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      { "type": 2, "count": 2, "focus": "fe'lni -ing shaklida qo'yish: read → reading" },
+      { "type": 3, "count": 3, "focus": "«I read books» → «I like reading books» ko'rinishida qayta yozish" },
+      { "type": 5, "count": 3, "focus": "«like read», «am like», «like very much» xatolarini topish" },
+      { "type": 4, "count": 2, "focus": "o'z sevimli mashg'ulotingiz haqida gap tuzish" },
+      { "type": 6, "count": 2, "focus": "o'zbekchadan tarjima: «U sayohat qilishni yaxshi ko'radi»" }
+    ],
+    "final": { "type": 7, "task": "Bo'sh vaqtingiz haqida oltita gap yozing: ikkitasi love, ikkitasi like, ikkitasi hate bilan." }
+  },
+  "skill_task": {
+    "kind": "speaking",
+    "task": "Uchta sevimli mashg'ulotingiz va bitta yoqmaydigan ishingiz haqida baland ovozda gapiring. Har bir gapda love / like / hate ishlating.",
+    "level_hint": "5–6 gap, sekin sur'at"
+  },
+  "review": {
+    "topic": "like / love / hate / enjoy + -ing",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}
