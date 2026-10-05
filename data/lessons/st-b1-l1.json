@@ -1,0 +1,100 @@
+{
+  "id": "st-b1-l1",
+  "level": "Starter",
+  "block": "st-b1",
+  "title": "Ingliz alifbosini o'qish",
+  "can_do": "Ingliz alifbosidagi 26 ta harfni nomi bilan ayta olasiz",
+  "why": "Ingliz alifbosi o'zbek alifbosiga o'xshab ko'rinadi, lekin harflarning nomi va o'qilishi boshqacha. Bu darsdan keyin siz harflarni tartibi bilan ayta olasiz va har bir harfning nomini bilasiz — bu esa so'zlarni o'qishning asosi.",
+  "rule": {
+    "title": "Ingliz alifbosi — 26 harf, katta va kichik shakl",
+    "points": [
+      {
+        "text": "Ingliz alifbosida 26 ta harf bor. Har bir harfning katta (A) va kichik (a) shakli bor, lekin ikkalasining nomi bir xil: A va a — ikkalasi ham «ei» deb aytiladi.",
+        "examples": [
+          {"en": "A — a", "uz": "katta A — kichik a"},
+          {"en": "B — b", "uz": "katta B — kichik b"}
+        ]
+      },
+      {
+        "text": "Harflar ikki xil turga bo'linadi: unlilar (a, e, i, o, u) va undoshlar (qolgan harflar). Unlilarning nomi o'z tovushiga yaqin, undoshlarning nomi esa ko'pincha uzunroq bo'ladi.",
+        "examples": [
+          {"en": "A, E, I, O, U — unlilar", "uz": "A, E, I, O, U — unlilar"},
+          {"en": "B, C, D — undoshlar", "uz": "B, C, D — undoshlar"}
+        ]
+      },
+      {
+        "text": "Alifbo har doim bir xil tartibda: A dan Z gacha. Harflar nomini shu tartibda eslab qolish kerak, chunki lug'at va ro'yxatlar ham shu tartib bo'yicha tuziladi.",
+        "examples": [
+          {"en": "A, B, C, D, E, F, G", "uz": "A, B, C, D, E, F, G"},
+          {"en": "X, Y, Z", "uz": "X, Y, Z"}
+        ]
+      },
+      {
+        "text": "Harfning nomi va u so'zda beradigan tovushi har doim bir xil emas. Masalan, A nomi /eɪ/, lekin «apple» so'zida u /æ/ deb o'qiladi. Shuning uchun harf nomini bilish bilan birga, uning so'zdagi o'qilishini ham o'rganish kerak.",
+        "examples": [
+          {"en": "A — /eɪ/ (nomi), apple — /æ/ (tovush)", "uz": "A — /eɪ/ (nomi), apple — /æ/ (tovush)"},
+          {"en": "E — /iː/ (nomi), egg — /e/ (tovush)", "uz": "E — /iː/ (nomi), egg — /e/ (tovush)"}
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Katta harf", "Kichik harf", "Nomi (IPA)", "Misol"],
+      "rows": [
+        ["A", "a", "/eɪ/", "apple"],
+        ["B", "b", "/biː/", "book"],
+        ["C", "c", "/siː/", "cat"],
+        ["D", "d", "/diː/", "dog"],
+        ["E", "e", "/iː/", "egg"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "A — «a» deb o'qish, chunki o'zbekcha «a» ga o'xshaydi",
+      "right": "A — nomi /eɪ/, so'zda /æ/ yoki /eɪ/ bo'ladi",
+      "why": "Ingliz harflari o'zbek harflariga o'xshab ko'rinsa ham, ularning nomi va tovushi boshqa. Harfni o'zbekcha tovushga moslab o'qish xato."
+    },
+    {
+      "wrong": "Katta va kichik harfni turli harf deb o'ylash",
+      "right": "A va a — bir harf, shakli boshqacha",
+      "why": "Katta va kichik harf faqat shakli bilan farq qiladi, nomi va o'qilishi bir xil. Gapning boshida va ismlarda katta harf yoziladi."
+    },
+    {
+      "wrong": "Alifboni o'zbekchadagidek tartibsiz eslash",
+      "right": "Alifbo har doim A dan Z gacha bir xil tartibda",
+      "why": "Lug'at va ro'yxatlar shu tartib bo'yicha tuziladi, shuning uchun tartibni bilish kerak."
+    }
+  ],
+  "words": [
+    {"en": "alphabet", "uz": "alfabe", "ipa": "/ˈælfəbɛt/", "example": "This is the English alphabet."},
+    {"en": "letter", "uz": "harf", "ipa": "/ˈlɛtər/", "example": "A is the first letter."},
+    {"en": "capital", "uz": "katta harf", "ipa": "/ˈkæpɪtəl/", "example": "Start names with a capital letter."},
+    {"en": "small", "uz": "kichik harf", "ipa": "/smɔːl/", "example": "Write a in small letters."},
+    {"en": "sound", "uz": "tovush", "ipa": "/saʊnd/", "example": "This letter makes a short sound."},
+    {"en": "name", "uz": "nom", "ipa": "/neɪm/", "example": "What is the name of this letter?"},
+    {"en": "read", "uz": "o'qimoq", "ipa": "/riːd/", "example": "Read the alphabet slowly."},
+    {"en": "write", "uz": "yozmoq", "ipa": "/raɪt/", "example": "Write the letter A."},
+    {"en": "vowel", "uz": "unli harf", "ipa": "/ˈvaʊəl/", "example": "A, E, I, O, U are vowels."},
+    {"en": "consonant", "uz": "undosh harf", "ipa": "/ˈkɒnsənənt/", "example": "B is a consonant."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      {"type": 2, "count": 2, "focus": "harf shaklini (katta/kichik) va nomini moslashtirish"},
+      {"type": 3, "count": 2, "focus": "berilgan harfning kichigini yoki katta shaklini yozish"},
+      {"type": 5, "count": 2, "focus": "o'zbekcha tovushga moslab o'qilgan xato harfni topish"},
+      {"type": 4, "count": 2, "focus": "tanlangan harf bilan qisqa so'z yozish"},
+      {"type": 6, "count": 2, "focus": "o'zbekchadan tarjima: «Ingliz alifbosida 26 ta harf bor»"}
+    ],
+    "final": {"type": 7, "task": "Alifboning birinchi 5 ta harfini nomi bilan ayting va har biri uchun bitta misol so'z yozing."}
+  },
+  "skill_task": {
+    "kind": "listening",
+    "task": "O'quvchi alifboning harflarini ayta boshlaydi. Har bir harfni tinglab, uning katta shaklini yozing.",
+    "level_hint": "sekin nutq, 30 soniya"
+  },
+  "review": {
+    "topic": "alfabe",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}

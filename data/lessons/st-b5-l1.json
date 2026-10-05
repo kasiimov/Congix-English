@@ -1,0 +1,90 @@
+{
+  "id": "st-b5-l1",
+  "level": "Starter",
+  "block": "st-b5",
+  "title": "Nima yoqishini ayta olasiz: I like ...",
+  "can_do": "O'zingizning yoqtirgan narsalaringizni «I like ...» bilan ayta olasiz",
+  "why": "«Yoqtirmoq» ma'nosini bildirish uchun ingliz tilida «I like» ishlatiladi. Bu gap tuzilishi juda ko'p ishlatiladi, shuning uchun uni birinchi o'rganish kerak.",
+  "rule": {
+    "title": "I like + narsa yoki I like + -ing / to + fe'l",
+    "points": [
+      {
+        "text": "«I like» dan keyin ot keladi: I like music — Men musiqani yoqtiraman. «Like» so'zi har doim bir xil shaklda, faqat gap egasiga qarab o'zgaradi: I like, you like, we like, they like.",
+        "examples": [
+          {"en": "I like music.", "uz": "Men musiqani yoqtiraman."},
+          {"en": "We like tea.", "uz": "Biz choyni yoqtiramiz."}
+        ]
+      },
+      {
+        "text": "Fe'l bilan ishlatilganda ikki xil shakl bor: I like + -ing (I like reading) yoki I like to + fe'l (I like to read). Ikkalasi ham to'g'ri va ma'nosi bir xil.",
+        "examples": [
+          {"en": "I like reading.", "uz": "Men o'qishni yoqtiraman."},
+          {"en": "I like to read.", "uz": "Men o'qishni yoqtiraman."}
+        ]
+      },
+      {
+        "text": "«I like» dan keyin oddiy fe'l (to'g'ridan-to'g'ri, «to»siz) kelmaydi. Fe'ldan oldin «to» yoki fe'lga «-ing» qo'shiladi.",
+        "examples": [
+          {"en": "I like to play football.", "uz": "Men futbol o'ynashni yoqtiraman."},
+          {"en": "I like playing football.", "uz": "Men futbol o'ynashni yoqtiraman."}
+        ]
+      }
+    ],
+    "table": {
+      "head": ["Olmosh", "Gap", "Tarjima"],
+      "rows": [
+        ["I", "I like music", "Men musiqani yoqtiraman"],
+        ["You", "You like sports", "Siz sportni yoqtirasiz"],
+        ["We", "We like tea", "Biz choyni yoqtiramiz"],
+        ["They", "They like games", "Ular o'yinlarni yoqtiradi"]
+      ]
+    }
+  },
+  "common_errors": [
+    {
+      "wrong": "I like read",
+      "right": "I like reading yoki I like to read",
+      "why": "«Like» dan keyin fe'l to'g'ridan-to'g'ri kelmaydi: fe'ldan oldin «to» yoki fe'lga «-ing» kerak."
+    },
+    {
+      "wrong": "I like play football",
+      "right": "I like to play football yoki I like playing football",
+      "why": "Xuddi shu qoida: «play» oldidan «to» yoki «-ing» kerak."
+    },
+    {
+      "wrong": "She like music",
+      "right": "She likes music",
+      "why": "«She», «he», «it» bilan «like» ga «s» qo'shiladi. Bu boshqa darsda batafsil o'rganiladi."
+    }
+  ],
+  "words": [
+    {"en": "like", "uz": "yoqtirmoq", "ipa": "/laɪk/", "example": "I like music."},
+    {"en": "love", "uz": "sevmoq", "ipa": "/lʌv/", "example": "I love chocolate."},
+    {"en": "want", "uz": "istamoq", "ipa": "/wɒnt/", "example": "I want coffee."},
+    {"en": "play", "uz": "o'ynamoq", "ipa": "/pleɪ/", "example": "I play football."},
+    {"en": "read", "uz": "o'qimoq", "ipa": "/riːd/", "example": "I read a book."},
+    {"en": "watch", "uz": "ko'rmoq, tomosha qilmoq", "ipa": "/wɒtʃ/", "example": "I watch TV."},
+    {"en": "swim", "uz": "suzmoq", "ipa": "/swɪm/", "example": "I like swimming."},
+    {"en": "dance", "uz": "raqsga tushmoq", "ipa": "/dɑːns/", "example": "I love dancing."}
+  ],
+  "practice_spec": {
+    "note": "Mashqlarni AI shu spetsifikatsiya bo'yicha yaratadi. Tur raqamlari — docs/mashqlar.md dagi shkala.",
+    "items": [
+      {"type": 2, "count": 2, "focus": "fe'l shaklini tanlash: I like to ... yoki I like -ing"},
+      {"type": 3, "count": 2, "focus": "I/you/we/they bilan like shaklini yozish"},
+      {"type": 5, "count": 2, "focus": "xato gapni topish: I like + fe'l (to'g'ridan-to'g'ri) — noto'g'ri"},
+      {"type": 4, "count": 2, "focus": "o'zingiz yoqtirgan narsa haqida gap yozish"},
+      {"type": 6, "count": 2, "focus": "tarjima: «Men futbol o'ynashni yoqtiraman» — I like to play football"}
+    ],
+    "final": {"type": 7, "task": "O'zingiz yoqtirgan 3 ta narsa haqida 3 gap yozing: I like ..., I like ..., I like ..."}
+  },
+  "skill_task": {
+    "kind": "listening",
+    "task": "O'quvchi bir nechta gapni tinglaydi va yoqtirgan narsasini «I like ...» yoki «I love ...» bilan yozadi.",
+    "level_hint": "sekin nutq, 30 soniya"
+  },
+  "review": {
+    "topic": "I like + -ing / to + fe'l",
+    "schedule_days": [3, 7, 21, 60]
+  }
+}
